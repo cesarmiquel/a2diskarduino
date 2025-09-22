@@ -30,4 +30,4 @@ To edit: https://circuitcanvas.com/p/3vo5y2um8k7dad4r851?canvas=layout
 
 This is the pinout I use as reference for the Arduino Nano
 
-![Pinout](/img/arduino-pinout.png)
+![Pinout](/img/arduino-pinout.jpeg)
