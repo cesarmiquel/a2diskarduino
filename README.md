@@ -25,6 +25,6 @@ This project allows you to hook an old Apple //c (with ROM 255 which does not ha
 
 The following diagram shows you how to hook up the circuit.
 
-![Circuit diagram](/img/a2diskarduino-layout.svg)
+![Circuit diagram](/img/a2diskarduino-layout.png)
 
 To edit: https://circuitcanvas.com/p/3vo5y2um8k7dad4r851?canvas=layout
