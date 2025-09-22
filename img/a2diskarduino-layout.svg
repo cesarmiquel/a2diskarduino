@@ -1,0 +1,1459 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg-layout" width="525" height="394.333251953125" viewBox="0 0 525 394.333251953125"><defs><marker id="arrowHead-layout" viewBox="0 0 10 10" markerWidth="6" markerHeight="6" refX="5" refY="5" orient="auto" fill="#404660"><path d="M 0 0 L 10 5 L 0 10 z"/></marker></defs><style type="text/css">
+#svg-layout text {
+  font-weight: 400;
+  font-family: "Nunito", sans-serif;
+}
+
+#svg-layout .wireGroup {
+  stroke: #2d3142;
+  stroke-width: 2;
+  stroke-linecap: round;
+  fill: none;
+}
+
+#svg-layout .arrowGroup path {
+  stroke: #404660;
+  stroke-width: 1;
+  stroke-linecap: round;
+  fill: none;
+}
+
+#svg-layout .wireGroup.wire-color-metal path,
+#svg-layout .arrowGroup.arrow-color-metal path {
+  stroke: #7b7d86;
+}
+#svg-layout .wireGroup.wire-color-black path,
+#svg-layout .arrowGroup.arrow-color-black path {
+  stroke: #2d3142;
+}
+#svg-layout .wireGroup.wire-color-red path,
+#svg-layout .arrowGroup.arrow-color-red path {
+  stroke: #e86b59;
+}
+#svg-layout .wireGroup.wire-color-white path,
+#svg-layout .arrowGroup.arrow-color-white path {
+  stroke: #f0f0f0;
+}
+#svg-layout .wireGroup.wire-color-yellow path,
+#svg-layout .arrowGroup.arrow-color-yellow path {
+  stroke: #fbdd71;
+}
+#svg-layout .wireGroup.wire-color-orange path,
+#svg-layout .arrowGroup.arrow-color-orange path {
+  stroke: #f7a541;
+}
+#svg-layout .wireGroup.wire-color-brown path,
+#svg-layout .arrowGroup.arrow-color-brown path {
+  stroke: #bf6030;
+}
+#svg-layout .wireGroup.wire-color-gray path,
+#svg-layout .arrowGroup.arrow-color-gray path {
+  stroke: #a4a7b3;
+}
+#svg-layout .wireGroup.wire-color-green path,
+#svg-layout .arrowGroup.arrow-color-green path {
+  stroke: #67b262;
+}
+#svg-layout .wireGroup.wire-color-purple path,
+#svg-layout .arrowGroup.arrow-color-purple path {
+  stroke: #614d99;
+}
+#svg-layout .wireGroup.wire-color-blue path,
+#svg-layout .arrowGroup.arrow-color-blue path {
+  stroke: #2297bf;
+}
+
+</style><g class="circuit-contents layout" transform="translate(-2195, -2040)"><g data-source-id="5204426ecb5ce3393e9b647ff804f53c" data-source-name="Breadboard Full (aligned)" data-variant-group="breadboard_full" class="keep-bottom no-wire-dragging component" data-width="157.5" data-height="490" id="part_0" transform="translate(2368.75,2003.75) scale(1,1) rotate(90,78.75,245)"><rect class="helper-box" x="2.5" y="2.5" width="152.5" height="485" fill="none"/>
+ <metadata>
+  <keepbottom>true</keepbottom>
+ </metadata>
+ <rect x="2.5" y="2.5" width="152.5" height="485" rx="2" ry="2" fill="#e7e8eb"/>
+ <g fill="#2d3142" stroke="#a4a7b3" stroke-width=".75">
+  <circle class="connection_point" cx="12.5" cy="27.5" r="1.625" data-pin-name="pin1"/>
+  <circle class="connection_point" cx="20" cy="27.5" r="1.625" data-pin-name="pin2"/>
+  <circle class="connection_point" cx="12.5" cy="35" r="1.625" data-pin-name="pin3"/>
+  <circle class="connection_point" cx="20" cy="35" r="1.625" data-pin-name="pin4"/>
+  <circle class="connection_point" cx="12.5" cy="42.5" r="1.625" data-pin-name="pin5"/>
+  <circle class="connection_point" cx="20" cy="42.5" r="1.625" data-pin-name="pin6"/>
+  <circle class="connection_point" cx="12.5" cy="50" r="1.625" data-pin-name="pin7"/>
+  <circle class="connection_point" cx="20" cy="50" r="1.625" data-pin-name="pin8"/>
+  <circle class="connection_point" cx="12.5" cy="57.5" r="1.625" data-pin-name="pin9"/>
+  <circle class="connection_point" cx="20" cy="57.5" r="1.625" data-pin-name="pin10"/>
+  <circle class="connection_point" cx="12.5" cy="72.5" r="1.625" data-pin-name="pin11"/>
+  <circle class="connection_point" cx="20" cy="72.5" r="1.625" data-pin-name="pin12"/>
+  <circle class="connection_point" cx="12.5" cy="80" r="1.625" data-pin-name="pin13"/>
+  <circle class="connection_point" cx="20" cy="80" r="1.625" data-pin-name="pin14"/>
+  <circle class="connection_point" cx="12.5" cy="87.5" r="1.625" data-pin-name="pin15"/>
+  <circle class="connection_point" cx="20" cy="87.5" r="1.625" data-pin-name="pin16"/>
+  <circle class="connection_point" cx="12.5" cy="95" r="1.625" data-pin-name="pin17"/>
+  <circle class="connection_point" cx="20" cy="95" r="1.625" data-pin-name="pin18"/>
+  <circle class="connection_point" cx="12.5" cy="102.5" r="1.625" data-pin-name="pin19"/>
+  <circle class="connection_point" cx="20" cy="102.5" r="1.625" data-pin-name="pin20"/>
+  <circle class="connection_point" cx="12.5" cy="117.5" r="1.625" data-pin-name="pin21"/>
+  <circle class="connection_point" cx="20" cy="117.5" r="1.625" data-pin-name="pin22"/>
+  <circle class="connection_point" cx="12.5" cy="125" r="1.625" data-pin-name="pin23"/>
+  <circle class="connection_point" cx="20" cy="125" r="1.625" data-pin-name="pin24"/>
+  <circle class="connection_point" cx="12.5" cy="132.5" r="1.625" data-pin-name="pin25"/>
+  <circle class="connection_point" cx="20" cy="132.5" r="1.625" data-pin-name="pin26"/>
+  <circle class="connection_point" cx="12.5" cy="140" r="1.625" data-pin-name="pin27"/>
+  <circle class="connection_point" cx="20" cy="140" r="1.625" data-pin-name="pin28"/>
+  <circle class="connection_point" cx="12.5" cy="147.5" r="1.625" data-pin-name="pin29"/>
+  <circle class="connection_point" cx="20" cy="147.5" r="1.625" data-pin-name="pin30"/>
+  <circle class="connection_point" cx="12.5" cy="162.5" r="1.625" data-pin-name="pin31"/>
+  <circle class="connection_point" cx="20" cy="162.5" r="1.625" data-pin-name="pin32"/>
+  <circle class="connection_point" cx="12.5" cy="170" r="1.625" data-pin-name="pin33"/>
+  <circle class="connection_point" cx="20" cy="170" r="1.625" data-pin-name="pin34"/>
+  <circle class="connection_point" cx="12.5" cy="177.5" r="1.625" data-pin-name="pin35"/>
+  <circle class="connection_point" cx="20" cy="177.5" r="1.625" data-pin-name="pin36"/>
+  <circle class="connection_point" cx="12.5" cy="185" r="1.625" data-pin-name="pin37"/>
+  <circle class="connection_point" cx="20" cy="185" r="1.625" data-pin-name="pin38"/>
+  <circle class="connection_point" cx="12.5" cy="192.5" r="1.625" data-pin-name="pin39"/>
+  <circle class="connection_point" cx="20" cy="192.5" r="1.625" data-pin-name="pin40"/>
+  <circle class="connection_point" cx="12.5" cy="207.5" r="1.625" data-pin-name="pin41"/>
+  <circle class="connection_point" cx="20" cy="207.5" r="1.625" data-pin-name="pin42"/>
+  <circle class="connection_point" cx="12.5" cy="215" r="1.625" data-pin-name="pin43"/>
+  <circle class="connection_point" cx="20" cy="215" r="1.625" data-pin-name="pin44"/>
+  <circle class="connection_point" cx="12.5" cy="222.5" r="1.625" data-pin-name="pin45"/>
+  <circle class="connection_point" cx="20" cy="222.5" r="1.625" data-pin-name="pin46"/>
+  <circle class="connection_point" cx="12.5" cy="230" r="1.625" data-pin-name="pin47"/>
+  <circle class="connection_point" cx="20" cy="230" r="1.625" data-pin-name="pin48"/>
+  <circle class="connection_point" cx="12.5" cy="237.5" r="1.625" data-pin-name="pin49"/>
+  <circle class="connection_point" cx="20" cy="237.5" r="1.625" data-pin-name="pin50"/>
+  <circle class="connection_point" cx="12.5" cy="252.5" r="1.625" data-pin-name="pin51"/>
+  <circle class="connection_point" cx="20" cy="252.5" r="1.625" data-pin-name="pin52"/>
+  <circle class="connection_point" cx="12.5" cy="260" r="1.625" data-pin-name="pin53"/>
+  <circle class="connection_point" cx="20" cy="260" r="1.625" data-pin-name="pin54"/>
+  <circle class="connection_point" cx="12.5" cy="267.5" r="1.625" data-pin-name="pin55"/>
+  <circle class="connection_point" cx="20" cy="267.5" r="1.625" data-pin-name="pin56"/>
+  <circle class="connection_point" cx="12.5" cy="275" r="1.625" data-pin-name="pin57"/>
+  <circle class="connection_point" cx="20" cy="275" r="1.625" data-pin-name="pin58"/>
+  <circle class="connection_point" cx="12.5" cy="282.5" r="1.625" data-pin-name="pin59"/>
+  <circle class="connection_point" cx="20" cy="282.5" r="1.625" data-pin-name="pin60"/>
+  <circle class="connection_point" cx="12.497" cy="297.5" r="1.625" data-pin-name="pin61"/>
+  <circle class="connection_point" cx="19.997" cy="297.5" r="1.625" data-pin-name="pin62"/>
+  <circle class="connection_point" cx="12.497" cy="305" r="1.625" data-pin-name="pin63"/>
+  <circle class="connection_point" cx="19.997" cy="305" r="1.625" data-pin-name="pin64"/>
+  <circle class="connection_point" cx="12.497" cy="312.5" r="1.625" data-pin-name="pin65"/>
+  <circle class="connection_point" cx="19.997" cy="312.5" r="1.625" data-pin-name="pin66"/>
+  <circle class="connection_point" cx="12.497" cy="320" r="1.625" data-pin-name="pin67"/>
+  <circle class="connection_point" cx="19.997" cy="320" r="1.625" data-pin-name="pin68"/>
+  <circle class="connection_point" cx="12.497" cy="327.5" r="1.625" data-pin-name="pin69"/>
+  <circle class="connection_point" cx="19.997" cy="327.5" r="1.625" data-pin-name="pin70"/>
+  <circle class="connection_point" cx="12.497" cy="342.5" r="1.625" data-pin-name="pin71"/>
+  <circle class="connection_point" cx="19.997" cy="342.5" r="1.625" data-pin-name="pin72"/>
+  <circle class="connection_point" cx="12.497" cy="350" r="1.625" data-pin-name="pin73"/>
+  <circle class="connection_point" cx="19.997" cy="350" r="1.625" data-pin-name="pin74"/>
+  <circle class="connection_point" cx="12.497" cy="357.5" r="1.625" data-pin-name="pin75"/>
+  <circle class="connection_point" cx="19.997" cy="357.5" r="1.625" data-pin-name="pin76"/>
+  <circle class="connection_point" cx="12.497" cy="365" r="1.625" data-pin-name="pin77"/>
+  <circle class="connection_point" cx="19.997" cy="365" r="1.625" data-pin-name="pin78"/>
+  <circle class="connection_point" cx="12.497" cy="372.5" r="1.625" data-pin-name="pin79"/>
+  <circle class="connection_point" cx="19.997" cy="372.5" r="1.625" data-pin-name="pin80"/>
+  <circle class="connection_point" cx="12.497" cy="387.5" r="1.625" data-pin-name="pin81"/>
+  <circle class="connection_point" cx="19.997" cy="387.5" r="1.625" data-pin-name="pin82"/>
+  <circle class="connection_point" cx="12.497" cy="395" r="1.625" data-pin-name="pin83"/>
+  <circle class="connection_point" cx="19.997" cy="395" r="1.625" data-pin-name="pin84"/>
+  <circle class="connection_point" cx="12.497" cy="402.5" r="1.625" data-pin-name="pin85"/>
+  <circle class="connection_point" cx="19.997" cy="402.5" r="1.625" data-pin-name="pin86"/>
+  <circle class="connection_point" cx="12.497" cy="410" r="1.625" data-pin-name="pin87"/>
+  <circle class="connection_point" cx="19.997" cy="410" r="1.625" data-pin-name="pin88"/>
+  <circle class="connection_point" cx="12.497" cy="417.5" r="1.625" data-pin-name="pin89"/>
+  <circle class="connection_point" cx="19.997" cy="417.5" r="1.625" data-pin-name="pin90"/>
+  <circle class="connection_point" cx="12.497" cy="432.5" r="1.625" data-pin-name="pin91"/>
+  <circle class="connection_point" cx="19.997" cy="432.5" r="1.625" data-pin-name="pin92"/>
+  <circle class="connection_point" cx="12.497" cy="440" r="1.625" data-pin-name="pin93"/>
+  <circle class="connection_point" cx="19.997" cy="440" r="1.625" data-pin-name="pin94"/>
+  <circle class="connection_point" cx="12.497" cy="447.5" r="1.625" data-pin-name="pin95"/>
+  <circle class="connection_point" cx="19.997" cy="447.5" r="1.625" data-pin-name="pin96"/>
+  <circle class="connection_point" cx="12.497" cy="455" r="1.625" data-pin-name="pin97"/>
+  <circle class="connection_point" cx="19.997" cy="455" r="1.625" data-pin-name="pin98"/>
+  <circle class="connection_point" cx="12.497" cy="462.5" r="1.625" data-pin-name="pin99"/>
+  <circle class="connection_point" cx="19.997" cy="462.5" r="1.625" data-pin-name="pin100"/>
+  <circle class="connection_point" cx="137.5" cy="27.5" r="1.625" data-pin-name="pin101"/>
+  <circle class="connection_point" cx="145" cy="27.5" r="1.625" data-pin-name="pin102"/>
+  <circle class="connection_point" cx="137.5" cy="35" r="1.625" data-pin-name="pin103"/>
+  <circle class="connection_point" cx="145" cy="35" r="1.625" data-pin-name="pin104"/>
+  <circle class="connection_point" cx="137.5" cy="42.5" r="1.625" data-pin-name="pin105"/>
+  <circle class="connection_point" cx="145" cy="42.5" r="1.625" data-pin-name="pin106"/>
+  <circle class="connection_point" cx="137.5" cy="50" r="1.625" data-pin-name="pin107"/>
+  <circle class="connection_point" cx="145" cy="50" r="1.625" data-pin-name="pin108"/>
+  <circle class="connection_point" cx="137.5" cy="57.5" r="1.625" data-pin-name="pin109"/>
+  <circle class="connection_point" cx="145" cy="57.5" r="1.625" data-pin-name="pin110"/>
+  <circle class="connection_point" cx="137.5" cy="72.5" r="1.625" data-pin-name="pin111"/>
+  <circle class="connection_point" cx="145" cy="72.5" r="1.625" data-pin-name="pin112"/>
+  <circle class="connection_point" cx="137.5" cy="80" r="1.625" data-pin-name="pin113"/>
+  <circle class="connection_point" cx="145" cy="80" r="1.625" data-pin-name="pin114"/>
+  <circle class="connection_point" cx="137.5" cy="87.5" r="1.625" data-pin-name="pin115"/>
+  <circle class="connection_point" cx="145" cy="87.5" r="1.625" data-pin-name="pin116"/>
+  <circle class="connection_point" cx="137.5" cy="95" r="1.625" data-pin-name="pin117"/>
+  <circle class="connection_point" cx="145" cy="95" r="1.625" data-pin-name="pin118"/>
+  <circle class="connection_point" cx="137.5" cy="102.5" r="1.625" data-pin-name="pin119"/>
+  <circle class="connection_point" cx="145" cy="102.5" r="1.625" data-pin-name="pin120"/>
+  <circle class="connection_point" cx="137.5" cy="117.5" r="1.625" data-pin-name="pin121"/>
+  <circle class="connection_point" cx="145" cy="117.5" r="1.625" data-pin-name="pin122"/>
+  <circle class="connection_point" cx="137.5" cy="125" r="1.625" data-pin-name="pin123"/>
+  <circle class="connection_point" cx="145" cy="125" r="1.625" data-pin-name="pin124"/>
+  <circle class="connection_point" cx="137.5" cy="132.5" r="1.625" data-pin-name="pin125"/>
+  <circle class="connection_point" cx="145" cy="132.5" r="1.625" data-pin-name="pin126"/>
+  <circle class="connection_point" cx="137.5" cy="140" r="1.625" data-pin-name="pin127"/>
+  <circle class="connection_point" cx="145" cy="140" r="1.625" data-pin-name="pin128"/>
+  <circle class="connection_point" cx="137.5" cy="147.5" r="1.625" data-pin-name="pin129"/>
+  <circle class="connection_point" cx="145" cy="147.5" r="1.625" data-pin-name="pin130"/>
+  <circle class="connection_point" cx="137.5" cy="162.5" r="1.625" data-pin-name="pin131"/>
+  <circle class="connection_point" cx="145" cy="162.5" r="1.625" data-pin-name="pin132"/>
+  <circle class="connection_point" cx="137.5" cy="170" r="1.625" data-pin-name="pin133"/>
+  <circle class="connection_point" cx="145" cy="170" r="1.625" data-pin-name="pin134"/>
+  <circle class="connection_point" cx="137.5" cy="177.5" r="1.625" data-pin-name="pin135"/>
+  <circle class="connection_point" cx="145" cy="177.5" r="1.625" data-pin-name="pin136"/>
+  <circle class="connection_point" cx="137.5" cy="185" r="1.625" data-pin-name="pin137"/>
+  <circle class="connection_point" cx="145" cy="185" r="1.625" data-pin-name="pin138"/>
+  <circle class="connection_point" cx="137.5" cy="192.5" r="1.625" data-pin-name="pin139"/>
+  <circle class="connection_point" cx="145" cy="192.5" r="1.625" data-pin-name="pin140"/>
+  <circle class="connection_point" cx="137.5" cy="207.5" r="1.625" data-pin-name="pin141"/>
+  <circle class="connection_point" cx="145" cy="207.5" r="1.625" data-pin-name="pin142"/>
+  <circle class="connection_point" cx="137.5" cy="215" r="1.625" data-pin-name="pin143"/>
+  <circle class="connection_point" cx="145" cy="215" r="1.625" data-pin-name="pin144"/>
+  <circle class="connection_point" cx="137.5" cy="222.5" r="1.625" data-pin-name="pin145"/>
+  <circle class="connection_point" cx="145" cy="222.5" r="1.625" data-pin-name="pin146"/>
+  <circle class="connection_point" cx="137.5" cy="230" r="1.625" data-pin-name="pin147"/>
+  <circle class="connection_point" cx="145" cy="230" r="1.625" data-pin-name="pin148"/>
+  <circle class="connection_point" cx="137.5" cy="237.5" r="1.625" data-pin-name="pin149"/>
+  <circle class="connection_point" cx="145" cy="237.5" r="1.625" data-pin-name="pin150"/>
+  <circle class="connection_point" cx="137.5" cy="252.5" r="1.625" data-pin-name="pin151"/>
+  <circle class="connection_point" cx="145" cy="252.5" r="1.625" data-pin-name="pin152"/>
+  <circle class="connection_point" cx="137.5" cy="260" r="1.625" data-pin-name="pin153"/>
+  <circle class="connection_point" cx="145" cy="260" r="1.625" data-pin-name="pin154"/>
+  <circle class="connection_point" cx="137.5" cy="267.5" r="1.625" data-pin-name="pin155"/>
+  <circle class="connection_point" cx="145" cy="267.5" r="1.625" data-pin-name="pin156"/>
+  <circle class="connection_point" cx="137.5" cy="275" r="1.625" data-pin-name="pin157"/>
+  <circle class="connection_point" cx="145" cy="275" r="1.625" data-pin-name="pin158"/>
+  <circle class="connection_point" cx="137.5" cy="282.5" r="1.625" data-pin-name="pin159"/>
+  <circle class="connection_point" cx="145" cy="282.5" r="1.625" data-pin-name="pin160"/>
+  <circle class="connection_point" cx="137.49" cy="297.5" r="1.625" data-pin-name="pin161"/>
+  <circle class="connection_point" cx="144.99" cy="297.5" r="1.625" data-pin-name="pin162"/>
+  <circle class="connection_point" cx="137.49" cy="305" r="1.625" data-pin-name="pin163"/>
+  <circle class="connection_point" cx="144.99" cy="305" r="1.625" data-pin-name="pin164"/>
+  <circle class="connection_point" cx="137.49" cy="312.5" r="1.625" data-pin-name="pin165"/>
+  <circle class="connection_point" cx="144.99" cy="312.5" r="1.625" data-pin-name="pin166"/>
+  <circle class="connection_point" cx="137.49" cy="320" r="1.625" data-pin-name="pin167"/>
+  <circle class="connection_point" cx="144.99" cy="320" r="1.625" data-pin-name="pin168"/>
+  <circle class="connection_point" cx="137.49" cy="327.5" r="1.625" data-pin-name="pin169"/>
+  <circle class="connection_point" cx="144.99" cy="327.5" r="1.625" data-pin-name="pin170"/>
+  <circle class="connection_point" cx="137.49" cy="342.5" r="1.625" data-pin-name="pin171"/>
+  <circle class="connection_point" cx="144.99" cy="342.5" r="1.625" data-pin-name="pin172"/>
+  <circle class="connection_point" cx="137.49" cy="350" r="1.625" data-pin-name="pin173"/>
+  <circle class="connection_point" cx="144.99" cy="350" r="1.625" data-pin-name="pin174"/>
+  <circle class="connection_point" cx="137.49" cy="357.5" r="1.625" data-pin-name="pin175"/>
+  <circle class="connection_point" cx="144.99" cy="357.5" r="1.625" data-pin-name="pin176"/>
+  <circle class="connection_point" cx="137.49" cy="365" r="1.625" data-pin-name="pin177"/>
+  <circle class="connection_point" cx="144.99" cy="365" r="1.625" data-pin-name="pin178"/>
+  <circle class="connection_point" cx="137.49" cy="372.5" r="1.625" data-pin-name="pin179"/>
+  <circle class="connection_point" cx="144.99" cy="372.5" r="1.625" data-pin-name="pin180"/>
+  <circle class="connection_point" cx="137.49" cy="387.5" r="1.625" data-pin-name="pin181"/>
+  <circle class="connection_point" cx="144.99" cy="387.5" r="1.625" data-pin-name="pin182"/>
+  <circle class="connection_point" cx="137.49" cy="395" r="1.625" data-pin-name="pin183"/>
+  <circle class="connection_point" cx="144.99" cy="395" r="1.625" data-pin-name="pin184"/>
+  <circle class="connection_point" cx="137.49" cy="402.5" r="1.625" data-pin-name="pin185"/>
+  <circle class="connection_point" cx="144.99" cy="402.5" r="1.625" data-pin-name="pin186"/>
+  <circle class="connection_point" cx="137.49" cy="410" r="1.625" data-pin-name="pin187"/>
+  <circle class="connection_point" cx="144.99" cy="410" r="1.625" data-pin-name="pin188"/>
+  <circle class="connection_point" cx="137.49" cy="417.5" r="1.625" data-pin-name="pin189"/>
+  <circle class="connection_point" cx="144.99" cy="417.5" r="1.625" data-pin-name="pin190"/>
+  <circle class="connection_point" cx="137.49" cy="432.5" r="1.625" data-pin-name="pin191"/>
+  <circle class="connection_point" cx="144.99" cy="432.5" r="1.625" data-pin-name="pin192"/>
+  <circle class="connection_point" cx="137.49" cy="440" r="1.625" data-pin-name="pin193"/>
+  <circle class="connection_point" cx="144.99" cy="440" r="1.625" data-pin-name="pin194"/>
+  <circle class="connection_point" cx="137.49" cy="447.5" r="1.625" data-pin-name="pin195"/>
+  <circle class="connection_point" cx="144.99" cy="447.5" r="1.625" data-pin-name="pin196"/>
+  <circle class="connection_point" cx="137.49" cy="455" r="1.625" data-pin-name="pin197"/>
+  <circle class="connection_point" cx="144.99" cy="455" r="1.625" data-pin-name="pin198"/>
+  <circle class="connection_point" cx="137.49" cy="462.5" r="1.625" data-pin-name="pin199"/>
+  <circle class="connection_point" cx="144.99" cy="462.5" r="1.625" data-pin-name="pin200"/>
+  <circle class="connection_point" cx="52.5" cy="12.5" r="1.625" data-pin-name="pin201"/>
+  <circle class="connection_point" cx="60" cy="12.5" r="1.625" data-pin-name="pin202"/>
+  <circle class="connection_point" cx="37.5" cy="12.5" r="1.625" data-pin-name="pin203"/>
+  <circle class="connection_point" cx="45" cy="12.5" r="1.625" data-pin-name="pin204"/>
+  <circle class="connection_point" cx="37.5" cy="20" r="1.625" data-pin-name="pin205"/>
+  <circle class="connection_point" cx="45" cy="20" r="1.625" data-pin-name="pin206"/>
+  <circle class="connection_point" cx="37.5" cy="27.5" r="1.625" data-pin-name="pin207"/>
+  <circle class="connection_point" cx="45" cy="27.5" r="1.625" data-pin-name="pin208"/>
+  <circle class="connection_point" cx="37.5" cy="35" r="1.625" data-pin-name="pin209"/>
+  <circle class="connection_point" cx="45" cy="35" r="1.625" data-pin-name="pin210"/>
+  <circle class="connection_point" cx="37.5" cy="42.5" r="1.625" data-pin-name="pin211"/>
+  <circle class="connection_point" cx="45" cy="42.5" r="1.625" data-pin-name="pin212"/>
+  <circle class="connection_point" cx="37.5" cy="50" r="1.625" data-pin-name="pin213"/>
+  <circle class="connection_point" cx="45" cy="50" r="1.625" data-pin-name="pin214"/>
+  <circle class="connection_point" cx="37.5" cy="57.5" r="1.625" data-pin-name="pin215"/>
+  <circle class="connection_point" cx="45" cy="57.5" r="1.625" data-pin-name="pin216"/>
+  <circle class="connection_point" cx="37.5" cy="65" r="1.625" data-pin-name="pin217"/>
+  <circle class="connection_point" cx="45" cy="65" r="1.625" data-pin-name="pin218"/>
+  <circle class="connection_point" cx="37.5" cy="72.5" r="1.625" data-pin-name="pin219"/>
+  <circle class="connection_point" cx="45" cy="72.5" r="1.625" data-pin-name="pin220"/>
+  <circle class="connection_point" cx="37.5" cy="80" r="1.625" data-pin-name="pin221"/>
+  <circle class="connection_point" cx="45" cy="80" r="1.625" data-pin-name="pin222"/>
+  <circle class="connection_point" cx="37.5" cy="87.5" r="1.625" data-pin-name="pin223"/>
+  <circle class="connection_point" cx="45" cy="87.5" r="1.625" data-pin-name="pin224"/>
+  <circle class="connection_point" cx="37.5" cy="95" r="1.625" data-pin-name="pin225"/>
+  <circle class="connection_point" cx="45" cy="95" r="1.625" data-pin-name="pin226"/>
+  <circle class="connection_point" cx="37.5" cy="102.5" r="1.625" data-pin-name="pin227"/>
+  <circle class="connection_point" cx="45" cy="102.5" r="1.625" data-pin-name="pin228"/>
+  <circle class="connection_point" cx="37.5" cy="110" r="1.625" data-pin-name="pin229"/>
+  <circle class="connection_point" cx="45" cy="110" r="1.625" data-pin-name="pin230"/>
+  <circle class="connection_point" cx="37.5" cy="117.5" r="1.625" data-pin-name="pin231"/>
+  <circle class="connection_point" cx="45" cy="117.5" r="1.625" data-pin-name="pin232"/>
+  <circle class="connection_point" cx="37.5" cy="125" r="1.625" data-pin-name="pin233"/>
+  <circle class="connection_point" cx="45" cy="125" r="1.625" data-pin-name="pin234"/>
+  <circle class="connection_point" cx="37.5" cy="132.5" r="1.625" data-pin-name="pin235"/>
+  <circle class="connection_point" cx="45" cy="132.5" r="1.625" data-pin-name="pin236"/>
+  <circle class="connection_point" cx="37.5" cy="140" r="1.625" data-pin-name="pin237"/>
+  <circle class="connection_point" cx="45" cy="140" r="1.625" data-pin-name="pin238"/>
+  <circle class="connection_point" cx="37.5" cy="147.5" r="1.625" data-pin-name="pin239"/>
+  <circle class="connection_point" cx="45" cy="147.5" r="1.625" data-pin-name="pin240"/>
+  <circle class="connection_point" cx="37.5" cy="155" r="1.625" data-pin-name="pin241"/>
+  <circle class="connection_point" cx="45" cy="155" r="1.625" data-pin-name="pin242"/>
+  <circle class="connection_point" cx="37.5" cy="162.5" r="1.625" data-pin-name="pin243"/>
+  <circle class="connection_point" cx="45" cy="162.5" r="1.625" data-pin-name="pin244"/>
+  <circle class="connection_point" cx="37.5" cy="170" r="1.625" data-pin-name="pin245"/>
+  <circle class="connection_point" cx="45" cy="170" r="1.625" data-pin-name="pin246"/>
+  <circle class="connection_point" cx="37.5" cy="177.5" r="1.625" data-pin-name="pin247"/>
+  <circle class="connection_point" cx="45" cy="177.5" r="1.625" data-pin-name="pin248"/>
+  <circle class="connection_point" cx="37.5" cy="185" r="1.625" data-pin-name="pin249"/>
+  <circle class="connection_point" cx="45" cy="185" r="1.625" data-pin-name="pin250"/>
+  <circle class="connection_point" cx="37.5" cy="192.5" r="1.625" data-pin-name="pin251"/>
+  <circle class="connection_point" cx="45" cy="192.5" r="1.625" data-pin-name="pin252"/>
+  <circle class="connection_point" cx="37.5" cy="200" r="1.625" data-pin-name="pin253"/>
+  <circle class="connection_point" cx="45" cy="200" r="1.625" data-pin-name="pin254"/>
+  <circle class="connection_point" cx="37.5" cy="207.5" r="1.625" data-pin-name="pin255"/>
+  <circle class="connection_point" cx="45" cy="207.5" r="1.625" data-pin-name="pin256"/>
+  <circle class="connection_point" cx="37.5" cy="215" r="1.625" data-pin-name="pin257"/>
+  <circle class="connection_point" cx="45" cy="215" r="1.625" data-pin-name="pin258"/>
+  <circle class="connection_point" cx="37.5" cy="222.5" r="1.625" data-pin-name="pin259"/>
+  <circle class="connection_point" cx="45" cy="222.5" r="1.625" data-pin-name="pin260"/>
+  <circle class="connection_point" cx="67.5" cy="12.5" r="1.625" data-pin-name="pin261"/>
+  <circle class="connection_point" cx="52.5" cy="20" r="1.625" data-pin-name="pin262"/>
+  <circle class="connection_point" cx="60" cy="20" r="1.625" data-pin-name="pin263"/>
+  <circle class="connection_point" cx="67.5" cy="20" r="1.625" data-pin-name="pin264"/>
+  <circle class="connection_point" cx="52.5" cy="27.5" r="1.625" data-pin-name="pin265"/>
+  <circle class="connection_point" cx="60" cy="27.5" r="1.625" data-pin-name="pin266"/>
+  <circle class="connection_point" cx="67.5" cy="27.5" r="1.625" data-pin-name="pin267"/>
+  <circle class="connection_point" cx="52.5" cy="35" r="1.625" data-pin-name="pin268"/>
+  <circle class="connection_point" cx="60" cy="35" r="1.625" data-pin-name="pin269"/>
+  <circle class="connection_point" cx="67.5" cy="35" r="1.625" data-pin-name="pin270"/>
+  <circle class="connection_point" cx="52.5" cy="42.5" r="1.625" data-pin-name="pin271"/>
+  <circle class="connection_point" cx="60" cy="42.5" r="1.625" data-pin-name="pin272"/>
+  <circle class="connection_point" cx="67.5" cy="42.5" r="1.625" data-pin-name="pin273"/>
+  <circle class="connection_point" cx="52.5" cy="50" r="1.625" data-pin-name="pin274"/>
+  <circle class="connection_point" cx="60" cy="50" r="1.625" data-pin-name="pin275"/>
+  <circle class="connection_point" cx="67.5" cy="50" r="1.625" data-pin-name="pin276"/>
+  <circle class="connection_point" cx="52.5" cy="57.5" r="1.625" data-pin-name="pin277"/>
+  <circle class="connection_point" cx="60" cy="57.5" r="1.625" data-pin-name="pin278"/>
+  <circle class="connection_point" cx="67.5" cy="57.5" r="1.625" data-pin-name="pin279"/>
+  <circle class="connection_point" cx="52.5" cy="65" r="1.625" data-pin-name="pin280"/>
+  <circle class="connection_point" cx="60" cy="65" r="1.625" data-pin-name="pin281"/>
+  <circle class="connection_point" cx="67.5" cy="65" r="1.625" data-pin-name="pin282"/>
+  <circle class="connection_point" cx="52.5" cy="72.5" r="1.625" data-pin-name="pin283"/>
+  <circle class="connection_point" cx="60" cy="72.5" r="1.625" data-pin-name="pin284"/>
+  <circle class="connection_point" cx="67.5" cy="72.5" r="1.625" data-pin-name="pin285"/>
+  <circle class="connection_point" cx="52.5" cy="80" r="1.625" data-pin-name="pin286"/>
+  <circle class="connection_point" cx="60" cy="80" r="1.625" data-pin-name="pin287"/>
+  <circle class="connection_point" cx="67.5" cy="80" r="1.625" data-pin-name="pin288"/>
+  <circle class="connection_point" cx="52.5" cy="87.5" r="1.625" data-pin-name="pin289"/>
+  <circle class="connection_point" cx="60" cy="87.5" r="1.625" data-pin-name="pin290"/>
+  <circle class="connection_point" cx="67.5" cy="87.5" r="1.625" data-pin-name="pin291"/>
+  <circle class="connection_point" cx="52.5" cy="95" r="1.625" data-pin-name="pin292"/>
+  <circle class="connection_point" cx="60" cy="95" r="1.625" data-pin-name="pin293"/>
+  <circle class="connection_point" cx="67.5" cy="95" r="1.625" data-pin-name="pin294"/>
+  <circle class="connection_point" cx="52.5" cy="102.5" r="1.625" data-pin-name="pin295"/>
+  <circle class="connection_point" cx="60" cy="102.5" r="1.625" data-pin-name="pin296"/>
+  <circle class="connection_point" cx="67.5" cy="102.5" r="1.625" data-pin-name="pin297"/>
+  <circle class="connection_point" cx="52.5" cy="110" r="1.625" data-pin-name="pin298"/>
+  <circle class="connection_point" cx="60" cy="110" r="1.625" data-pin-name="pin299"/>
+  <circle class="connection_point" cx="67.5" cy="110" r="1.625" data-pin-name="pin300"/>
+  <circle class="connection_point" cx="52.5" cy="117.5" r="1.625" data-pin-name="pin301"/>
+  <circle class="connection_point" cx="60" cy="117.5" r="1.625" data-pin-name="pin302"/>
+  <circle class="connection_point" cx="67.5" cy="117.5" r="1.625" data-pin-name="pin303"/>
+  <circle class="connection_point" cx="52.5" cy="125" r="1.625" data-pin-name="pin304"/>
+  <circle class="connection_point" cx="60" cy="125" r="1.625" data-pin-name="pin305"/>
+  <circle class="connection_point" cx="67.5" cy="125" r="1.625" data-pin-name="pin306"/>
+  <circle class="connection_point" cx="52.5" cy="132.5" r="1.625" data-pin-name="pin307"/>
+  <circle class="connection_point" cx="60" cy="132.5" r="1.625" data-pin-name="pin308"/>
+  <circle class="connection_point" cx="67.5" cy="132.5" r="1.625" data-pin-name="pin309"/>
+  <circle class="connection_point" cx="52.5" cy="140" r="1.625" data-pin-name="pin310"/>
+  <circle class="connection_point" cx="60" cy="140" r="1.625" data-pin-name="pin311"/>
+  <circle class="connection_point" cx="67.5" cy="140" r="1.625" data-pin-name="pin312"/>
+  <circle class="connection_point" cx="52.5" cy="147.5" r="1.625" data-pin-name="pin313"/>
+  <circle class="connection_point" cx="60" cy="147.5" r="1.625" data-pin-name="pin314"/>
+  <circle class="connection_point" cx="67.5" cy="147.5" r="1.625" data-pin-name="pin315"/>
+  <circle class="connection_point" cx="52.5" cy="155" r="1.625" data-pin-name="pin316"/>
+  <circle class="connection_point" cx="60" cy="155" r="1.625" data-pin-name="pin317"/>
+  <circle class="connection_point" cx="67.5" cy="155" r="1.625" data-pin-name="pin318"/>
+  <circle class="connection_point" cx="52.5" cy="162.5" r="1.625" data-pin-name="pin319"/>
+  <circle class="connection_point" cx="60" cy="162.5" r="1.625" data-pin-name="pin320"/>
+  <circle class="connection_point" cx="67.5" cy="162.5" r="1.625" data-pin-name="pin321"/>
+  <circle class="connection_point" cx="52.5" cy="170" r="1.625" data-pin-name="pin322"/>
+  <circle class="connection_point" cx="60" cy="170" r="1.625" data-pin-name="pin323"/>
+  <circle class="connection_point" cx="67.5" cy="170" r="1.625" data-pin-name="pin324"/>
+  <circle class="connection_point" cx="52.5" cy="177.5" r="1.625" data-pin-name="pin325"/>
+  <circle class="connection_point" cx="60" cy="177.5" r="1.625" data-pin-name="pin326"/>
+  <circle class="connection_point" cx="67.5" cy="177.5" r="1.625" data-pin-name="pin327"/>
+  <circle class="connection_point" cx="52.5" cy="185" r="1.625" data-pin-name="pin328"/>
+  <circle class="connection_point" cx="60" cy="185" r="1.625" data-pin-name="pin329"/>
+  <circle class="connection_point" cx="67.5" cy="185" r="1.625" data-pin-name="pin330"/>
+  <circle class="connection_point" cx="52.5" cy="192.5" r="1.625" data-pin-name="pin331"/>
+  <circle class="connection_point" cx="60" cy="192.5" r="1.625" data-pin-name="pin332"/>
+  <circle class="connection_point" cx="67.5" cy="192.5" r="1.625" data-pin-name="pin333"/>
+  <circle class="connection_point" cx="52.5" cy="200" r="1.625" data-pin-name="pin334"/>
+  <circle class="connection_point" cx="60" cy="200" r="1.625" data-pin-name="pin335"/>
+  <circle class="connection_point" cx="67.5" cy="200" r="1.625" data-pin-name="pin336"/>
+  <circle class="connection_point" cx="52.5" cy="207.5" r="1.625" data-pin-name="pin337"/>
+  <circle class="connection_point" cx="60" cy="207.5" r="1.625" data-pin-name="pin338"/>
+  <circle class="connection_point" cx="67.5" cy="207.5" r="1.625" data-pin-name="pin339"/>
+  <circle class="connection_point" cx="52.5" cy="215" r="1.625" data-pin-name="pin340"/>
+  <circle class="connection_point" cx="60" cy="215" r="1.625" data-pin-name="pin341"/>
+  <circle class="connection_point" cx="67.5" cy="215" r="1.625" data-pin-name="pin342"/>
+  <circle class="connection_point" cx="52.5" cy="222.5" r="1.625" data-pin-name="pin343"/>
+  <circle class="connection_point" cx="60" cy="222.5" r="1.625" data-pin-name="pin344"/>
+  <circle class="connection_point" cx="67.5" cy="222.5" r="1.625" data-pin-name="pin345"/>
+  <circle class="connection_point" cx="52.5" cy="230" r="1.625" data-pin-name="pin346"/>
+  <circle class="connection_point" cx="60" cy="230" r="1.625" data-pin-name="pin347"/>
+  <circle class="connection_point" cx="45" cy="230" r="1.625" data-pin-name="pin348"/>
+  <circle class="connection_point" cx="37.5" cy="230" r="1.625" data-pin-name="pin349"/>
+  <circle class="connection_point" cx="67.5" cy="230" r="1.625" data-pin-name="pin350"/>
+ </g>
+ <g transform="translate(0,-2.5)" fill="#a4a7b3" font-family="Nunito-Bold, Nunito" font-size="5px" font-weight="700" letter-spacing="-.05em">
+  <text transform="translate(29.5,16.52)" font-variation-settings="'wght' 700"><tspan x="0" y="0" fill="#a4a7b3">1</tspan></text>
+  <text transform="translate(29.455,46.441)" font-variation-settings="'wght' 700"><tspan x="0" y="0" fill="#a4a7b3">5</tspan></text>
+  <text transform="translate(26.75,83.862)" font-variation-settings="'wght' 700"><tspan x="0" y="0" fill="#a4a7b3">10</tspan></text>
+  <text transform="translate(26.75,121.36)" font-variation-settings="'wght' 700"><tspan x="0" y="0" fill="#a4a7b3">15</tspan></text>
+  <text transform="translate(26.75,158.86)" font-variation-settings="'wght' 700"><tspan x="0" y="0" fill="#a4a7b3">20</tspan></text>
+  <text transform="translate(26.75,196.36)" font-variation-settings="'wght' 700"><tspan x="0" y="0" fill="#a4a7b3">25</tspan></text>
+  <text transform="translate(26.75,233.86)" font-variation-settings="'wght' 700"><tspan x="0" y="0" fill="#a4a7b3">30</tspan></text>
+ </g>
+ <g fill="#2d3142" stroke="#a4a7b3" stroke-width=".75">
+  <circle class="connection_point" cx="52.5" cy="237.5" r="1.625" data-pin-name="pin351"/>
+  <circle class="connection_point" cx="60" cy="237.5" r="1.625" data-pin-name="pin352"/>
+  <circle class="connection_point" cx="37.5" cy="237.5" r="1.625" data-pin-name="pin353"/>
+  <circle class="connection_point" cx="45" cy="237.5" r="1.625" data-pin-name="pin354"/>
+  <circle class="connection_point" cx="37.5" cy="245" r="1.625" data-pin-name="pin355"/>
+  <circle class="connection_point" cx="45" cy="245" r="1.625" data-pin-name="pin356"/>
+  <circle class="connection_point" cx="37.5" cy="252.5" r="1.625" data-pin-name="pin357"/>
+  <circle class="connection_point" cx="45" cy="252.5" r="1.625" data-pin-name="pin358"/>
+  <circle class="connection_point" cx="37.5" cy="260" r="1.625" data-pin-name="pin359"/>
+  <circle class="connection_point" cx="45" cy="260" r="1.625" data-pin-name="pin360"/>
+  <circle class="connection_point" cx="37.5" cy="267.5" r="1.625" data-pin-name="pin361"/>
+  <circle class="connection_point" cx="45" cy="267.5" r="1.625" data-pin-name="pin362"/>
+  <circle class="connection_point" cx="37.5" cy="275" r="1.625" data-pin-name="pin363"/>
+  <circle class="connection_point" cx="45" cy="275" r="1.625" data-pin-name="pin364"/>
+  <circle class="connection_point" cx="37.5" cy="282.5" r="1.625" data-pin-name="pin365"/>
+  <circle class="connection_point" cx="45" cy="282.5" r="1.625" data-pin-name="pin366"/>
+  <circle class="connection_point" cx="37.5" cy="290" r="1.625" data-pin-name="pin367"/>
+  <circle class="connection_point" cx="45" cy="290" r="1.625" data-pin-name="pin368"/>
+  <circle class="connection_point" cx="37.5" cy="297.5" r="1.625" data-pin-name="pin369"/>
+  <circle class="connection_point" cx="45" cy="297.5" r="1.625" data-pin-name="pin370"/>
+  <circle class="connection_point" cx="37.5" cy="305" r="1.625" data-pin-name="pin371"/>
+  <circle class="connection_point" cx="45" cy="305" r="1.625" data-pin-name="pin372"/>
+  <circle class="connection_point" cx="37.5" cy="312.5" r="1.625" data-pin-name="pin373"/>
+  <circle class="connection_point" cx="45" cy="312.5" r="1.625" data-pin-name="pin374"/>
+  <circle class="connection_point" cx="37.5" cy="320" r="1.625" data-pin-name="pin375"/>
+  <circle class="connection_point" cx="45" cy="320" r="1.625" data-pin-name="pin376"/>
+  <circle class="connection_point" cx="37.5" cy="327.5" r="1.625" data-pin-name="pin377"/>
+  <circle class="connection_point" cx="45" cy="327.5" r="1.625" data-pin-name="pin378"/>
+  <g transform="translate(0,-2.5)">
+   <circle class="connection_point" cx="90" cy="337.5" r="1.625" data-pin-name="pin379"/>
+   <circle class="connection_point" cx="97.5" cy="337.5" r="1.625" data-pin-name="pin380"/>
+   <circle class="connection_point" cx="105" cy="337.5" r="1.625" data-pin-name="pin381"/>
+   <circle class="connection_point" cx="112.5" cy="337.5" r="1.625" data-pin-name="pin382"/>
+   <circle class="connection_point" cx="120" cy="337.5" r="1.625" data-pin-name="pin383"/>
+  </g>
+  <circle class="connection_point" cx="37.5" cy="342.5" r="1.625" data-pin-name="pin384"/>
+  <circle class="connection_point" cx="45" cy="342.5" r="1.625" data-pin-name="pin385"/>
+  <circle class="connection_point" cx="37.5" cy="350" r="1.625" data-pin-name="pin386"/>
+  <circle class="connection_point" cx="45" cy="350" r="1.625" data-pin-name="pin387"/>
+  <circle class="connection_point" cx="37.5" cy="357.5" r="1.625" data-pin-name="pin388"/>
+  <circle class="connection_point" cx="45" cy="357.5" r="1.625" data-pin-name="pin389"/>
+  <circle class="connection_point" cx="37.5" cy="365" r="1.625" data-pin-name="pin390"/>
+  <circle class="connection_point" cx="45" cy="365" r="1.625" data-pin-name="pin391"/>
+  <circle class="connection_point" cx="37.5" cy="372.5" r="1.625" data-pin-name="pin392"/>
+  <circle class="connection_point" cx="45" cy="372.5" r="1.625" data-pin-name="pin393"/>
+  <circle class="connection_point" cx="37.5" cy="380" r="1.625" data-pin-name="pin394"/>
+  <circle class="connection_point" cx="45" cy="380" r="1.625" data-pin-name="pin395"/>
+  <circle class="connection_point" cx="37.5" cy="387.5" r="1.625" data-pin-name="pin396"/>
+  <circle class="connection_point" cx="45" cy="387.5" r="1.625" data-pin-name="pin397"/>
+  <circle class="connection_point" cx="37.5" cy="395" r="1.625" data-pin-name="pin398"/>
+  <circle class="connection_point" cx="45" cy="395" r="1.625" data-pin-name="pin399"/>
+  <circle class="connection_point" cx="37.5" cy="402.5" r="1.625" data-pin-name="pin400"/>
+  <circle class="connection_point" cx="45" cy="402.5" r="1.625" data-pin-name="pin401"/>
+  <circle class="connection_point" cx="37.5" cy="410" r="1.625" data-pin-name="pin402"/>
+  <circle class="connection_point" cx="45" cy="410" r="1.625" data-pin-name="pin403"/>
+  <circle class="connection_point" cx="37.5" cy="417.5" r="1.625" data-pin-name="pin404"/>
+  <circle class="connection_point" cx="45" cy="417.5" r="1.625" data-pin-name="pin405"/>
+  <circle class="connection_point" cx="37.5" cy="425" r="1.625" data-pin-name="pin406"/>
+  <circle class="connection_point" cx="45" cy="425" r="1.625" data-pin-name="pin407"/>
+  <circle class="connection_point" cx="37.5" cy="432.5" r="1.625" data-pin-name="pin408"/>
+  <circle class="connection_point" cx="45" cy="432.5" r="1.625" data-pin-name="pin409"/>
+  <circle class="connection_point" cx="37.5" cy="440" r="1.625" data-pin-name="pin410"/>
+  <circle class="connection_point" cx="45" cy="440" r="1.625" data-pin-name="pin411"/>
+  <circle class="connection_point" cx="37.5" cy="447.5" r="1.625" data-pin-name="pin412"/>
+  <circle class="connection_point" cx="45" cy="447.5" r="1.625" data-pin-name="pin413"/>
+  <circle class="connection_point" cx="67.5" cy="237.5" r="1.625" data-pin-name="pin414"/>
+  <circle class="connection_point" cx="52.5" cy="245" r="1.625" data-pin-name="pin415"/>
+  <circle class="connection_point" cx="60" cy="245" r="1.625" data-pin-name="pin416"/>
+  <circle class="connection_point" cx="67.5" cy="245" r="1.625" data-pin-name="pin417"/>
+  <circle class="connection_point" cx="52.5" cy="252.5" r="1.625" data-pin-name="pin418"/>
+  <circle class="connection_point" cx="60" cy="252.5" r="1.625" data-pin-name="pin419"/>
+  <circle class="connection_point" cx="67.5" cy="252.5" r="1.625" data-pin-name="pin420"/>
+  <circle class="connection_point" cx="52.5" cy="260" r="1.625" data-pin-name="pin421"/>
+  <circle class="connection_point" cx="60" cy="260" r="1.625" data-pin-name="pin422"/>
+  <circle class="connection_point" cx="67.5" cy="260" r="1.625" data-pin-name="pin423"/>
+  <circle class="connection_point" cx="52.5" cy="267.5" r="1.625" data-pin-name="pin424"/>
+  <circle class="connection_point" cx="60" cy="267.5" r="1.625" data-pin-name="pin425"/>
+  <circle class="connection_point" cx="67.5" cy="267.5" r="1.625" data-pin-name="pin426"/>
+  <circle class="connection_point" cx="52.5" cy="275" r="1.625" data-pin-name="pin427"/>
+  <circle class="connection_point" cx="60" cy="275" r="1.625" data-pin-name="pin428"/>
+  <circle class="connection_point" cx="67.5" cy="275" r="1.625" data-pin-name="pin429"/>
+  <circle class="connection_point" cx="52.5" cy="282.5" r="1.625" data-pin-name="pin430"/>
+  <circle class="connection_point" cx="60" cy="282.5" r="1.625" data-pin-name="pin431"/>
+  <circle class="connection_point" cx="67.5" cy="282.5" r="1.625" data-pin-name="pin432"/>
+  <circle class="connection_point" cx="52.5" cy="290" r="1.625" data-pin-name="pin433"/>
+  <circle class="connection_point" cx="60" cy="290" r="1.625" data-pin-name="pin434"/>
+  <circle class="connection_point" cx="67.5" cy="290" r="1.625" data-pin-name="pin435"/>
+  <circle class="connection_point" cx="52.5" cy="297.5" r="1.625" data-pin-name="pin436"/>
+  <circle class="connection_point" cx="60" cy="297.5" r="1.625" data-pin-name="pin437"/>
+  <circle class="connection_point" cx="67.5" cy="297.5" r="1.625" data-pin-name="pin438"/>
+  <circle class="connection_point" cx="52.5" cy="305" r="1.625" data-pin-name="pin439"/>
+  <circle class="connection_point" cx="60" cy="305" r="1.625" data-pin-name="pin440"/>
+  <circle class="connection_point" cx="67.5" cy="305" r="1.625" data-pin-name="pin441"/>
+  <circle class="connection_point" cx="52.5" cy="312.5" r="1.625" data-pin-name="pin442"/>
+  <circle class="connection_point" cx="60" cy="312.5" r="1.625" data-pin-name="pin443"/>
+  <circle class="connection_point" cx="67.5" cy="312.5" r="1.625" data-pin-name="pin444"/>
+  <circle class="connection_point" cx="52.5" cy="320" r="1.625" data-pin-name="pin445"/>
+  <circle class="connection_point" cx="60" cy="320" r="1.625" data-pin-name="pin446"/>
+  <circle class="connection_point" cx="67.5" cy="320" r="1.625" data-pin-name="pin447"/>
+  <circle class="connection_point" cx="52.5" cy="327.5" r="1.625" data-pin-name="pin448"/>
+  <circle class="connection_point" cx="60" cy="327.5" r="1.625" data-pin-name="pin449"/>
+  <g transform="translate(0,-2.5)">
+   <circle class="connection_point" cx="67.5" cy="330" r="1.625" data-pin-name="pin450"/>
+   <circle class="connection_point" cx="37.5" cy="337.5" r="1.625" data-pin-name="pin451"/>
+   <circle class="connection_point" cx="45" cy="337.5" r="1.625" data-pin-name="pin452"/>
+   <circle class="connection_point" cx="52.5" cy="337.5" r="1.625" data-pin-name="pin453"/>
+   <circle class="connection_point" cx="60" cy="337.5" r="1.625" data-pin-name="pin454"/>
+   <circle class="connection_point" cx="67.5" cy="337.5" r="1.625" data-pin-name="pin455"/>
+  </g>
+  <circle class="connection_point" cx="52.5" cy="342.5" r="1.625" data-pin-name="pin456"/>
+  <circle class="connection_point" cx="60" cy="342.5" r="1.625" data-pin-name="pin457"/>
+  <circle class="connection_point" cx="67.5" cy="342.5" r="1.625" data-pin-name="pin458"/>
+  <circle class="connection_point" cx="52.5" cy="350" r="1.625" data-pin-name="pin459"/>
+  <circle class="connection_point" cx="60" cy="350" r="1.625" data-pin-name="pin460"/>
+  <circle class="connection_point" cx="67.5" cy="350" r="1.625" data-pin-name="pin461"/>
+  <circle class="connection_point" cx="52.5" cy="357.5" r="1.625" data-pin-name="pin462"/>
+  <circle class="connection_point" cx="60" cy="357.5" r="1.625" data-pin-name="pin463"/>
+  <circle class="connection_point" cx="67.5" cy="357.5" r="1.625" data-pin-name="pin464"/>
+  <circle class="connection_point" cx="52.5" cy="365" r="1.625" data-pin-name="pin465"/>
+  <circle class="connection_point" cx="60" cy="365" r="1.625" data-pin-name="pin466"/>
+  <circle class="connection_point" cx="67.5" cy="365" r="1.625" data-pin-name="pin467"/>
+  <circle class="connection_point" cx="52.5" cy="372.5" r="1.625" data-pin-name="pin468"/>
+  <circle class="connection_point" cx="60" cy="372.5" r="1.625" data-pin-name="pin469"/>
+  <circle class="connection_point" cx="67.5" cy="372.5" r="1.625" data-pin-name="pin470"/>
+  <circle class="connection_point" cx="52.5" cy="380" r="1.625" data-pin-name="pin471"/>
+  <circle class="connection_point" cx="60" cy="380" r="1.625" data-pin-name="pin472"/>
+  <circle class="connection_point" cx="67.5" cy="380" r="1.625" data-pin-name="pin473"/>
+  <circle class="connection_point" cx="52.5" cy="387.5" r="1.625" data-pin-name="pin474"/>
+  <circle class="connection_point" cx="60" cy="387.5" r="1.625" data-pin-name="pin475"/>
+  <circle class="connection_point" cx="67.5" cy="387.5" r="1.625" data-pin-name="pin476"/>
+  <circle class="connection_point" cx="52.5" cy="395" r="1.625" data-pin-name="pin477"/>
+  <circle class="connection_point" cx="60" cy="395" r="1.625" data-pin-name="pin478"/>
+  <circle class="connection_point" cx="67.5" cy="395" r="1.625" data-pin-name="pin479"/>
+  <circle class="connection_point" cx="52.5" cy="402.5" r="1.625" data-pin-name="pin480"/>
+  <circle class="connection_point" cx="60" cy="402.5" r="1.625" data-pin-name="pin481"/>
+  <circle class="connection_point" cx="67.5" cy="402.5" r="1.625" data-pin-name="pin482"/>
+  <circle class="connection_point" cx="52.5" cy="410" r="1.625" data-pin-name="pin483"/>
+  <circle class="connection_point" cx="60" cy="410" r="1.625" data-pin-name="pin484"/>
+  <circle class="connection_point" cx="67.5" cy="410" r="1.625" data-pin-name="pin485"/>
+  <circle class="connection_point" cx="52.5" cy="417.5" r="1.625" data-pin-name="pin486"/>
+  <circle class="connection_point" cx="60" cy="417.5" r="1.625" data-pin-name="pin487"/>
+  <circle class="connection_point" cx="67.5" cy="417.5" r="1.625" data-pin-name="pin488"/>
+  <circle class="connection_point" cx="52.5" cy="425" r="1.625" data-pin-name="pin489"/>
+  <circle class="connection_point" cx="60" cy="425" r="1.625" data-pin-name="pin490"/>
+  <circle class="connection_point" cx="67.5" cy="425" r="1.625" data-pin-name="pin491"/>
+  <circle class="connection_point" cx="52.5" cy="432.5" r="1.625" data-pin-name="pin492"/>
+  <circle class="connection_point" cx="60" cy="432.5" r="1.625" data-pin-name="pin493"/>
+  <circle class="connection_point" cx="67.5" cy="432.5" r="1.625" data-pin-name="pin494"/>
+  <circle class="connection_point" cx="52.5" cy="440" r="1.625" data-pin-name="pin495"/>
+  <circle class="connection_point" cx="60" cy="440" r="1.625" data-pin-name="pin496"/>
+  <circle class="connection_point" cx="67.5" cy="440" r="1.625" data-pin-name="pin497"/>
+  <circle class="connection_point" cx="52.5" cy="447.5" r="1.625" data-pin-name="pin498"/>
+  <circle class="connection_point" cx="60" cy="447.5" r="1.625" data-pin-name="pin499"/>
+  <circle class="connection_point" cx="67.5" cy="447.5" r="1.625" data-pin-name="pin500"/>
+  <circle class="connection_point" cx="52.5" cy="455" r="1.625" data-pin-name="pin501"/>
+  <circle class="connection_point" cx="60" cy="455" r="1.625" data-pin-name="pin502"/>
+  <circle class="connection_point" cx="45" cy="455" r="1.625" data-pin-name="pin503"/>
+  <circle class="connection_point" cx="37.5" cy="455" r="1.625" data-pin-name="pin504"/>
+  <circle class="connection_point" cx="67.5" cy="455" r="1.625" data-pin-name="pin505"/>
+ </g>
+ <g transform="translate(0,-2.5)" fill="#a4a7b3" font-family="Nunito-Bold, Nunito" font-size="5px" font-weight="700" letter-spacing="-.05em">
+  <text transform="translate(26.705,271.44)" font-variation-settings="'wght' 700"><tspan x="0" y="0" fill="#a4a7b3">35</tspan></text>
+  <text transform="translate(26.75,308.86)" font-variation-settings="'wght' 700"><tspan x="0" y="0" fill="#a4a7b3">40</tspan></text>
+  <text transform="translate(26.75,346.36)" font-variation-settings="'wght' 700"><tspan x="0" y="0" fill="#a4a7b3">45</tspan></text>
+  <text transform="translate(26.75,383.86)" font-variation-settings="'wght' 700"><tspan x="0" y="0" fill="#a4a7b3">50</tspan></text>
+  <text transform="translate(26.75,421.36)" font-variation-settings="'wght' 700"><tspan x="0" y="0" fill="#a4a7b3">55</tspan></text>
+  <text transform="translate(26.75,458.86)" font-variation-settings="'wght' 700"><tspan x="0" y="0" fill="#a4a7b3">60</tspan></text>
+  <text transform="translate(125,16.441)" font-variation-settings="'wght' 700"><tspan x="0" y="0" fill="#a4a7b3">1</tspan></text>
+  <text transform="translate(125,46.363)" font-variation-settings="'wght' 700"><tspan x="0" y="0" fill="#a4a7b3">5</tspan></text>
+  <text transform="translate(125,83.784)" font-variation-settings="'wght' 700"><tspan x="0" y="0" fill="#a4a7b3">10</tspan></text>
+  <text transform="translate(125,121.28)" font-variation-settings="'wght' 700"><tspan x="0" y="0" fill="#a4a7b3">15</tspan></text>
+  <text transform="translate(125,158.78)" font-variation-settings="'wght' 700"><tspan x="0" y="0" fill="#a4a7b3">20</tspan></text>
+  <text transform="translate(125,196.28)" font-variation-settings="'wght' 700"><tspan x="0" y="0" fill="#a4a7b3">25</tspan></text>
+  <text transform="translate(125,233.78)" font-variation-settings="'wght' 700"><tspan x="0" y="0" fill="#a4a7b3">30</tspan></text>
+ </g>
+ <g fill="#2d3142" stroke="#a4a7b3" stroke-width=".75">
+  <circle class="connection_point" cx="105" cy="12.5" r="1.625" data-pin-name="pin506"/>
+  <circle class="connection_point" cx="112.5" cy="12.5" r="1.625" data-pin-name="pin507"/>
+  <circle class="connection_point" cx="90" cy="12.5" r="1.625" data-pin-name="pin508"/>
+  <circle class="connection_point" cx="97.5" cy="12.5" r="1.625" data-pin-name="pin509"/>
+  <circle class="connection_point" cx="90" cy="20" r="1.625" data-pin-name="pin510"/>
+  <circle class="connection_point" cx="97.5" cy="20" r="1.625" data-pin-name="pin511"/>
+  <circle class="connection_point" cx="90" cy="27.5" r="1.625" data-pin-name="pin512"/>
+  <circle class="connection_point" cx="97.5" cy="27.5" r="1.625" data-pin-name="pin513"/>
+  <circle class="connection_point" cx="90" cy="35" r="1.625" data-pin-name="pin514"/>
+  <circle class="connection_point" cx="97.5" cy="35" r="1.625" data-pin-name="pin515"/>
+  <circle class="connection_point" cx="90" cy="42.5" r="1.625" data-pin-name="pin516"/>
+  <circle class="connection_point" cx="97.5" cy="42.5" r="1.625" data-pin-name="pin517"/>
+  <circle class="connection_point" cx="90" cy="50" r="1.625" data-pin-name="pin518"/>
+  <circle class="connection_point" cx="97.5" cy="50" r="1.625" data-pin-name="pin519"/>
+  <circle class="connection_point" cx="90" cy="57.5" r="1.625" data-pin-name="pin520"/>
+  <circle class="connection_point" cx="97.5" cy="57.5" r="1.625" data-pin-name="pin521"/>
+  <circle class="connection_point" cx="90" cy="65" r="1.625" data-pin-name="pin522"/>
+  <circle class="connection_point" cx="97.5" cy="65" r="1.625" data-pin-name="pin523"/>
+  <circle class="connection_point" cx="90" cy="72.5" r="1.625" data-pin-name="pin524"/>
+  <circle class="connection_point" cx="97.5" cy="72.5" r="1.625" data-pin-name="pin525"/>
+  <circle class="connection_point" cx="90" cy="80" r="1.625" data-pin-name="pin526"/>
+  <circle class="connection_point" cx="97.5" cy="80" r="1.625" data-pin-name="pin527"/>
+  <circle class="connection_point" cx="90" cy="87.5" r="1.625" data-pin-name="pin528"/>
+  <circle class="connection_point" cx="97.5" cy="87.5" r="1.625" data-pin-name="pin529"/>
+  <circle class="connection_point" cx="90" cy="95" r="1.625" data-pin-name="pin530"/>
+  <circle class="connection_point" cx="97.5" cy="95" r="1.625" data-pin-name="pin531"/>
+  <circle class="connection_point" cx="90" cy="102.5" r="1.625" data-pin-name="pin532"/>
+  <circle class="connection_point" cx="97.5" cy="102.5" r="1.625" data-pin-name="pin533"/>
+  <circle class="connection_point" cx="90" cy="110" r="1.625" data-pin-name="pin534"/>
+  <circle class="connection_point" cx="97.5" cy="110" r="1.625" data-pin-name="pin535"/>
+  <circle class="connection_point" cx="90" cy="117.5" r="1.625" data-pin-name="pin536"/>
+  <circle class="connection_point" cx="97.5" cy="117.5" r="1.625" data-pin-name="pin537"/>
+  <circle class="connection_point" cx="90" cy="125" r="1.625" data-pin-name="pin538"/>
+  <circle class="connection_point" cx="97.5" cy="125" r="1.625" data-pin-name="pin539"/>
+  <circle class="connection_point" cx="90" cy="132.5" r="1.625" data-pin-name="pin540"/>
+  <circle class="connection_point" cx="97.5" cy="132.5" r="1.625" data-pin-name="pin541"/>
+  <circle class="connection_point" cx="90" cy="140" r="1.625" data-pin-name="pin542"/>
+  <circle class="connection_point" cx="97.5" cy="140" r="1.625" data-pin-name="pin543"/>
+  <circle class="connection_point" cx="90" cy="147.5" r="1.625" data-pin-name="pin544"/>
+  <circle class="connection_point" cx="97.5" cy="147.5" r="1.625" data-pin-name="pin545"/>
+  <circle class="connection_point" cx="90" cy="155" r="1.625" data-pin-name="pin546"/>
+  <circle class="connection_point" cx="97.5" cy="155" r="1.625" data-pin-name="pin547"/>
+  <circle class="connection_point" cx="90" cy="162.5" r="1.625" data-pin-name="pin548"/>
+  <circle class="connection_point" cx="97.5" cy="162.5" r="1.625" data-pin-name="pin549"/>
+  <circle class="connection_point" cx="90" cy="170" r="1.625" data-pin-name="pin550"/>
+  <circle class="connection_point" cx="97.5" cy="170" r="1.625" data-pin-name="pin551"/>
+  <circle class="connection_point" cx="90" cy="177.5" r="1.625" data-pin-name="pin552"/>
+  <circle class="connection_point" cx="97.5" cy="177.5" r="1.625" data-pin-name="pin553"/>
+  <circle class="connection_point" cx="90" cy="185" r="1.625" data-pin-name="pin554"/>
+  <circle class="connection_point" cx="97.5" cy="185" r="1.625" data-pin-name="pin555"/>
+  <circle class="connection_point" cx="90" cy="192.5" r="1.625" data-pin-name="pin556"/>
+  <circle class="connection_point" cx="97.5" cy="192.5" r="1.625" data-pin-name="pin557"/>
+  <circle class="connection_point" cx="90" cy="200" r="1.625" data-pin-name="pin558"/>
+  <circle class="connection_point" cx="97.5" cy="200" r="1.625" data-pin-name="pin559"/>
+  <circle class="connection_point" cx="90" cy="207.5" r="1.625" data-pin-name="pin560"/>
+  <circle class="connection_point" cx="97.5" cy="207.5" r="1.625" data-pin-name="pin561"/>
+  <circle class="connection_point" cx="90" cy="215" r="1.625" data-pin-name="pin562"/>
+  <circle class="connection_point" cx="97.5" cy="215" r="1.625" data-pin-name="pin563"/>
+  <circle class="connection_point" cx="90" cy="222.5" r="1.625" data-pin-name="pin564"/>
+  <circle class="connection_point" cx="97.5" cy="222.5" r="1.625" data-pin-name="pin565"/>
+  <circle class="connection_point" cx="120" cy="12.5" r="1.625" data-pin-name="pin566"/>
+  <circle class="connection_point" cx="105" cy="20" r="1.625" data-pin-name="pin567"/>
+  <circle class="connection_point" cx="112.5" cy="20" r="1.625" data-pin-name="pin568"/>
+  <circle class="connection_point" cx="120" cy="20" r="1.625" data-pin-name="pin569"/>
+  <circle class="connection_point" cx="105" cy="27.5" r="1.625" data-pin-name="pin570"/>
+  <circle class="connection_point" cx="112.5" cy="27.5" r="1.625" data-pin-name="pin571"/>
+  <circle class="connection_point" cx="120" cy="27.5" r="1.625" data-pin-name="pin572"/>
+  <circle class="connection_point" cx="105" cy="35" r="1.625" data-pin-name="pin573"/>
+  <circle class="connection_point" cx="112.5" cy="35" r="1.625" data-pin-name="pin574"/>
+  <circle class="connection_point" cx="120" cy="35" r="1.625" data-pin-name="pin575"/>
+  <circle class="connection_point" cx="105" cy="42.5" r="1.625" data-pin-name="pin576"/>
+  <circle class="connection_point" cx="112.5" cy="42.5" r="1.625" data-pin-name="pin577"/>
+  <circle class="connection_point" cx="120" cy="42.5" r="1.625" data-pin-name="pin578"/>
+  <circle class="connection_point" cx="105" cy="50" r="1.625" data-pin-name="pin579"/>
+  <circle class="connection_point" cx="112.5" cy="50" r="1.625" data-pin-name="pin580"/>
+  <circle class="connection_point" cx="120" cy="50" r="1.625" data-pin-name="pin581"/>
+  <circle class="connection_point" cx="105" cy="57.5" r="1.625" data-pin-name="pin582"/>
+  <circle class="connection_point" cx="112.5" cy="57.5" r="1.625" data-pin-name="pin583"/>
+  <circle class="connection_point" cx="120" cy="57.5" r="1.625" data-pin-name="pin584"/>
+  <circle class="connection_point" cx="105" cy="65" r="1.625" data-pin-name="pin585"/>
+  <circle class="connection_point" cx="112.5" cy="65" r="1.625" data-pin-name="pin586"/>
+  <circle class="connection_point" cx="120" cy="65" r="1.625" data-pin-name="pin587"/>
+  <circle class="connection_point" cx="105" cy="72.5" r="1.625" data-pin-name="pin588"/>
+  <circle class="connection_point" cx="112.5" cy="72.5" r="1.625" data-pin-name="pin589"/>
+  <circle class="connection_point" cx="120" cy="72.5" r="1.625" data-pin-name="pin590"/>
+  <circle class="connection_point" cx="105" cy="80" r="1.625" data-pin-name="pin591"/>
+  <circle class="connection_point" cx="112.5" cy="80" r="1.625" data-pin-name="pin592"/>
+  <circle class="connection_point" cx="120" cy="80" r="1.625" data-pin-name="pin593"/>
+  <circle class="connection_point" cx="105" cy="87.5" r="1.625" data-pin-name="pin594"/>
+  <circle class="connection_point" cx="112.5" cy="87.5" r="1.625" data-pin-name="pin595"/>
+  <circle class="connection_point" cx="120" cy="87.5" r="1.625" data-pin-name="pin596"/>
+  <circle class="connection_point" cx="105" cy="95" r="1.625" data-pin-name="pin597"/>
+  <circle class="connection_point" cx="112.5" cy="95" r="1.625" data-pin-name="pin598"/>
+  <circle class="connection_point" cx="120" cy="95" r="1.625" data-pin-name="pin599"/>
+  <circle class="connection_point" cx="105" cy="102.5" r="1.625" data-pin-name="pin600"/>
+  <circle class="connection_point" cx="112.5" cy="102.5" r="1.625" data-pin-name="pin601"/>
+  <circle class="connection_point" cx="120" cy="102.5" r="1.625" data-pin-name="pin602"/>
+  <circle class="connection_point" cx="105" cy="110" r="1.625" data-pin-name="pin603"/>
+  <circle class="connection_point" cx="112.5" cy="110" r="1.625" data-pin-name="pin604"/>
+  <circle class="connection_point" cx="120" cy="110" r="1.625" data-pin-name="pin605"/>
+  <circle class="connection_point" cx="105" cy="117.5" r="1.625" data-pin-name="pin606"/>
+  <circle class="connection_point" cx="112.5" cy="117.5" r="1.625" data-pin-name="pin607"/>
+  <circle class="connection_point" cx="120" cy="117.5" r="1.625" data-pin-name="pin608"/>
+  <circle class="connection_point" cx="105" cy="125" r="1.625" data-pin-name="pin609"/>
+  <circle class="connection_point" cx="112.5" cy="125" r="1.625" data-pin-name="pin610"/>
+  <circle class="connection_point" cx="120" cy="125" r="1.625" data-pin-name="pin611"/>
+  <circle class="connection_point" cx="105" cy="132.5" r="1.625" data-pin-name="pin612"/>
+  <circle class="connection_point" cx="112.5" cy="132.5" r="1.625" data-pin-name="pin613"/>
+  <circle class="connection_point" cx="120" cy="132.5" r="1.625" data-pin-name="pin614"/>
+  <circle class="connection_point" cx="105" cy="140" r="1.625" data-pin-name="pin615"/>
+  <circle class="connection_point" cx="112.5" cy="140" r="1.625" data-pin-name="pin616"/>
+  <circle class="connection_point" cx="120" cy="140" r="1.625" data-pin-name="pin617"/>
+  <circle class="connection_point" cx="105" cy="147.5" r="1.625" data-pin-name="pin618"/>
+  <circle class="connection_point" cx="112.5" cy="147.5" r="1.625" data-pin-name="pin619"/>
+  <circle class="connection_point" cx="120" cy="147.5" r="1.625" data-pin-name="pin620"/>
+  <circle class="connection_point" cx="105" cy="155" r="1.625" data-pin-name="pin621"/>
+  <circle class="connection_point" cx="112.5" cy="155" r="1.625" data-pin-name="pin622"/>
+  <circle class="connection_point" cx="120" cy="155" r="1.625" data-pin-name="pin623"/>
+  <circle class="connection_point" cx="105" cy="162.5" r="1.625" data-pin-name="pin624"/>
+  <circle class="connection_point" cx="112.5" cy="162.5" r="1.625" data-pin-name="pin625"/>
+  <circle class="connection_point" cx="120" cy="162.5" r="1.625" data-pin-name="pin626"/>
+  <circle class="connection_point" cx="105" cy="170" r="1.625" data-pin-name="pin627"/>
+  <circle class="connection_point" cx="112.5" cy="170" r="1.625" data-pin-name="pin628"/>
+  <circle class="connection_point" cx="120" cy="170" r="1.625" data-pin-name="pin629"/>
+  <circle class="connection_point" cx="105" cy="177.5" r="1.625" data-pin-name="pin630"/>
+  <circle class="connection_point" cx="112.5" cy="177.5" r="1.625" data-pin-name="pin631"/>
+  <circle class="connection_point" cx="120" cy="177.5" r="1.625" data-pin-name="pin632"/>
+  <circle class="connection_point" cx="105" cy="185" r="1.625" data-pin-name="pin633"/>
+  <circle class="connection_point" cx="112.5" cy="185" r="1.625" data-pin-name="pin634"/>
+  <circle class="connection_point" cx="120" cy="185" r="1.625" data-pin-name="pin635"/>
+  <circle class="connection_point" cx="105" cy="192.5" r="1.625" data-pin-name="pin636"/>
+  <circle class="connection_point" cx="112.5" cy="192.5" r="1.625" data-pin-name="pin637"/>
+  <circle class="connection_point" cx="120" cy="192.5" r="1.625" data-pin-name="pin638"/>
+  <circle class="connection_point" cx="105" cy="200" r="1.625" data-pin-name="pin639"/>
+  <circle class="connection_point" cx="112.5" cy="200" r="1.625" data-pin-name="pin640"/>
+  <circle class="connection_point" cx="120" cy="200" r="1.625" data-pin-name="pin641"/>
+  <circle class="connection_point" cx="105" cy="207.5" r="1.625" data-pin-name="pin642"/>
+  <circle class="connection_point" cx="112.5" cy="207.5" r="1.625" data-pin-name="pin643"/>
+  <circle class="connection_point" cx="120" cy="207.5" r="1.625" data-pin-name="pin644"/>
+  <circle class="connection_point" cx="105" cy="215" r="1.625" data-pin-name="pin645"/>
+  <circle class="connection_point" cx="112.5" cy="215" r="1.625" data-pin-name="pin646"/>
+  <circle class="connection_point" cx="120" cy="215" r="1.625" data-pin-name="pin647"/>
+  <circle class="connection_point" cx="105" cy="222.5" r="1.625" data-pin-name="pin648"/>
+  <circle class="connection_point" cx="112.5" cy="222.5" r="1.625" data-pin-name="pin649"/>
+  <circle class="connection_point" cx="120" cy="222.5" r="1.625" data-pin-name="pin650"/>
+  <circle class="connection_point" cx="105" cy="230" r="1.625" data-pin-name="pin651"/>
+  <circle class="connection_point" cx="112.5" cy="230" r="1.625" data-pin-name="pin652"/>
+  <circle class="connection_point" cx="97.5" cy="230" r="1.625" data-pin-name="pin653"/>
+  <circle class="connection_point" cx="90" cy="230" r="1.625" data-pin-name="pin654"/>
+  <circle class="connection_point" cx="120" cy="230" r="1.625" data-pin-name="pin655"/>
+ </g>
+ <g transform="translate(0,-2.5)" fill="#a4a7b3" font-family="Nunito-Bold, Nunito" font-size="5px" font-weight="700" letter-spacing="-.05em">
+  <text transform="translate(125,271.36)" font-variation-settings="'wght' 700"><tspan x="0" y="0" fill="#a4a7b3">35</tspan></text>
+  <text transform="translate(125,308.78)" font-variation-settings="'wght' 700"><tspan x="0" y="0" fill="#a4a7b3">40</tspan></text>
+  <text transform="translate(125,346.28)" font-variation-settings="'wght' 700"><tspan x="0" y="0" fill="#a4a7b3">45</tspan></text>
+  <text transform="translate(125,383.78)" font-variation-settings="'wght' 700"><tspan x="0" y="0" fill="#a4a7b3">50</tspan></text>
+  <text transform="translate(125,421.28)" font-variation-settings="'wght' 700"><tspan x="0" y="0" fill="#a4a7b3">55</tspan></text>
+  <text transform="translate(125,458.78)" font-variation-settings="'wght' 700"><tspan x="0" y="0" fill="#a4a7b3">60</tspan></text>
+ </g>
+ <g fill="#2d3142" stroke="#a4a7b3" stroke-width=".75">
+  <circle class="connection_point" cx="105" cy="237.5" r="1.625" data-pin-name="pin656"/>
+  <circle class="connection_point" cx="112.5" cy="237.5" r="1.625" data-pin-name="pin657"/>
+  <circle class="connection_point" cx="90" cy="237.5" r="1.625" data-pin-name="pin658"/>
+  <circle class="connection_point" cx="97.5" cy="237.5" r="1.625" data-pin-name="pin659"/>
+  <circle class="connection_point" cx="90" cy="245" r="1.625" data-pin-name="pin660"/>
+  <circle class="connection_point" cx="97.5" cy="245" r="1.625" data-pin-name="pin661"/>
+  <circle class="connection_point" cx="90" cy="252.5" r="1.625" data-pin-name="pin662"/>
+  <circle class="connection_point" cx="97.5" cy="252.5" r="1.625" data-pin-name="pin663"/>
+  <circle class="connection_point" cx="90" cy="260" r="1.625" data-pin-name="pin664"/>
+  <circle class="connection_point" cx="97.5" cy="260" r="1.625" data-pin-name="pin665"/>
+  <circle class="connection_point" cx="90" cy="267.5" r="1.625" data-pin-name="pin666"/>
+  <circle class="connection_point" cx="97.5" cy="267.5" r="1.625" data-pin-name="pin667"/>
+  <circle class="connection_point" cx="90" cy="275" r="1.625" data-pin-name="pin668"/>
+  <circle class="connection_point" cx="97.5" cy="275" r="1.625" data-pin-name="pin669"/>
+  <circle class="connection_point" cx="90" cy="282.5" r="1.625" data-pin-name="pin670"/>
+  <circle class="connection_point" cx="97.5" cy="282.5" r="1.625" data-pin-name="pin671"/>
+  <circle class="connection_point" cx="90" cy="290" r="1.625" data-pin-name="pin672"/>
+  <circle class="connection_point" cx="97.5" cy="290" r="1.625" data-pin-name="pin673"/>
+  <circle class="connection_point" cx="90" cy="297.5" r="1.625" data-pin-name="pin674"/>
+  <circle class="connection_point" cx="97.5" cy="297.5" r="1.625" data-pin-name="pin675"/>
+  <circle class="connection_point" cx="90" cy="305" r="1.625" data-pin-name="pin676"/>
+  <circle class="connection_point" cx="97.5" cy="305" r="1.625" data-pin-name="pin677"/>
+  <circle class="connection_point" cx="90" cy="312.5" r="1.625" data-pin-name="pin678"/>
+  <circle class="connection_point" cx="97.5" cy="312.5" r="1.625" data-pin-name="pin679"/>
+  <circle class="connection_point" cx="90" cy="320" r="1.625" data-pin-name="pin680"/>
+  <circle class="connection_point" cx="97.5" cy="320" r="1.625" data-pin-name="pin681"/>
+  <circle class="connection_point" cx="90" cy="327.5" r="1.625" data-pin-name="pin682"/>
+  <circle class="connection_point" cx="97.5" cy="327.5" r="1.625" data-pin-name="pin683"/>
+  <circle class="connection_point" cx="90" cy="342.5" r="1.625" data-pin-name="pin684"/>
+  <circle class="connection_point" cx="97.5" cy="342.5" r="1.625" data-pin-name="pin685"/>
+  <circle class="connection_point" cx="90" cy="350" r="1.625" data-pin-name="pin686"/>
+  <circle class="connection_point" cx="97.5" cy="350" r="1.625" data-pin-name="pin687"/>
+  <circle class="connection_point" cx="90" cy="357.5" r="1.625" data-pin-name="pin688"/>
+  <circle class="connection_point" cx="97.5" cy="357.5" r="1.625" data-pin-name="pin689"/>
+  <circle class="connection_point" cx="90" cy="365" r="1.625" data-pin-name="pin690"/>
+  <circle class="connection_point" cx="97.5" cy="365" r="1.625" data-pin-name="pin691"/>
+  <circle class="connection_point" cx="90" cy="372.5" r="1.625" data-pin-name="pin692"/>
+  <circle class="connection_point" cx="97.5" cy="372.5" r="1.625" data-pin-name="pin693"/>
+  <circle class="connection_point" cx="90" cy="380" r="1.625" data-pin-name="pin694"/>
+  <circle class="connection_point" cx="97.5" cy="380" r="1.625" data-pin-name="pin695"/>
+  <circle class="connection_point" cx="90" cy="387.5" r="1.625" data-pin-name="pin696"/>
+  <circle class="connection_point" cx="97.5" cy="387.5" r="1.625" data-pin-name="pin697"/>
+  <circle class="connection_point" cx="90" cy="395" r="1.625" data-pin-name="pin698"/>
+  <circle class="connection_point" cx="97.5" cy="395" r="1.625" data-pin-name="pin699"/>
+  <circle class="connection_point" cx="90" cy="402.5" r="1.625" data-pin-name="pin700"/>
+  <circle class="connection_point" cx="97.5" cy="402.5" r="1.625" data-pin-name="pin701"/>
+  <circle class="connection_point" cx="90" cy="410" r="1.625" data-pin-name="pin702"/>
+  <circle class="connection_point" cx="97.5" cy="410" r="1.625" data-pin-name="pin703"/>
+  <circle class="connection_point" cx="90" cy="417.5" r="1.625" data-pin-name="pin704"/>
+  <circle class="connection_point" cx="97.5" cy="417.5" r="1.625" data-pin-name="pin705"/>
+  <circle class="connection_point" cx="90" cy="425" r="1.625" data-pin-name="pin706"/>
+  <circle class="connection_point" cx="97.5" cy="425" r="1.625" data-pin-name="pin707"/>
+  <circle class="connection_point" cx="90" cy="432.5" r="1.625" data-pin-name="pin708"/>
+  <circle class="connection_point" cx="97.5" cy="432.5" r="1.625" data-pin-name="pin709"/>
+  <circle class="connection_point" cx="90" cy="440" r="1.625" data-pin-name="pin710"/>
+  <circle class="connection_point" cx="97.5" cy="440" r="1.625" data-pin-name="pin711"/>
+  <circle class="connection_point" cx="90" cy="447.5" r="1.625" data-pin-name="pin712"/>
+  <circle class="connection_point" cx="97.5" cy="447.5" r="1.625" data-pin-name="pin713"/>
+  <circle class="connection_point" cx="120" cy="237.5" r="1.625" data-pin-name="pin714"/>
+  <circle class="connection_point" cx="105" cy="245" r="1.625" data-pin-name="pin715"/>
+  <circle class="connection_point" cx="112.5" cy="245" r="1.625" data-pin-name="pin716"/>
+  <circle class="connection_point" cx="120" cy="245" r="1.625" data-pin-name="pin717"/>
+  <circle class="connection_point" cx="105" cy="252.5" r="1.625" data-pin-name="pin718"/>
+  <circle class="connection_point" cx="112.5" cy="252.5" r="1.625" data-pin-name="pin719"/>
+  <circle class="connection_point" cx="120" cy="252.5" r="1.625" data-pin-name="pin720"/>
+  <circle class="connection_point" cx="105" cy="260" r="1.625" data-pin-name="pin721"/>
+  <circle class="connection_point" cx="112.5" cy="260" r="1.625" data-pin-name="pin722"/>
+  <circle class="connection_point" cx="120" cy="260" r="1.625" data-pin-name="pin723"/>
+  <circle class="connection_point" cx="105" cy="267.5" r="1.625" data-pin-name="pin724"/>
+  <circle class="connection_point" cx="112.5" cy="267.5" r="1.625" data-pin-name="pin725"/>
+  <circle class="connection_point" cx="120" cy="267.5" r="1.625" data-pin-name="pin726"/>
+  <circle class="connection_point" cx="105" cy="275" r="1.625" data-pin-name="pin727"/>
+  <circle class="connection_point" cx="112.5" cy="275" r="1.625" data-pin-name="pin728"/>
+  <circle class="connection_point" cx="120" cy="275" r="1.625" data-pin-name="pin729"/>
+  <circle class="connection_point" cx="105" cy="282.5" r="1.625" data-pin-name="pin730"/>
+  <circle class="connection_point" cx="112.5" cy="282.5" r="1.625" data-pin-name="pin731"/>
+  <circle class="connection_point" cx="120" cy="282.5" r="1.625" data-pin-name="pin732"/>
+  <circle class="connection_point" cx="105" cy="290" r="1.625" data-pin-name="pin733"/>
+  <circle class="connection_point" cx="112.5" cy="290" r="1.625" data-pin-name="pin734"/>
+  <circle class="connection_point" cx="120" cy="290" r="1.625" data-pin-name="pin735"/>
+  <circle class="connection_point" cx="105" cy="297.5" r="1.625" data-pin-name="pin736"/>
+  <circle class="connection_point" cx="112.5" cy="297.5" r="1.625" data-pin-name="pin737"/>
+  <circle class="connection_point" cx="120" cy="297.5" r="1.625" data-pin-name="pin738"/>
+  <circle class="connection_point" cx="105" cy="305" r="1.625" data-pin-name="pin739"/>
+  <circle class="connection_point" cx="112.5" cy="305" r="1.625" data-pin-name="pin740"/>
+  <circle class="connection_point" cx="120" cy="305" r="1.625" data-pin-name="pin741"/>
+  <circle class="connection_point" cx="105" cy="312.5" r="1.625" data-pin-name="pin742"/>
+  <circle class="connection_point" cx="112.5" cy="312.5" r="1.625" data-pin-name="pin743"/>
+  <circle class="connection_point" cx="120" cy="312.5" r="1.625" data-pin-name="pin744"/>
+  <circle class="connection_point" cx="105" cy="320" r="1.625" data-pin-name="pin745"/>
+  <circle class="connection_point" cx="112.5" cy="320" r="1.625" data-pin-name="pin746"/>
+  <circle class="connection_point" cx="120" cy="320" r="1.625" data-pin-name="pin747"/>
+  <circle class="connection_point" cx="105" cy="327.5" r="1.625" data-pin-name="pin748"/>
+  <circle class="connection_point" cx="112.5" cy="327.5" r="1.625" data-pin-name="pin749"/>
+  <circle class="connection_point" cx="120" cy="327.5" r="1.625" data-pin-name="pin750"/>
+  <circle class="connection_point" cx="105" cy="342.5" r="1.625" data-pin-name="pin751"/>
+  <circle class="connection_point" cx="112.5" cy="342.5" r="1.625" data-pin-name="pin752"/>
+  <circle class="connection_point" cx="120" cy="342.5" r="1.625" data-pin-name="pin753"/>
+  <circle class="connection_point" cx="105" cy="350" r="1.625" data-pin-name="pin754"/>
+  <circle class="connection_point" cx="112.5" cy="350" r="1.625" data-pin-name="pin755"/>
+  <circle class="connection_point" cx="120" cy="350" r="1.625" data-pin-name="pin756"/>
+  <circle class="connection_point" cx="105" cy="357.5" r="1.625" data-pin-name="pin757"/>
+  <circle class="connection_point" cx="112.5" cy="357.5" r="1.625" data-pin-name="pin758"/>
+  <circle class="connection_point" cx="120" cy="357.5" r="1.625" data-pin-name="pin759"/>
+  <circle class="connection_point" cx="105" cy="365" r="1.625" data-pin-name="pin760"/>
+  <circle class="connection_point" cx="112.5" cy="365" r="1.625" data-pin-name="pin761"/>
+  <circle class="connection_point" cx="120" cy="365" r="1.625" data-pin-name="pin762"/>
+  <circle class="connection_point" cx="105" cy="372.5" r="1.625" data-pin-name="pin763"/>
+  <circle class="connection_point" cx="112.5" cy="372.5" r="1.625" data-pin-name="pin764"/>
+  <circle class="connection_point" cx="120" cy="372.5" r="1.625" data-pin-name="pin765"/>
+  <circle class="connection_point" cx="105" cy="380" r="1.625" data-pin-name="pin766"/>
+  <circle class="connection_point" cx="112.5" cy="380" r="1.625" data-pin-name="pin767"/>
+  <circle class="connection_point" cx="120" cy="380" r="1.625" data-pin-name="pin768"/>
+  <circle class="connection_point" cx="105" cy="387.5" r="1.625" data-pin-name="pin769"/>
+  <circle class="connection_point" cx="112.5" cy="387.5" r="1.625" data-pin-name="pin770"/>
+  <circle class="connection_point" cx="120" cy="387.5" r="1.625" data-pin-name="pin771"/>
+  <circle class="connection_point" cx="105" cy="395" r="1.625" data-pin-name="pin772"/>
+  <circle class="connection_point" cx="112.5" cy="395" r="1.625" data-pin-name="pin773"/>
+  <circle class="connection_point" cx="120" cy="395" r="1.625" data-pin-name="pin774"/>
+  <circle class="connection_point" cx="105" cy="402.5" r="1.625" data-pin-name="pin775"/>
+  <circle class="connection_point" cx="112.5" cy="402.5" r="1.625" data-pin-name="pin776"/>
+  <circle class="connection_point" cx="120" cy="402.5" r="1.625" data-pin-name="pin777"/>
+  <circle class="connection_point" cx="105" cy="410" r="1.625" data-pin-name="pin778"/>
+  <circle class="connection_point" cx="112.5" cy="410" r="1.625" data-pin-name="pin779"/>
+  <circle class="connection_point" cx="120" cy="410" r="1.625" data-pin-name="pin780"/>
+  <circle class="connection_point" cx="105" cy="417.5" r="1.625" data-pin-name="pin781"/>
+  <circle class="connection_point" cx="112.5" cy="417.5" r="1.625" data-pin-name="pin782"/>
+  <circle class="connection_point" cx="120" cy="417.5" r="1.625" data-pin-name="pin783"/>
+  <circle class="connection_point" cx="105" cy="425" r="1.625" data-pin-name="pin784"/>
+  <circle class="connection_point" cx="112.5" cy="425" r="1.625" data-pin-name="pin785"/>
+  <circle class="connection_point" cx="120" cy="425" r="1.625" data-pin-name="pin786"/>
+  <circle class="connection_point" cx="105" cy="432.5" r="1.625" data-pin-name="pin787"/>
+  <circle class="connection_point" cx="112.5" cy="432.5" r="1.625" data-pin-name="pin788"/>
+  <circle class="connection_point" cx="120" cy="432.5" r="1.625" data-pin-name="pin789"/>
+  <circle class="connection_point" cx="105" cy="440" r="1.625" data-pin-name="pin790"/>
+  <circle class="connection_point" cx="112.5" cy="440" r="1.625" data-pin-name="pin791"/>
+  <circle class="connection_point" cx="120" cy="440" r="1.625" data-pin-name="pin792"/>
+  <circle class="connection_point" cx="105" cy="447.5" r="1.625" data-pin-name="pin793"/>
+  <circle class="connection_point" cx="112.5" cy="447.5" r="1.625" data-pin-name="pin794"/>
+  <circle class="connection_point" cx="120" cy="447.5" r="1.625" data-pin-name="pin795"/>
+  <circle class="connection_point" cx="105" cy="455" r="1.625" data-pin-name="pin796"/>
+  <circle class="connection_point" cx="112.5" cy="455" r="1.625" data-pin-name="pin797"/>
+  <circle class="connection_point" cx="97.5" cy="455" r="1.625" data-pin-name="pin798"/>
+  <circle class="connection_point" cx="90" cy="455" r="1.625" data-pin-name="pin799"/>
+  <circle class="connection_point" cx="120" cy="455" r="1.625" data-pin-name="pin800"/>
+  <circle class="connection_point" cx="52.5" cy="462.5" r="1.625" data-pin-name="pin801"/>
+  <circle class="connection_point" cx="60" cy="462.5" r="1.625" data-pin-name="pin802"/>
+  <circle class="connection_point" cx="45" cy="462.5" r="1.625" data-pin-name="pin803"/>
+  <circle class="connection_point" cx="37.5" cy="462.5" r="1.625" data-pin-name="pin804"/>
+  <circle class="connection_point" cx="67.5" cy="462.5" r="1.625" data-pin-name="pin805"/>
+  <circle class="connection_point" cx="105" cy="462.5" r="1.625" data-pin-name="pin806"/>
+  <circle class="connection_point" cx="112.5" cy="462.5" r="1.625" data-pin-name="pin807"/>
+  <circle class="connection_point" cx="97.5" cy="462.5" r="1.625" data-pin-name="pin808"/>
+  <circle class="connection_point" cx="90" cy="462.5" r="1.625" data-pin-name="pin809"/>
+  <circle class="connection_point" cx="120" cy="462.5" r="1.625" data-pin-name="pin810"/>
+  <circle class="connection_point" cx="52.5" cy="470" r="1.625" data-pin-name="pin811"/>
+  <circle class="connection_point" cx="60" cy="470" r="1.625" data-pin-name="pin812"/>
+  <circle class="connection_point" cx="45" cy="470" r="1.625" data-pin-name="pin813"/>
+  <circle class="connection_point" cx="37.5" cy="470" r="1.625" data-pin-name="pin814"/>
+  <circle class="connection_point" cx="67.5" cy="470" r="1.625" data-pin-name="pin815"/>
+  <circle class="connection_point" cx="105" cy="470" r="1.625" data-pin-name="pin816"/>
+  <circle class="connection_point" cx="112.5" cy="470" r="1.625" data-pin-name="pin817"/>
+  <circle class="connection_point" cx="97.5" cy="470" r="1.625" data-pin-name="pin818"/>
+  <circle class="connection_point" cx="90" cy="470" r="1.625" data-pin-name="pin819"/>
+  <circle class="connection_point" cx="120" cy="470" r="1.625" data-pin-name="pin820"/>
+  <circle class="connection_point" cx="52.5" cy="477.5" r="1.625" data-pin-name="pin821"/>
+  <circle class="connection_point" cx="60" cy="477.5" r="1.625" data-pin-name="pin822"/>
+  <circle class="connection_point" cx="45" cy="477.5" r="1.625" data-pin-name="pin823"/>
+  <circle class="connection_point" cx="37.5" cy="477.5" r="1.625" data-pin-name="pin824"/>
+  <circle class="connection_point" cx="67.5" cy="477.5" r="1.625" data-pin-name="pin825"/>
+  <circle class="connection_point" cx="105" cy="477.5" r="1.625" data-pin-name="pin826"/>
+  <circle class="connection_point" cx="112.5" cy="477.5" r="1.625" data-pin-name="pin827"/>
+  <circle class="connection_point" cx="97.5" cy="477.5" r="1.625" data-pin-name="pin828"/>
+  <circle class="connection_point" cx="90" cy="477.5" r="1.625" data-pin-name="pin829"/>
+  <circle class="connection_point" cx="120" cy="477.5" r="1.625" data-pin-name="pin830"/>
+ </g>
+ <g transform="translate(0,-2.5)" fill="none" stroke-miterlimit="10" stroke-width=".75">
+  <line x1="25" x2="25" y1="22.5" y2="472.5" fill="none" stroke="#2d3142"/>
+  <line x1="7.5" x2="7.5" y1="22.5" y2="472.5" stroke="#e86b59"/>
+  <line x1="132.5" x2="132.5" y1="22.5" y2="472.5" stroke="#e86b59"/>
+  <line x1="150" x2="150" y1="22.5" y2="472.5" fill="none" stroke="#2d3142"/>
+ </g>
+ <g transform="translate(0,-2.5)" fill="#a4a7b3" font-family="Nunito-Bold, Nunito" font-size="5px" font-weight="700">
+  <text transform="translate(35.639,9.9998)" font-variation-settings="'wght' 700"><tspan x="0" y="0" fill="#a4a7b3">a</tspan></text>
+  <text transform="translate(43.28,10)" font-variation-settings="'wght' 700"><tspan x="0" y="0" fill="#a4a7b3">b</tspan></text>
+  <text transform="translate(50.8,9.9998)" font-variation-settings="'wght' 700"><tspan x="0" y="0" fill="#a4a7b3">c</tspan></text>
+  <text transform="translate(58.094,10)" font-variation-settings="'wght' 700"><tspan x="0" y="0" fill="#a4a7b3">d</tspan></text>
+  <text transform="translate(66.007,9.9998)" font-variation-settings="'wght' 700"><tspan x="0" y="0" fill="#a4a7b3">e</tspan></text>
+  <text transform="translate(88.595,9.9998)" font-variation-settings="'wght' 700"><tspan x="0" y="0" fill="#a4a7b3">f</tspan></text>
+  <text transform="translate(95.66,10)" font-variation-settings="'wght' 700"><tspan x="0" y="0" fill="#a4a7b3">g</tspan></text>
+  <text transform="translate(103.07,9.9998)" font-variation-settings="'wght' 700"><tspan x="0" y="0" fill="#a4a7b3">h</tspan></text>
+  <text transform="translate(111.79,10)" font-variation-settings="'wght' 700"><tspan x="0" y="0" fill="#a4a7b3">i</tspan></text>
+  <text transform="translate(119.12,9.9998)" font-variation-settings="'wght' 700"><tspan x="0" y="0" fill="#a4a7b3">j</tspan></text>
+  <text x="35.639999" y="487.5" font-variation-settings="'wght' 700"><tspan x="35.639999" y="487.5" fill="#a4a7b3">a</tspan></text>
+  <text x="43.279999" y="487.5" font-variation-settings="'wght' 700"><tspan x="43.279999" y="487.5" fill="#a4a7b3">b</tspan></text>
+  <text x="50.799999" y="487.5" font-variation-settings="'wght' 700"><tspan x="50.799999" y="487.5" fill="#a4a7b3">c</tspan></text>
+  <text x="58.095001" y="487.5" font-variation-settings="'wght' 700"><tspan x="58.095001" y="487.5" fill="#a4a7b3">d</tspan></text>
+  <text x="66.008003" y="487.5" font-variation-settings="'wght' 700"><tspan x="66.008003" y="487.5" fill="#a4a7b3">e</tspan></text>
+  <text x="88.595001" y="487.5" font-variation-settings="'wght' 700"><tspan x="88.595001" y="487.5" fill="#a4a7b3">f</tspan></text>
+  <text x="95.660004" y="487.5" font-variation-settings="'wght' 700"><tspan x="95.660004" y="487.5" fill="#a4a7b3">g</tspan></text>
+  <text x="103.07" y="487.5" font-variation-settings="'wght' 700"><tspan x="103.07" y="487.5" fill="#a4a7b3">h</tspan></text>
+  <text x="111.79" y="487.5" font-variation-settings="'wght' 700"><tspan x="111.79" y="487.5" fill="#a4a7b3">i</tspan></text>
+  <text x="119.12" y="487.5" font-variation-settings="'wght' 700"><tspan x="119.12" y="487.5" fill="#a4a7b3">j</tspan></text>
+ </g>
+ <rect x="75" y="2.5" width="7.5" height="485" fill="#d8d9db"/>
+ <g font-family="Nunito" font-size="12px" stroke-linecap="round" stroke-linejoin="round">
+  <text x="6.4000001" y="18.408001" fill="#e86b59" font-weight="300" xml:space="preserve"><tspan x="6.4000001" y="18.408001" font-family="Nunito" font-size="12px" font-weight="bold">+</tspan></text>
+  <text x="19.896" y="18.216" fill="#2d3142" font-weight="bold" xml:space="preserve"><tspan x="19.896" y="18.216">-</tspan></text>
+  <text x="131.39999" y="18.408001" fill="#e86b59" font-weight="300" xml:space="preserve"><tspan x="131.39999" y="18.408001" font-family="Nunito" font-size="12px" font-weight="bold">+</tspan></text>
+  <text x="144.896" y="18.216" fill="#2d3142" font-weight="bold" xml:space="preserve"><tspan x="144.896" y="18.216">-</tspan></text>
+  <text x="6.4000001" y="478.40799" fill="#e86b59" font-weight="300" xml:space="preserve"><tspan x="6.4000001" y="478.40799" font-family="Nunito" font-size="12px" font-weight="bold">+</tspan></text>
+  <text x="19.896" y="478.21597" fill="#2d3142" font-weight="bold" xml:space="preserve"><tspan x="19.896" y="478.21597">-</tspan></text>
+  <text x="131.39999" y="478.40799" fill="#e86b59" font-weight="300" xml:space="preserve"><tspan x="131.39999" y="478.40799" font-family="Nunito" font-size="12px" font-weight="bold">+</tspan></text>
+  <text x="144.896" y="478.21597" fill="#2d3142" font-weight="bold" xml:space="preserve"><tspan x="144.896" y="478.21597">-</tspan></text>
+ </g>
+<text class="component-reference component-text moveable-text locked" font-size="4.5px" x="157.5" y="244" style="display: none;"/><text class="component-value component-text moveable-text locked" font-size="4.5px" x="157.5" y="249" style="display: none;"/></g><g data-source-id="1331ce8359517a64c3a330a5759ae595" data-source-name="Arduino Nano" data-width="135" data-height="55" class="component" id="part_1" transform="translate(2495,2220) scale(1,1) rotate(180,67.5,27.5)"><rect class="helper-box" x="0" y="0" width="135.00001525878906" height="55" fill="none"/>
+ <path d="M132.9,0H7.1c-1.16,0-2.1.94-2.1,2.1v50.8c0,1.16.94,2.1,2.1,2.1h125.8c1.16,0,2.1-.94,2.1-2.1V2.1c0-1.16-.94-2.1-2.1-2.1ZM10,52.5c-1.38,0-2.5-1.12-2.5-2.5s1.12-2.5,2.5-2.5,2.5,1.12,2.5,2.5-1.12,2.5-2.5,2.5ZM10,7.5c-1.38,0-2.5-1.12-2.5-2.5s1.12-2.5,2.5-2.5,2.5,1.12,2.5,2.5-1.12,2.5-2.5,2.5ZM17.5,51.25c-.69,0-1.25-.56-1.25-1.25s.56-1.25,1.25-1.25,1.25.56,1.25,1.25-.56,1.25-1.25,1.25ZM17.5,6.25c-.69,0-1.25-.56-1.25-1.25s.56-1.25,1.25-1.25,1.25.56,1.25,1.25-.56,1.25-1.25,1.25ZM25,51.25c-.69,0-1.25-.56-1.25-1.25s.56-1.25,1.25-1.25,1.25.56,1.25,1.25-.56,1.25-1.25,1.25ZM25,6.25c-.69,0-1.25-.56-1.25-1.25s.56-1.25,1.25-1.25,1.25.56,1.25,1.25-.56,1.25-1.25,1.25ZM32.5,51.25c-.69,0-1.25-.56-1.25-1.25s.56-1.25,1.25-1.25,1.25.56,1.25,1.25-.56,1.25-1.25,1.25ZM32.5,6.25c-.69,0-1.25-.56-1.25-1.25s.56-1.25,1.25-1.25,1.25.56,1.25,1.25-.56,1.25-1.25,1.25ZM40,51.25c-.69,0-1.25-.56-1.25-1.25s.56-1.25,1.25-1.25,1.25.56,1.25,1.25-.56,1.25-1.25,1.25ZM40,6.25c-.69,0-1.25-.56-1.25-1.25s.56-1.25,1.25-1.25,1.25.56,1.25,1.25-.56,1.25-1.25,1.25ZM47.5,51.25c-.69,0-1.25-.56-1.25-1.25s.56-1.25,1.25-1.25,1.25.56,1.25,1.25-.56,1.25-1.25,1.25ZM47.5,6.25c-.69,0-1.25-.56-1.25-1.25s.56-1.25,1.25-1.25,1.25.56,1.25,1.25-.56,1.25-1.25,1.25ZM55,51.25c-.69,0-1.25-.56-1.25-1.25s.56-1.25,1.25-1.25,1.25.56,1.25,1.25-.56,1.25-1.25,1.25ZM55,6.25c-.69,0-1.25-.56-1.25-1.25s.56-1.25,1.25-1.25,1.25.56,1.25,1.25-.56,1.25-1.25,1.25ZM62.5,51.25c-.69,0-1.25-.56-1.25-1.25s.56-1.25,1.25-1.25,1.25.56,1.25,1.25-.56,1.25-1.25,1.25ZM62.5,6.25c-.69,0-1.25-.56-1.25-1.25s.56-1.25,1.25-1.25,1.25.56,1.25,1.25-.56,1.25-1.25,1.25ZM70,51.25c-.69,0-1.25-.56-1.25-1.25s.56-1.25,1.25-1.25,1.25.56,1.25,1.25-.56,1.25-1.25,1.25ZM70,6.25c-.69,0-1.25-.56-1.25-1.25s.56-1.25,1.25-1.25,1.25.56,1.25,1.25-.56,1.25-1.25,1.25ZM77.5,51.25c-.69,0-1.25-.56-1.25-1.25s.56-1.25,1.25-1.25,1.25.56,1.25,1.25-.56,1.25-1.25,1.25ZM77.5,6.25c-.69,0-1.25-.56-1.25-1.25s.56-1.25,1.25-1.25,1.25.56,1.25,1.25-.56,1.25-1.25,1.25ZM85,51.25c-.69,0-1.25-.56-1.25-1.25s.56-1.25,1.25-1.25,1.25.56,1.25,1.25-.56,1.25-1.25,1.25ZM85,6.25c-.69,0-1.25-.56-1.25-1.25s.56-1.25,1.25-1.25,1.25.56,1.25,1.25-.56,1.25-1.25,1.25ZM92.5,51.25c-.69,0-1.25-.56-1.25-1.25s.56-1.25,1.25-1.25,1.25.56,1.25,1.25-.56,1.25-1.25,1.25ZM92.5,6.25c-.69,0-1.25-.56-1.25-1.25s.56-1.25,1.25-1.25,1.25.56,1.25,1.25-.56,1.25-1.25,1.25ZM100,51.25c-.69,0-1.25-.56-1.25-1.25s.56-1.25,1.25-1.25,1.25.56,1.25,1.25-.56,1.25-1.25,1.25ZM100,6.25c-.69,0-1.25-.56-1.25-1.25s.56-1.25,1.25-1.25,1.25.56,1.25,1.25-.56,1.25-1.25,1.25ZM107.5,51.25c-.69,0-1.25-.56-1.25-1.25s.56-1.25,1.25-1.25,1.25.56,1.25,1.25-.56,1.25-1.25,1.25ZM107.5,6.25c-.69,0-1.25-.56-1.25-1.25s.56-1.25,1.25-1.25,1.25.56,1.25,1.25-.56,1.25-1.25,1.25ZM115,51.25c-.69,0-1.25-.56-1.25-1.25s.56-1.25,1.25-1.25,1.25.56,1.25,1.25-.56,1.25-1.25,1.25ZM115,6.25c-.69,0-1.25-.56-1.25-1.25s.56-1.25,1.25-1.25,1.25.56,1.25,1.25-.56,1.25-1.25,1.25ZM122.5,51.25c-.69,0-1.25-.56-1.25-1.25s.56-1.25,1.25-1.25,1.25.56,1.25,1.25-.56,1.25-1.25,1.25ZM122.5,6.25c-.69,0-1.25-.56-1.25-1.25s.56-1.25,1.25-1.25,1.25.56,1.25,1.25-.56,1.25-1.25,1.25ZM130,52.5c-1.38,0-2.5-1.12-2.5-2.5s1.12-2.5,2.5-2.5,2.5,1.12,2.5,2.5-1.12,2.5-2.5,2.5ZM130,7.5c-1.38,0-2.5-1.12-2.5-2.5s1.12-2.5,2.5-2.5,2.5,1.12,2.5,2.5-1.12,2.5-2.5,2.5Z" fill="#114b5f" stroke-width="0"/>
+ <g fill="#f7a541" stroke-width="0">
+  <path d="M116.99,55v-7.1h-4v7.1h4ZM115,48.75c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25Z"/>
+  <path d="M97.98,0v7.1h4V0h-4ZM100,6.25c-.69,0-1.25-.56-1.25-1.25s.56-1.25,1.25-1.25,1.25.56,1.25,1.25-.56,1.25-1.25,1.25Z"/>
+  <path d="M120.49,3v4h4V3h-4ZM122.49,6.25c-.69,0-1.25-.56-1.25-1.25s.56-1.25,1.25-1.25,1.25.56,1.25,1.25-.56,1.25-1.25,1.25Z"/>
+ </g>
+ <g stroke-width="0">
+  <rect transform="translate(45.62 78.75) rotate(180)" x="18.12" y="37.5" width="9.38" height="3.75" fill="#a4a7b3"/>
+  <rect transform="translate(47.5 31.25) rotate(180)" x="20" y="13.75" width="7.5" height="3.75" fill="#a4a7b3"/>
+  <path transform="translate(25 55) rotate(180)" d="M1.24,16.25h23.76v22.5H1.24c-.68,0-1.24-.56-1.24-1.24v-20.02c0-.68.56-1.24,1.24-1.24Z" fill="#d8d9db"/>
+ </g>
+ <g fill="#a4a7b3" stroke-width="0">
+  <rect transform="translate(22.5 80) rotate(180)" x="7.5" y="38.75" width="7.5" height="2.5"/>
+  <rect transform="translate(22.5 30) rotate(180)" x="7.5" y="13.75" width="7.5" height="2.5"/>
+  <rect transform="translate(2.5 50) rotate(-90)" x="25.62" y="22.5" width="1.25" height="2.5"/>
+  <rect transform="translate(0 52.5) rotate(-90)" x="25.62" y="25" width="1.25" height="2.5"/>
+  <rect transform="translate(-2.5 55) rotate(-90)" x="25.62" y="27.5" width="1.25" height="2.5"/>
+  <rect transform="translate(-5 57.5) rotate(-90)" x="25.62" y="30" width="1.25" height="2.5"/>
+ </g>
+ <g fill="#404660" stroke-width="0">
+  <rect x="23.75" y="23.75" width="1.25" height="7.5"/>
+  <path d="M17.5,20h5v1.38c0,.62-.5,1.12-1.12,1.12h-2.76c-.62,0-1.12-.5-1.12-1.12v-1.38h0Z"/>
+  <path d="M18.62,32.5h2.76c.62,0,1.12.5,1.12,1.12v1.38h-5v-1.38c0-.62.5-1.12,1.12-1.12Z"/>
+  <path d="M12.5,35h-6.25l-1.32.88c-.34.22-.77.22-1.11,0l-1.32-.88v-1.25h10v1.25Z"/>
+  <path d="M12.5,20h-6.25s-1.32-.88-1.32-.88c-.34-.22-.77-.22-1.11,0l-1.32.88v1.25h10v-1.25Z"/>
+  <path d="M2.5,23.75v.62s9.06.57,9.06.57c.53.03.94.47.94,1v3.12c0,.53-.41.97-.94,1l-9.06.57v.62h10.5c1.1,0,2-.9,2-2v-3.5c0-1.1-.9-2-2-2H2.5Z"/>
+ </g>
+ <g stroke-width="0">
+  <rect transform="translate(34.46 -28.18) rotate(45)" x="41.53" y="17.78" width="19.45" height="19.45" fill="#2d3142"/>
+  <polygon points="118.75 21.88 118.75 18.13 120.62 16.25 131.88 16.25 133.75 18.13 133.75 21.88 131.88 23.75 120.62 23.75" fill="#2d3142"/>
+  <rect transform="translate(142.5 -102.5) rotate(90)" x="121.25" y="18.75" width="2.5" height="2.5" fill="#fbdd71"/>
+  <rect transform="translate(150 -110) rotate(90)" x="128.75" y="18.75" width="2.5" height="2.5" fill="#fbdd71"/>
+  <polygon points="118.75 29.38 118.75 25.63 120.62 23.75 131.88 23.75 133.75 25.63 133.75 29.38 131.88 31.25 120.62 31.25" fill="#2d3142"/>
+  <rect transform="translate(150 -95) rotate(90)" x="121.25" y="26.25" width="2.5" height="2.5" fill="#fbdd71"/>
+  <rect transform="translate(157.5 -102.5) rotate(90)" x="128.75" y="26.25" width="2.5" height="2.5" fill="#fbdd71"/>
+  <polygon points="118.75 36.88 118.75 33.13 120.62 31.25 131.88 31.25 133.75 33.13 133.75 36.88 131.88 38.75 120.62 38.75" fill="#2d3142"/>
+  <rect transform="translate(157.5 -87.5) rotate(90)" x="121.25" y="33.75" width="2.5" height="2.5" fill="#fbdd71"/>
+  <rect transform="translate(165 -95) rotate(90)" x="128.75" y="33.75" width="2.5" height="2.5" fill="#fbdd71"/>
+  <rect x="75" y="21.25" width="7.5" height="12.5" fill="#d8d9db"/>
+  <circle cx="78.75" cy="27.5" r="2.5" fill="#7b7d86"/>
+  <rect x="93.75" y="14.38" width="6.25" height="3.75" fill="#f7a541"/>
+  <rect x="92.5" y="14.38" width="1.25" height="3.75" fill="#d8d9db"/>
+  <rect x="100" y="14.38" width="1.25" height="3.75" fill="#d8d9db"/>
+  <rect x="93.75" y="21.88" width="6.25" height="3.75" fill="#f7a541"/>
+  <rect x="92.5" y="21.88" width="1.25" height="3.75" fill="#d8d9db"/>
+  <rect x="100" y="21.88" width="1.25" height="3.75" fill="#d8d9db"/>
+  <rect x="93.75" y="29.38" width="6.25" height="3.75" fill="#f7a541"/>
+  <rect x="92.5" y="29.38" width="1.25" height="3.75" fill="#d8d9db"/>
+  <rect x="100" y="29.38" width="1.25" height="3.75" fill="#d8d9db"/>
+  <rect x="93.75" y="36.88" width="6.25" height="3.75" fill="#f7a541"/>
+ </g>
+ <g fill="#d8d9db" stroke-width="0">
+  <rect x="92.5" y="36.88" width="1.25" height="3.75"/>
+  <rect x="100" y="36.88" width="1.25" height="3.75"/>
+  <rect transform="translate(33.27 -41.66) rotate(45)" x="62.54" y="17.46" width="8.75" height="3.75"/>
+ </g>
+ <g fill="#fff">
+  <g font-family="Nunito-Bold, Nunito" font-size="3" font-weight="700">
+   <g letter-spacing="-.05em">
+    <text transform="translate(14.71 10)" font-variation-settings="'wght' 700"><tspan x="0" y="0">D12</tspan></text>
+    <text transform="translate(22.21 10)" font-variation-settings="'wght' 700"><tspan x="0" y="0">D11</tspan></text>
+    <text transform="translate(29.71 10)" font-variation-settings="'wght' 700"><tspan x="0" y="0">D10</tspan></text>
+    <text transform="translate(38.03 10)" font-variation-settings="'wght' 700"><tspan x="0" y="0">D9</tspan></text>
+    <text transform="translate(45.53 10)" font-variation-settings="'wght' 700"><tspan x="0" y="0">D8</tspan></text>
+    <text transform="translate(53.03 10)" font-variation-settings="'wght' 700"><tspan x="0" y="0">D7</tspan></text>
+    <text transform="translate(60.53 10)" font-variation-settings="'wght' 700"><tspan x="0" y="0">D6</tspan></text>
+    <text transform="translate(68.03 10)" font-variation-settings="'wght' 700"><tspan x="0" y="0">D5</tspan></text>
+    <text transform="translate(75.53 10)" font-variation-settings="'wght' 700"><tspan x="0" y="0">D4</tspan></text>
+    <text transform="translate(83.03 10)" font-variation-settings="'wght' 700"><tspan x="0" y="0">D3</tspan></text>
+    <text transform="translate(90.53 10)" font-variation-settings="'wght' 700"><tspan x="0" y="0">D2</tspan></text>
+    <text transform="translate(96.78 10)" font-variation-settings="'wght' 700"><tspan x="0" y="0">GND</tspan></text>
+   </g>
+   <text transform="translate(104.77 10)" font-variation-settings="'wght' 700"><tspan x="0" y="0" letter-spacing="-.05em">R</tspan><tspan x="1.9" y="0" letter-spacing="-.06em">S</tspan><tspan x="3.6" y="0" letter-spacing="-.05em">T</tspan></text>
+   <text transform="translate(112.23 10)" font-variation-settings="'wght' 700"><tspan x="0" y="0" letter-spacing="-.06em">R</tspan><tspan x="1.88" y="0" letter-spacing="-.05em">X0</tspan></text>
+   <g letter-spacing="-.05em">
+    <text transform="translate(119.81 10)" font-variation-settings="'wght' 700"><tspan x="0" y="0">TX1</tspan></text>
+    <text transform="translate(14.71 47.5)" font-variation-settings="'wght' 700"><tspan x="0" y="0">D13</tspan></text>
+    <text transform="translate(22.28 47.5)" font-variation-settings="'wght' 700"><tspan x="0" y="0">3V3</tspan></text>
+    <text transform="translate(29.88 47.5)" font-variation-settings="'wght' 700"><tspan x="0" y="0">REF</tspan></text>
+    <text transform="translate(38.06 47.5)" font-variation-settings="'wght' 700"><tspan x="0" y="0">A0</tspan></text>
+    <text transform="translate(45.56 47.5)" font-variation-settings="'wght' 700"><tspan x="0" y="0">A1</tspan></text>
+    <text transform="translate(53.06 47.5)" font-variation-settings="'wght' 700"><tspan x="0" y="0">A2</tspan></text>
+    <text transform="translate(60.56 47.5)" font-variation-settings="'wght' 700"><tspan x="0" y="0">A3</tspan></text>
+    <text transform="translate(68.06 47.5)" font-variation-settings="'wght' 700"><tspan x="0" y="0">A4</tspan></text>
+    <text transform="translate(75.56 47.5)" font-variation-settings="'wght' 700"><tspan x="0" y="0">A5</tspan></text>
+   </g>
+   <text transform="translate(83.75 23.12) rotate(90)" font-variation-settings="'wght' 700"><tspan x="0" y="0" letter-spacing="-.05em">R</tspan><tspan x="1.91" y="0" letter-spacing="-.06em">E</tspan><tspan x="3.52" y="0" letter-spacing="-.05em">S</tspan><tspan x="5.26" y="0" letter-spacing="-.06em">E</tspan><tspan x="6.89" y="0" letter-spacing="-.05em">T</tspan></text>
+   <text transform="translate(102.5 14.39) rotate(90)" letter-spacing="-.05em" font-variation-settings="'wght' 700"><tspan x="0" y="0">TX</tspan></text>
+   <text transform="translate(102.5 21.8) rotate(90)" font-variation-settings="'wght' 700"><tspan x="0" y="0" letter-spacing="-.06em">R</tspan><tspan x="1.88" y="0" letter-spacing="-.05em">X</tspan></text>
+   <text transform="translate(115 15) rotate(90)" letter-spacing="-.05em" font-variation-settings="'wght' 700">ARDUINO NANO V3.0</text>
+   <text transform="translate(102.5 37.91) rotate(90)" letter-spacing="-.05em" font-variation-settings="'wght' 700"><tspan x="0" y="0">L</tspan></text>
+   <text transform="translate(102.5 27.72) rotate(90)" letter-spacing="-.05em" font-variation-settings="'wght' 700"><tspan x="0" y="0">PWR</tspan></text>
+   <text transform="translate(127.51 17.5)" font-variation-settings="'wght' 700"><tspan x="0" y="0" letter-spacing="-.05em">I</tspan><tspan x=".7" y="0" letter-spacing="-.06em">C</tspan><tspan x="2.54" y="0" letter-spacing="-.05em">SP</tspan></text>
+   <g letter-spacing="-.05em">
+    <text transform="translate(83.06 47.5)" font-variation-settings="'wght' 700"><tspan x="0" y="0">A6</tspan></text>
+    <text transform="translate(90.56 47.5)" font-variation-settings="'wght' 700"><tspan x="0" y="0">A7</tspan></text>
+    <text transform="translate(98.11 47.5)" font-variation-settings="'wght' 700"><tspan x="0" y="0">5V</tspan></text>
+   </g>
+   <text transform="translate(104.77 47.5)" font-variation-settings="'wght' 700"><tspan x="0" y="0" letter-spacing="-.05em">R</tspan><tspan x="1.9" y="0" letter-spacing="-.06em">S</tspan><tspan x="3.6" y="0" letter-spacing="-.05em">T</tspan></text>
+   <text transform="translate(111.78 47.5)" letter-spacing="-.05em" font-variation-settings="'wght' 700"><tspan x="0" y="0">GND</tspan></text>
+   <text transform="translate(120.04 47.5)" letter-spacing="-.05em" font-variation-settings="'wght' 700"><tspan x="0" y="0">VIN</tspan></text>
+  </g>
+  <path d="M115.3,12.37l1.01-1.11c.21-.23.06-.63-.24-.63h-2.14c-.3,0-.45.4-.24.63l1.01,1.11c.16.18.43.18.59,0Z" stroke-width="0"/>
+  <path d="M122.2,10.76l-1.01,1.11c-.21.23-.06.63.24.63h2.14c.3,0,.45-.4.24-.63l-1.01-1.11c-.16-.18-.43-.18-.59,0Z" stroke-width="0"/>
+ </g>
+ <g fill="none" stroke="#f7a541" stroke-width=".75">
+    <circle class="connection_point" cx="17.5" cy="5" r="1.5" data-pin-name="pin1"/>
+    <circle class="connection_point" cx="25" cy="5" r="1.5" data-pin-name="pin2"/>
+    <circle class="connection_point" cx="32.5" cy="5" r="1.5" data-pin-name="pin3"/>
+    <circle class="connection_point" cx="40" cy="5" r="1.5" data-pin-name="pin4"/>
+    <circle class="connection_point" cx="47.5" cy="5" r="1.5" data-pin-name="pin5"/>
+    <circle class="connection_point" cx="55" cy="5" r="1.5" data-pin-name="pin6"/>
+    <circle class="connection_point" cx="62.5" cy="5" r="1.5" data-pin-name="pin7"/>
+    <circle class="connection_point" cx="70" cy="5" r="1.5" data-pin-name="pin8"/>
+    <circle class="connection_point" cx="77.5" cy="5" r="1.5" data-pin-name="pin9"/>
+    <circle class="connection_point" cx="85" cy="5" r="1.5" data-pin-name="pin10"/>
+    <circle class="connection_point" cx="92.5" cy="5" r="1.5" data-pin-name="pin11"/>
+    <circle class="connection_point" cx="100" cy="5" r="1.5" data-pin-name="pin12"/>
+    <circle class="connection_point" cx="107.5" cy="5" r="1.5" data-pin-name="pin13"/>
+    <circle class="connection_point" cx="115" cy="5" r="1.5" data-pin-name="pin14"/>
+    <circle class="connection_point" cx="122.5" cy="5" r="1.5" data-pin-name="pin15"/>
+    <circle class="connection_point" cx="17.5" cy="50" r="1.5" data-pin-name="pin16"/>
+    <circle class="connection_point" cx="25" cy="50" r="1.5" data-pin-name="pin17"/>
+    <circle class="connection_point" cx="32.5" cy="50" r="1.5" data-pin-name="pin18"/>
+    <circle class="connection_point" cx="40" cy="50" r="1.5" data-pin-name="pin19"/>
+    <circle class="connection_point" cx="47.5" cy="50" r="1.5" data-pin-name="pin20"/>
+    <circle class="connection_point" cx="55" cy="50" r="1.5" data-pin-name="pin21"/>
+    <circle class="connection_point" cx="62.5" cy="50" r="1.5" data-pin-name="pin22"/>
+    <circle class="connection_point" cx="70" cy="50" r="1.5" data-pin-name="pin23"/>
+    <circle class="connection_point" cx="77.5" cy="50" r="1.5" data-pin-name="pin24"/>
+    <circle class="connection_point" cx="85" cy="50" r="1.5" data-pin-name="pin25"/>
+    <circle class="connection_point" cx="92.5" cy="50" r="1.5" data-pin-name="pin26"/>
+    <circle class="connection_point" cx="100" cy="50" r="1.5" data-pin-name="pin27"/>
+    <circle class="connection_point" cx="107.5" cy="50" r="1.5" data-pin-name="pin28"/>
+    <circle class="connection_point" cx="115" cy="50" r="1.5" data-pin-name="pin29"/>
+    <circle class="connection_point" cx="122.5" cy="50" r="1.5" data-pin-name="pin30"/>
+ </g>
+<text class="component-reference component-text moveable-text locked" font-size="4.5px" x="67.5" y="-5" text-anchor="middle" style="display: none;">U1</text><text class="component-value component-text moveable-text locked" font-size="4.5px" x="67.5" y="0" text-anchor="middle" style="display: none;"/></g><g data-source-id="0838572cedb2cf50842e8581a7955e19" data-source-name="Pushbutton Switch" data-variant-group="pushbutton_4pin" data-width="25" data-height="27.5" class="component" id="part_6" transform="translate(2240,2235) scale(1,1) rotate(0,0,0)"><rect class="helper-box" x="2.5" y="1.5" width="20" height="24.5" fill="none"/>
+ <g fill="none" stroke="#a4a7b3" stroke-linecap="round" stroke-width="2">
+  <path d="m20 2.5v2.5" stop-color="#000000" style="font-variation-settings:normal"/>
+  <path d="m20 22.5v2.5" stop-color="#000000" style="font-variation-settings:normal"/>
+  <path d="m5 22.5v2.5" stop-color="#000000" style="font-variation-settings:normal"/>
+  <path d="m5 2.5v2.5" stop-color="#000000" style="font-variation-settings:normal"/>
+ </g>
+ <g transform="translate(0,-2.5)">
+  <rect x="2.5" y="6.25" width="20" height="20" rx="1" ry="1" fill="#7b7d86"/>
+  <circle cx="12.5" cy="16.25" r="5.5" fill="#cc5e4e"/>
+  <path d="m12.5 11.25c2.7614 0 5 2.2386 5 5s-2.2386 5-5 5-5-2.2386-5-5 2.2386-5 5-5m0-1c-3.3084 0-6 2.6916-6 6s2.6916 6 6 6 6-2.6916 6-6-2.6916-6-6-6z" fill="#404660"/>
+  <g fill="#404660">
+   <circle cx="6.25" cy="10" r="1.25"/>
+   <circle cx="6.25" cy="22.5" r="1.25"/>
+   <circle cx="18.75" cy="10" r="1.25"/>
+   <circle cx="18.75" cy="22.5" r="1.25"/>
+  </g>
+ </g>
+ <g fill="#a4a7b3">
+  <circle class="connection_point" cx="5" cy="2.5" r="1" data-pin-name="pin1"/>
+  <circle class="connection_point" cx="20" cy="2.5" r="1" data-pin-name="pin2"/>
+  <circle class="connection_point" cx="20" cy="25" r="1" data-pin-name="pin3"/>
+  <circle class="connection_point" cx="5" cy="25" r="1" data-pin-name="pin4"/>
+ </g>
+<text class="component-reference component-text moveable-text locked" font-size="4.5px" x="20" y="-5" style="display: none;">SW2</text><text class="component-value component-text moveable-text locked" font-size="4.5px" x="20" y="0" style="display: none;"/></g><g data-source-id="0838572cedb2cf50842e8581a7955e19" data-source-name="Pushbutton Switch" data-variant-group="pushbutton_4pin" data-width="25" data-height="27.5" class="component" id="part_7" transform="translate(2270,2235) scale(1,1) rotate(0,0,0)"><rect class="helper-box" x="2.5" y="1.5" width="20" height="24.5" fill="none"/>
+ <g fill="none" stroke="#a4a7b3" stroke-linecap="round" stroke-width="2">
+  <path d="m20 2.5v2.5" stop-color="#000000" style="font-variation-settings:normal"/>
+  <path d="m20 22.5v2.5" stop-color="#000000" style="font-variation-settings:normal"/>
+  <path d="m5 22.5v2.5" stop-color="#000000" style="font-variation-settings:normal"/>
+  <path d="m5 2.5v2.5" stop-color="#000000" style="font-variation-settings:normal"/>
+ </g>
+ <g transform="translate(0,-2.5)">
+  <rect x="2.5" y="6.25" width="20" height="20" rx="1" ry="1" fill="#7b7d86"/>
+  <circle cx="12.5" cy="16.25" r="5.5" fill="#cc5e4e"/>
+  <path d="m12.5 11.25c2.7614 0 5 2.2386 5 5s-2.2386 5-5 5-5-2.2386-5-5 2.2386-5 5-5m0-1c-3.3084 0-6 2.6916-6 6s2.6916 6 6 6 6-2.6916 6-6-2.6916-6-6-6z" fill="#404660"/>
+  <g fill="#404660">
+   <circle cx="6.25" cy="10" r="1.25"/>
+   <circle cx="6.25" cy="22.5" r="1.25"/>
+   <circle cx="18.75" cy="10" r="1.25"/>
+   <circle cx="18.75" cy="22.5" r="1.25"/>
+  </g>
+ </g>
+ <g fill="#a4a7b3">
+  <circle class="connection_point" cx="5" cy="2.5" r="1" data-pin-name="pin1"/>
+  <circle class="connection_point" cx="20" cy="2.5" r="1" data-pin-name="pin2"/>
+  <circle class="connection_point" cx="20" cy="25" r="1" data-pin-name="pin3"/>
+  <circle class="connection_point" cx="5" cy="25" r="1" data-pin-name="pin4"/>
+ </g>
+<text class="component-reference component-text moveable-text locked" font-size="4.5px" x="20" y="-5" style="display: none;">SW1</text><text class="component-value component-text moveable-text locked" font-size="4.5px" x="20" y="0" style="display: none;"/></g><g data-source-id="0838572cedb2cf50842e8581a7955e19" data-source-name="Pushbutton Switch" data-variant-group="pushbutton_4pin" data-width="25" data-height="27.5" class="component" id="part_8" transform="translate(2300,2235) scale(1,1) rotate(0,0,0)"><rect class="helper-box" x="2.5" y="1.5" width="20" height="24.5" fill="none"/>
+ <g fill="none" stroke="#a4a7b3" stroke-linecap="round" stroke-width="2">
+  <path d="m20 2.5v2.5" stop-color="#000000" style="font-variation-settings:normal"/>
+  <path d="m20 22.5v2.5" stop-color="#000000" style="font-variation-settings:normal"/>
+  <path d="m5 22.5v2.5" stop-color="#000000" style="font-variation-settings:normal"/>
+  <path d="m5 2.5v2.5" stop-color="#000000" style="font-variation-settings:normal"/>
+ </g>
+ <g transform="translate(0,-2.5)">
+  <rect x="2.5" y="6.25" width="20" height="20" rx="1" ry="1" fill="#7b7d86"/>
+  <circle cx="12.5" cy="16.25" r="5.5" fill="#cc5e4e"/>
+  <path d="m12.5 11.25c2.7614 0 5 2.2386 5 5s-2.2386 5-5 5-5-2.2386-5-5 2.2386-5 5-5m0-1c-3.3084 0-6 2.6916-6 6s2.6916 6 6 6 6-2.6916 6-6-2.6916-6-6-6z" fill="#404660"/>
+  <g fill="#404660">
+   <circle cx="6.25" cy="10" r="1.25"/>
+   <circle cx="6.25" cy="22.5" r="1.25"/>
+   <circle cx="18.75" cy="10" r="1.25"/>
+   <circle cx="18.75" cy="22.5" r="1.25"/>
+  </g>
+ </g>
+ <g fill="#a4a7b3">
+  <circle class="connection_point" cx="5" cy="2.5" r="1" data-pin-name="pin1"/>
+  <circle class="connection_point" cx="20" cy="2.5" r="1" data-pin-name="pin2"/>
+  <circle class="connection_point" cx="20" cy="25" r="1" data-pin-name="pin3"/>
+  <circle class="connection_point" cx="5" cy="25" r="1" data-pin-name="pin4"/>
+ </g>
+<text class="component-reference component-text moveable-text locked" font-size="4.5px" x="20" y="-5" style="display: none;">SW3</text><text class="component-value component-text moveable-text locked" font-size="4.5px" x="20" y="0" style="display: none;"/></g><g data-source-id="f602d742d033557ca922d3a0195c3b33" data-source-name="Resistor 1k" data-width="10" data-height="35" class="component" id="part_13" transform="translate(2255,2250) scale(1,1) rotate(90,5,17.5)"><rect class="helper-box" x="1.2499899864196777" y="1.5" width="7.500010013580322" height="32" fill="none"/>
+  <metadata>
+		<handlevalueas>resistor-bands</handlevalueas>
+	</metadata>
+	<defs>
+    <clipPath id="clippath">
+      <path d="m2.25,7.5h5.5c.55228,0,1,.44772,1,1v2.51393c0,.15525-.03615.30836-.10557.44721l-1.03886,2.07771c-.06943.13886-.10557.29197-.10557.44721v7.02786c0,.15525.03614.30836.10557.44721l1.03885,2.07771c.06943.13886.10557.29197.10557.44721v2.51393c0,.55228-.44772,1-1,1H2.24999c-.55228,0-1-.44772-1-1v-2.51393c0-.15525.03615-.30836.10557-.44721l1.03886-2.07771c.06943-.13886.10557-.29197.10557-.44721v-7.02786c0-.15525-.03614-.30836-.10557-.44721l-1.03885-2.07771c-.06943-.13886-.10557-.29197-.10557-.44721v-2.51393c0-.55228.44772-1,1-1Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <path class="draggable1" d="m5 7.5v-5" fill="none" stroke="#7b7d86" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+  <path class="draggable2" d="m5 27.5v5" fill="none" stroke="#7b7d86" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+  <path d="m2.25,7.5h5.5c.55228,0,1,.44772,1,1v2.51393c0,.15525-.03615.30836-.10557.44721l-1.03886,2.07771c-.06943.13886-.10557.29197-.10557.44721v7.02786c0,.15525.03614.30836.10557.44721l1.03885,2.07771c.06943.13886.10557.29197.10557.44721v2.51393c0,.55228-.44772,1-1,1H2.24999c-.55228,0-1-.44772-1-1v-2.51393c0-.15525.03615-.30836.10557-.44721l1.03886-2.07771c.06943-.13886.10557-.29197.10557-.44721v-7.02786c0-.15525-.03614-.30836-.10557-.44721l-1.03885-2.07771c-.06943-.13886-.10557-.29197-.10557-.44721v-2.51393c0-.55228.44772-1,1-1Z" fill="#fab66e"/>
+  <g clip-path="url(#clippath)" fill="none" stroke-miterlimit="10">
+    <line x1="8.75" x2="1.25" y1="25" y2="25" stroke="#fbdd71"/>
+    <g stroke-width="2">
+      <line class="colorband-1" x1="8.75" x2="1.25" y1="11.25" y2="11.25" stroke="#bf6030"/>
+      <line class="colorband-2" x1="8.75" x2="1.25" y1="15" y2="15" stroke="#2d3142"/>
+      <line class="colorband-3" x1="8.75" x2="1.25" y1="18.75" y2="18.75" stroke="#e86b59"/>
+    </g>
+  </g>
+  <circle class="connection_point draggable" data-draggable-path="draggable1" cx="5" cy="2.5" r="1" fill="#7b7d86" data-pin-name="pin1"/>
+  <circle class="connection_point draggable" data-draggable-path="draggable2" cx="5" cy="32.5" r="1" fill="#7b7d86" data-pin-name="pin2"/>
+<text class="component-reference component-text moveable-text locked" font-size="4.5px" x="10" y="16.5" style="display: none;">R1</text><text class="component-value component-text moveable-text locked" font-size="4.5px" x="10" y="21.5" style="display: none;">1000</text></g><g data-source-id="f602d742d033557ca922d3a0195c3b33" data-source-name="Resistor 1k" data-width="10" data-height="35" class="component" id="part_14" transform="translate(2285,2257.5) scale(1,1) rotate(90,5,17.5)"><rect class="helper-box" x="1.2499899864196777" y="1.5" width="7.500010013580322" height="32" fill="none"/>
+  <metadata>
+		<handlevalueas>resistor-bands</handlevalueas>
+	</metadata>
+	<defs>
+    <clipPath id="clippath">
+      <path d="m2.25,7.5h5.5c.55228,0,1,.44772,1,1v2.51393c0,.15525-.03615.30836-.10557.44721l-1.03886,2.07771c-.06943.13886-.10557.29197-.10557.44721v7.02786c0,.15525.03614.30836.10557.44721l1.03885,2.07771c.06943.13886.10557.29197.10557.44721v2.51393c0,.55228-.44772,1-1,1H2.24999c-.55228,0-1-.44772-1-1v-2.51393c0-.15525.03615-.30836.10557-.44721l1.03886-2.07771c.06943-.13886.10557-.29197.10557-.44721v-7.02786c0-.15525-.03614-.30836-.10557-.44721l-1.03885-2.07771c-.06943-.13886-.10557-.29197-.10557-.44721v-2.51393c0-.55228.44772-1,1-1Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <path class="draggable1" d="m5 7.5v-5" fill="none" stroke="#7b7d86" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+  <path class="draggable2" d="m5 27.5v5" fill="none" stroke="#7b7d86" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+  <path d="m2.25,7.5h5.5c.55228,0,1,.44772,1,1v2.51393c0,.15525-.03615.30836-.10557.44721l-1.03886,2.07771c-.06943.13886-.10557.29197-.10557.44721v7.02786c0,.15525.03614.30836.10557.44721l1.03885,2.07771c.06943.13886.10557.29197.10557.44721v2.51393c0,.55228-.44772,1-1,1H2.24999c-.55228,0-1-.44772-1-1v-2.51393c0-.15525.03615-.30836.10557-.44721l1.03886-2.07771c.06943-.13886.10557-.29197.10557-.44721v-7.02786c0-.15525-.03614-.30836-.10557-.44721l-1.03885-2.07771c-.06943-.13886-.10557-.29197-.10557-.44721v-2.51393c0-.55228.44772-1,1-1Z" fill="#fab66e"/>
+  <g clip-path="url(#clippath)" fill="none" stroke-miterlimit="10">
+    <line x1="8.75" x2="1.25" y1="25" y2="25" stroke="#fbdd71"/>
+    <g stroke-width="2">
+      <line class="colorband-1" x1="8.75" x2="1.25" y1="11.25" y2="11.25" stroke="#bf6030"/>
+      <line class="colorband-2" x1="8.75" x2="1.25" y1="15" y2="15" stroke="#2d3142"/>
+      <line class="colorband-3" x1="8.75" x2="1.25" y1="18.75" y2="18.75" stroke="#e86b59"/>
+    </g>
+  </g>
+  <circle class="connection_point draggable" data-draggable-path="draggable1" cx="5" cy="2.5" r="1" fill="#7b7d86" data-pin-name="pin1"/>
+  <circle class="connection_point draggable" data-draggable-path="draggable2" cx="5" cy="32.5" r="1" fill="#7b7d86" data-pin-name="pin2"/>
+<text class="component-reference component-text moveable-text locked" font-size="4.5px" x="10" y="16.5" style="display: none;">R2</text><text class="component-value component-text moveable-text locked" font-size="4.5px" x="10" y="21.5" style="display: none;">1000</text></g><g data-source-id="f602d742d033557ca922d3a0195c3b33" data-source-name="Resistor 1k" data-width="10" data-height="35" class="component" id="part_15" transform="translate(2315,2265) scale(1,1) rotate(90,5,17.5)"><rect class="helper-box" x="1.2499899864196777" y="1.5" width="7.500010013580322" height="32" fill="none"/>
+  <metadata>
+		<handlevalueas>resistor-bands</handlevalueas>
+	</metadata>
+	<defs>
+    <clipPath id="clippath">
+      <path d="m2.25,7.5h5.5c.55228,0,1,.44772,1,1v2.51393c0,.15525-.03615.30836-.10557.44721l-1.03886,2.07771c-.06943.13886-.10557.29197-.10557.44721v7.02786c0,.15525.03614.30836.10557.44721l1.03885,2.07771c.06943.13886.10557.29197.10557.44721v2.51393c0,.55228-.44772,1-1,1H2.24999c-.55228,0-1-.44772-1-1v-2.51393c0-.15525.03615-.30836.10557-.44721l1.03886-2.07771c.06943-.13886.10557-.29197.10557-.44721v-7.02786c0-.15525-.03614-.30836-.10557-.44721l-1.03885-2.07771c-.06943-.13886-.10557-.29197-.10557-.44721v-2.51393c0-.55228.44772-1,1-1Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <path class="draggable1" d="m5 7.5v-5" fill="none" stroke="#7b7d86" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+  <path class="draggable2" d="m5 27.5v5" fill="none" stroke="#7b7d86" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+  <path d="m2.25,7.5h5.5c.55228,0,1,.44772,1,1v2.51393c0,.15525-.03615.30836-.10557.44721l-1.03886,2.07771c-.06943.13886-.10557.29197-.10557.44721v7.02786c0,.15525.03614.30836.10557.44721l1.03885,2.07771c.06943.13886.10557.29197.10557.44721v2.51393c0,.55228-.44772,1-1,1H2.24999c-.55228,0-1-.44772-1-1v-2.51393c0-.15525.03615-.30836.10557-.44721l1.03886-2.07771c.06943-.13886.10557-.29197.10557-.44721v-7.02786c0-.15525-.03614-.30836-.10557-.44721l-1.03885-2.07771c-.06943-.13886-.10557-.29197-.10557-.44721v-2.51393c0-.55228.44772-1,1-1Z" fill="#fab66e"/>
+  <g clip-path="url(#clippath)" fill="none" stroke-miterlimit="10">
+    <line x1="8.75" x2="1.25" y1="25" y2="25" stroke="#fbdd71"/>
+    <g stroke-width="2">
+      <line class="colorband-1" x1="8.75" x2="1.25" y1="11.25" y2="11.25" stroke="#bf6030"/>
+      <line class="colorband-2" x1="8.75" x2="1.25" y1="15" y2="15" stroke="#2d3142"/>
+      <line class="colorband-3" x1="8.75" x2="1.25" y1="18.75" y2="18.75" stroke="#e86b59"/>
+    </g>
+  </g>
+  <circle class="connection_point draggable" data-draggable-path="draggable1" cx="5" cy="2.5" r="1" fill="#7b7d86" data-pin-name="pin1"/>
+  <circle class="connection_point draggable" data-draggable-path="draggable2" cx="5" cy="32.5" r="1" fill="#7b7d86" data-pin-name="pin2"/>
+<text class="component-reference component-text moveable-text locked" font-size="4.5px" x="10" y="16.5" style="display: none;">R3</text><text class="component-value component-text moveable-text locked" font-size="4.5px" x="10" y="21.5" style="display: none;">1000</text></g><g class="wireGroup wire-color-blue" id="wireGroup_16" transform="translate(2335, 2290) scale(1,1) rotate(0,0,0)"><path class="wire" d="M0,0 L0,17.5" id="wireGroup_16-1"/></g><g class="wireGroup wire-color-blue" id="wireGroup_17" transform="translate(2245, 2207.5) scale(1,1) rotate(0,0,0)"><path class="wire" d="M0,0 L0,-17.5" id="wireGroup_17-1"/></g><g class="wireGroup wire-color-blue" id="wireGroup_18" transform="translate(2275, 2207.5) scale(1,1) rotate(0,0,0)"><path class="wire" d="M0,0 L0,-17.5" id="wireGroup_18-1"/></g><g class="wireGroup wire-color-blue" id="wireGroup_19" transform="translate(2305, 2207.5) scale(1,1) rotate(0,0,0)"><path class="wire" d="M0,0 L0,-17.5" id="wireGroup_19-1"/></g><g class="wireGroup wire-color-blue" id="wireGroup_21" transform="translate(2545, 2215) scale(1,1) rotate(0,0,0)"><path class="wire" d="M0,0 H-207.5" id="wireGroup_21-1"/><path class="wire" d="M-207.5,0 c0,0 -2.5,0 -2.5,2.5" id="wireGroup_21-2"/><path class="wire" d="M-210,2.5 L-210,60" id="wireGroup_21-3"/></g><g data-source-id="2570c1130e6438ab4a41f008556693b3" data-source-name="Pin Header 01x04" data-width="10" data-height="35" class="component" id="part_22" transform="translate(2537.5,2340) scale(1,1) rotate(90,5,17.5)"><rect class="helper-box" x="2.5" y="2.5" width="5" height="27.5" fill="none"/>
+ <g>
+  <polygon points="7.5 3.75 7.5 28.75 6.25 30 3.75 30 2.5 28.75 2.5 3.75 3.75 2.5 6.25 2.5" fill="#2d3142"/>
+  <g fill="#fbdd71">
+   <rect x="4" y="4" width="2" height="2"/>
+   <rect x="4" y="11.5" width="2" height="2"/>
+   <rect x="4" y="19" width="2" height="2"/>
+   <rect x="4" y="26.5" width="2" height="2"/>
+  </g>
+ </g>
+ <g fill="#fbdd71">
+  <circle class="connection_point" cx="5" cy="5" r="1" data-pin-name="pin1"/>
+  <circle class="connection_point" cx="5" cy="12.5" r="1" data-pin-name="pin2"/>
+  <circle class="connection_point" cx="5" cy="20" r="1" data-pin-name="pin3"/>
+  <circle class="connection_point" cx="5" cy="27.5" r="1" data-pin-name="pin4"/>
+ </g>
+<text class="component-reference component-text moveable-text locked" font-size="4.5px" x="10" y="16.5" style="display: none;"/><text class="component-value component-text moveable-text locked" font-size="4.5px" x="10" y="21.5" style="display: none;"/></g><g class="wireGroup wire-color-gray" id="wireGroup_25" transform="translate(2532.5, 2357.5) scale(1,1) rotate(0,0,0)"><path class="wire" d="M0,0 H0" id="wireGroup_25-1"/><path class="wire" d="M0,0 c0,0 -2.5,0 -2.5,-2.5" id="wireGroup_25-2"/><path class="wire" d="M-2.5,-2.5 L-2.5,-42.5" id="wireGroup_25-3"/></g><text class="moveable-text textObject" font-family="Nunito-Medium, Nunito" font-size="8px" fill="#2d3142" x="0" y="0" transform="translate(2526.1, 2367.678125) scale(1,1) rotate(0,0,0)" id="layout_text_27"/><g class="wireGroup wire-color-red" id="wireGroup_28" transform="translate(2540, 2357.5) scale(1,1) rotate(0,0,0)"><path class="wire" d="M0,0 V-47.5" id="wireGroup_28-1"/><path class="wire" d="M0,-47.5 c0,0 0,-2.5 -2.5,-2.5" id="wireGroup_28-2"/><path class="wire" d="M-2.5,-50 L-10,-50" id="wireGroup_28-3"/></g><g class="wireGroup wire-color-green" id="wireGroup_29" transform="translate(2547.5, 2357.5) scale(1,1) rotate(0,0,0)"><path class="wire" d="M0,0 V-72.5" id="wireGroup_29-1"/><path class="wire" d="M0,-72.5 c0,0 0,-2.5 -2.5,-2.5" id="wireGroup_29-2"/><path class="wire" d="M-2.5,-75 L-2.5,-75" id="wireGroup_29-3"/></g><g class="wireGroup wire-color-orange" id="wireGroup_30" transform="translate(2555, 2357.5) scale(1,1) rotate(0,0,0)"><path class="wire" d="M0,0 V-72.5" id="wireGroup_30-1"/><path class="wire" d="M0,-72.5 c0,0 0,-2.5 -2.5,-2.5" id="wireGroup_30-2"/><path class="wire" d="M-2.5,-75 L-2.5,-75" id="wireGroup_30-3"/></g><text class="moveable-text textObject" font-family="Nunito-Medium, Nunito" font-size="5px" fill="#2d3142" x="4.463281249999454" y="-1.6269791666668425" transform="translate(2522.5,2367.5) scale(1,1) rotate(0,0,0)" id="layout_text_32">GND</text><text class="moveable-text textObject" font-family="Nunito-Medium, Nunito" font-size="8px" fill="#2d3142" x="0" y="0" transform="translate(2530.9515625, 2362.1796875) scale(1,1) rotate(0,0,0)" id="layout_text_33"/><text class="moveable-text textObject" font-family="Nunito-Medium, Nunito" font-size="5px" fill="#2d3142" x="4.384114583332575" y="0.3176041666670244" transform="translate(2530.3046875, 2373.1765625) scale(1,1) rotate(0,0,0)" id="layout_text_34">VCC</text><text class="moveable-text textObject" font-family="Nunito-Medium, Nunito" font-size="5px" fill="#2d3142" x="-0.637031250000291" y="-15.307916666666642" transform="translate(2543.2421875, 2381.2625) scale(1,1) rotate(0,0,0)" id="layout_text_35">SCK</text><text class="moveable-text textObject" font-family="Nunito-Medium, Nunito" font-size="5px" fill="#2d3142" x="-13.209583333333285" y="-16.357343749999927" transform="translate(2563.2953125, 2389.671875) scale(1,1) rotate(0,0,0)" id="layout_text_36">SDA</text><text class="moveable-text textObject" font-family="Nunito-Medium, Nunito" font-size="8px" fill="#2d3142" x="-13.33984375" y="-7.21484375" transform="translate(2525,2397.5) scale(1,1) rotate(0,0,0)" id="layout_text_37">Display SSD1306</text><g data-source-id="2570c1130e6438ab4a41f008556693b3" data-source-name="Pin Header 01x04" data-width="10" data-height="35" class="component" id="part_39" transform="translate(2572.5,2067.5) scale(1,1) rotate(90,5,17.5)"><rect class="helper-box" x="2.5" y="2.5" width="5" height="27.5" fill="none"/>
+ <g>
+  <polygon points="7.5 3.75 7.5 28.75 6.25 30 3.75 30 2.5 28.75 2.5 3.75 3.75 2.5 6.25 2.5" fill="#2d3142"/>
+  <g fill="#fbdd71">
+   <rect x="4" y="4" width="2" height="2"/>
+   <rect x="4" y="11.5" width="2" height="2"/>
+   <rect x="4" y="19" width="2" height="2"/>
+   <rect x="4" y="26.5" width="2" height="2"/>
+  </g>
+ </g>
+ <g fill="#fbdd71">
+  <circle class="connection_point" cx="5" cy="5" r="1" data-pin-name="pin1"/>
+  <circle class="connection_point" cx="5" cy="12.5" r="1" data-pin-name="pin2"/>
+  <circle class="connection_point" cx="5" cy="20" r="1" data-pin-name="pin3"/>
+  <circle class="connection_point" cx="5" cy="27.5" r="1" data-pin-name="pin4"/>
+ </g>
+<text class="component-reference component-text moveable-text locked" font-size="4.5px" x="10" y="16.5" style="display: none;"/><text class="component-value component-text moveable-text locked" font-size="4.5px" x="10" y="21.5" style="display: none;"/></g><g data-source-id="2570c1130e6438ab4a41f008556693b3" data-source-name="Pin Header 01x04" data-width="10" data-height="35" class="component" id="part_40" transform="translate(2550,2067.5) scale(1,1) rotate(90,5,17.5)"><rect class="helper-box" x="2.5" y="2.5" width="5" height="27.5" fill="none"/>
+ <g>
+  <polygon points="7.5 3.75 7.5 28.75 6.25 30 3.75 30 2.5 28.75 2.5 3.75 3.75 2.5 6.25 2.5" fill="#2d3142"/>
+  <g fill="#fbdd71">
+   <rect x="4" y="4" width="2" height="2"/>
+   <rect x="4" y="11.5" width="2" height="2"/>
+   <rect x="4" y="19" width="2" height="2"/>
+   <rect x="4" y="26.5" width="2" height="2"/>
+  </g>
+ </g>
+ <g fill="#fbdd71">
+  <circle class="connection_point" cx="5" cy="5" r="1" data-pin-name="pin1"/>
+  <circle class="connection_point" cx="5" cy="12.5" r="1" data-pin-name="pin2"/>
+  <circle class="connection_point" cx="5" cy="20" r="1" data-pin-name="pin3"/>
+  <circle class="connection_point" cx="5" cy="27.5" r="1" data-pin-name="pin4"/>
+ </g>
+<text class="component-reference component-text moveable-text locked" font-size="4.5px" x="10" y="16.5" style="display: none;"/><text class="component-value component-text moveable-text locked" font-size="4.5px" x="10" y="21.5" style="display: none;"/></g><g data-source-id="2570c1130e6438ab4a41f008556693b3" data-source-name="Pin Header 01x04" data-width="10" data-height="35" class="component" id="part_42" transform="translate(2527.5,2067.5) scale(1,1) rotate(90,5,17.5)"><rect class="helper-box" x="2.5" y="2.5" width="5" height="27.5" fill="none"/>
+ <g>
+  <polygon points="7.5 3.75 7.5 28.75 6.25 30 3.75 30 2.5 28.75 2.5 3.75 3.75 2.5 6.25 2.5" fill="#2d3142"/>
+  <g fill="#fbdd71">
+   <rect x="4" y="4" width="2" height="2"/>
+   <rect x="4" y="11.5" width="2" height="2"/>
+   <rect x="4" y="19" width="2" height="2"/>
+   <rect x="4" y="26.5" width="2" height="2"/>
+  </g>
+ </g>
+ <g fill="#fbdd71">
+  <circle class="connection_point" cx="5" cy="5" r="1" data-pin-name="pin1"/>
+  <circle class="connection_point" cx="5" cy="12.5" r="1" data-pin-name="pin2"/>
+  <circle class="connection_point" cx="5" cy="20" r="1" data-pin-name="pin3"/>
+  <circle class="connection_point" cx="5" cy="27.5" r="1" data-pin-name="pin4"/>
+ </g>
+<text class="component-reference component-text moveable-text locked" font-size="4.5px" x="10" y="16.5" style="display: none;"/><text class="component-value component-text moveable-text locked" font-size="4.5px" x="10" y="21.5" style="display: none;"/></g><g data-source-id="2570c1130e6438ab4a41f008556693b3" data-source-name="Pin Header 01x04" data-width="10" data-height="35" class="component" id="part_43" transform="translate(2527.5,2085) scale(1,1) rotate(90,5,17.5)"><rect class="helper-box" x="2.5" y="2.5" width="5" height="27.5" fill="none"/>
+ <g>
+  <polygon points="7.5 3.75 7.5 28.75 6.25 30 3.75 30 2.5 28.75 2.5 3.75 3.75 2.5 6.25 2.5" fill="#2d3142"/>
+  <g fill="#fbdd71">
+   <rect x="4" y="4" width="2" height="2"/>
+   <rect x="4" y="11.5" width="2" height="2"/>
+   <rect x="4" y="19" width="2" height="2"/>
+   <rect x="4" y="26.5" width="2" height="2"/>
+  </g>
+ </g>
+ <g fill="#fbdd71">
+  <circle class="connection_point" cx="5" cy="5" r="1" data-pin-name="pin1"/>
+  <circle class="connection_point" cx="5" cy="12.5" r="1" data-pin-name="pin2"/>
+  <circle class="connection_point" cx="5" cy="20" r="1" data-pin-name="pin3"/>
+  <circle class="connection_point" cx="5" cy="27.5" r="1" data-pin-name="pin4"/>
+ </g>
+<text class="component-reference component-text moveable-text locked" font-size="4.5px" x="10" y="16.5" style="display: none;"/><text class="component-value component-text moveable-text locked" font-size="4.5px" x="10" y="21.5" style="display: none;"/></g><g data-source-id="2570c1130e6438ab4a41f008556693b3" data-source-name="Pin Header 01x04" data-width="10" data-height="35" class="component" id="part_44" transform="translate(2550,2085) scale(1,1) rotate(90,5,17.5)"><rect class="helper-box" x="2.5" y="2.5" width="5" height="27.5" fill="none"/>
+ <g>
+  <polygon points="7.5 3.75 7.5 28.75 6.25 30 3.75 30 2.5 28.75 2.5 3.75 3.75 2.5 6.25 2.5" fill="#2d3142"/>
+  <g fill="#fbdd71">
+   <rect x="4" y="4" width="2" height="2"/>
+   <rect x="4" y="11.5" width="2" height="2"/>
+   <rect x="4" y="19" width="2" height="2"/>
+   <rect x="4" y="26.5" width="2" height="2"/>
+  </g>
+ </g>
+ <g fill="#fbdd71">
+  <circle class="connection_point" cx="5" cy="5" r="1" data-pin-name="pin1"/>
+  <circle class="connection_point" cx="5" cy="12.5" r="1" data-pin-name="pin2"/>
+  <circle class="connection_point" cx="5" cy="20" r="1" data-pin-name="pin3"/>
+  <circle class="connection_point" cx="5" cy="27.5" r="1" data-pin-name="pin4"/>
+ </g>
+<text class="component-reference component-text moveable-text locked" font-size="4.5px" x="10" y="16.5" style="display: none;"/><text class="component-value component-text moveable-text locked" font-size="4.5px" x="10" y="21.5" style="display: none;"/></g><g data-source-id="2570c1130e6438ab4a41f008556693b3" data-source-name="Pin Header 01x04" data-width="10" data-height="35" class="component" id="part_45" transform="translate(2572.5,2085) scale(1,1) rotate(90,5,17.5)"><rect class="helper-box" x="2.5" y="2.5" width="5" height="27.5" fill="none"/>
+ <g>
+  <polygon points="7.5 3.75 7.5 28.75 6.25 30 3.75 30 2.5 28.75 2.5 3.75 3.75 2.5 6.25 2.5" fill="#2d3142"/>
+  <g fill="#fbdd71">
+   <rect x="4" y="4" width="2" height="2"/>
+   <rect x="4" y="11.5" width="2" height="2"/>
+   <rect x="4" y="19" width="2" height="2"/>
+   <rect x="4" y="26.5" width="2" height="2"/>
+  </g>
+ </g>
+ <g fill="#fbdd71">
+  <circle class="connection_point" cx="5" cy="5" r="1" data-pin-name="pin1"/>
+  <circle class="connection_point" cx="5" cy="12.5" r="1" data-pin-name="pin2"/>
+  <circle class="connection_point" cx="5" cy="20" r="1" data-pin-name="pin3"/>
+  <circle class="connection_point" cx="5" cy="27.5" r="1" data-pin-name="pin4"/>
+ </g>
+<text class="component-reference component-text moveable-text locked" font-size="4.5px" x="10" y="16.5" style="display: none;"/><text class="component-value component-text moveable-text locked" font-size="4.5px" x="10" y="21.5" style="display: none;"/></g><g class="wireGroup wire-color-blue" id="wireGroup_47" transform="translate(2590, 2207.5) scale(1,1) rotate(0,0,0)"><path class="wire" d="M0,0 L0,-105" id="wireGroup_47-1"/></g><g class="wireGroup wire-color-green" id="wireGroup_48" transform="translate(2582.5, 2207.5) scale(1,1) rotate(0,0,0)"><path class="wire" d="M0,0 L0,-105" id="wireGroup_48-1"/></g><g class="wireGroup wire-color-orange" id="wireGroup_49" transform="translate(2575, 2207.5) scale(1,1) rotate(0,0,0)"><path class="wire" d="M0,0 L0,-105" id="wireGroup_49-1"/></g><g class="wireGroup wire-color-yellow" id="wireGroup_50" transform="translate(2567.5, 2207.5) scale(1,1) rotate(0,0,0)"><path class="wire" d="M0,0 L0,-105" id="wireGroup_50-1"/></g><g class="wireGroup wire-color-purple" id="wireGroup_51" transform="translate(2560, 2207.5) scale(1,1) rotate(0,0,0)"><path class="wire" d="M0,0 V-95" id="wireGroup_51-1"/><path class="wire" d="M0,-95 c0,0 0,-2.5 -2.5,-2.5" id="wireGroup_51-2"/><path class="wire" d="M-2.5,-97.5 H-12.5" id="wireGroup_51-3"/><path class="wire" d="M-12.5,-97.5 c0,0 -2.5,0 -2.5,-2.5" id="wireGroup_51-4"/><path class="wire" d="M-15,-100 L-15,-105" id="wireGroup_51-5"/></g><g class="wireGroup wire-color-blue" id="wireGroup_52" transform="translate(2567.5, 2282.5) scale(1,1) rotate(0,0,0)"><path class="wire" d="M0,0 H130" id="wireGroup_52-1"/><path class="wire" d="M130,0 c0,0 2.5,0 2.5,-2.5" id="wireGroup_52-2"/><path class="wire" d="M132.5,-2.5 V-162.5" id="wireGroup_52-3"/><path class="wire" d="M132.5,-162.5 c0,0 0,-2.5 -2.5,-2.5" id="wireGroup_52-4"/><path class="wire" d="M130,-165 H-27.5" id="wireGroup_52-5"/><path class="wire" d="M-27.5,-165 c0,0 -2.5,0 -2.5,-2.5" id="wireGroup_52-6"/><path class="wire" d="M-30,-167.5 L-30,-180" id="wireGroup_52-7"/></g><g data-source-id="5686d6a521acdde6d2c3c1d607f54bee" data-source-name="Light-Emitting Diode Red" data-variant-group="LED_red" data-width="25" data-height="50" class="component" id="part_54" transform="translate(2370,2105) scale(1,1) rotate(0,12.5,25)"><rect class="helper-box" x="2.5" y="2.5" width="20" height="46" fill="none"/>
+  <path class="draggable1" d="m15 23.75 0.025 3.75 2.5 2.5v17.5" fill="none" stroke="#7b7d86" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path class="draggable2" d="m10 23.75v23.75" stroke="#7b7d86" stroke-linecap="round" stroke-width="2"/>
+  <path d="m22.5 21.5v2.25h-20v-2.25c0-0.82787 0.67213-1.5 1.5-1.5h17c0.82787 0 1.5 0.67213 1.5 1.5z" fill="#e86b59"/>
+  <path d="m20 10v10h-15v-10c0-4.1394 3.3606-7.5 7.5-7.5h2e-5c4.1394 0 7.5 3.3606 7.5 7.5z" fill="#e86b59"/>
+  <polygon points="10 10 17.5 10 17.5 15 7.5 15 7.5 11.25" fill="#cc5e4e"/>
+  <line x1="17.5" x2="17.5" y1="17.5" y2="10" fill="none" stroke="#cc5e4e" stroke-miterlimit="10" stroke-width=".75"/>
+  <line x1="7.5" x2="7.5" y1="17.5" y2="11.25" fill="none" stroke="#cc5e4e" stroke-miterlimit="10" stroke-width=".75"/>
+  <circle class="connection_point draggable" data-draggable-path="draggable1" cx="17.5" cy="47.5" r="1" fill="#7b7d86" data-pin-name="pin1"/>
+  <circle class="connection_point draggable" data-draggable-path="draggable2" cx="10" cy="47.5" r="1" fill="#7b7d86" data-pin-name="pin2"/>
+<text class="component-reference component-text moveable-text locked" font-size="4.5px" x="25" y="24" style="display: none;">D1</text><text class="component-value component-text moveable-text locked" font-size="4.5px" x="25" y="29" style="display: none;"/></g><g class="wireGroup wire-color-gray" id="wireGroup_56" transform="translate(2380, 2152.5) scale(1,1) rotate(0,0,0)"><path class="wire" d="M0,0 L0,37.5" id="wireGroup_56-1"/></g><g class="wireGroup wire-color-purple" id="wireGroup_57" transform="translate(2387.5, 2152.5) scale(1,1) rotate(0,0,0)"><path class="wire" d="M0,0 L0,70" id="wireGroup_57-1"/></g><g data-source-id="f602d742d033557ca922d3a0195c3b33" data-source-name="Resistor 1k" data-width="10" data-height="35" class="component" id="part_58" transform="translate(2397.5,2212.5) scale(1,1) rotate(90,5,17.5)"><rect class="helper-box" x="1.2499899864196777" y="1.5" width="7.500010013580322" height="32" fill="none"/>
+  <metadata>
+		<handlevalueas>resistor-bands</handlevalueas>
+	</metadata>
+	<defs>
+    <clipPath id="clippath">
+      <path d="m2.25,7.5h5.5c.55228,0,1,.44772,1,1v2.51393c0,.15525-.03615.30836-.10557.44721l-1.03886,2.07771c-.06943.13886-.10557.29197-.10557.44721v7.02786c0,.15525.03614.30836.10557.44721l1.03885,2.07771c.06943.13886.10557.29197.10557.44721v2.51393c0,.55228-.44772,1-1,1H2.24999c-.55228,0-1-.44772-1-1v-2.51393c0-.15525.03615-.30836.10557-.44721l1.03886-2.07771c.06943-.13886.10557-.29197.10557-.44721v-7.02786c0-.15525-.03614-.30836-.10557-.44721l-1.03885-2.07771c-.06943-.13886-.10557-.29197-.10557-.44721v-2.51393c0-.55228.44772-1,1-1Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <path class="draggable1" d="m5 7.5v-5" fill="none" stroke="#7b7d86" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+  <path class="draggable2" d="m5 27.5v5" fill="none" stroke="#7b7d86" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+  <path d="m2.25,7.5h5.5c.55228,0,1,.44772,1,1v2.51393c0,.15525-.03615.30836-.10557.44721l-1.03886,2.07771c-.06943.13886-.10557.29197-.10557.44721v7.02786c0,.15525.03614.30836.10557.44721l1.03885,2.07771c.06943.13886.10557.29197.10557.44721v2.51393c0,.55228-.44772,1-1,1H2.24999c-.55228,0-1-.44772-1-1v-2.51393c0-.15525.03615-.30836.10557-.44721l1.03886-2.07771c.06943-.13886.10557-.29197.10557-.44721v-7.02786c0-.15525-.03614-.30836-.10557-.44721l-1.03885-2.07771c-.06943-.13886-.10557-.29197-.10557-.44721v-2.51393c0-.55228.44772-1,1-1Z" fill="#fab66e"/>
+  <g clip-path="url(#clippath)" fill="none" stroke-miterlimit="10">
+    <line x1="8.75" x2="1.25" y1="25" y2="25" stroke="#fbdd71"/>
+    <g stroke-width="2">
+      <line class="colorband-1" x1="8.75" x2="1.25" y1="11.25" y2="11.25" stroke="#bf6030"/>
+      <line class="colorband-2" x1="8.75" x2="1.25" y1="15" y2="15" stroke="#2d3142"/>
+      <line class="colorband-3" x1="8.75" x2="1.25" y1="18.75" y2="18.75" stroke="#e86b59"/>
+    </g>
+  </g>
+  <circle class="connection_point draggable" data-draggable-path="draggable1" cx="5" cy="2.5" r="1" fill="#7b7d86" data-pin-name="pin1"/>
+  <circle class="connection_point draggable" data-draggable-path="draggable2" cx="5" cy="32.5" r="1" fill="#7b7d86" data-pin-name="pin2"/>
+<text class="component-reference component-text moveable-text locked" font-size="4.5px" x="10" y="16.5" style="display: none;">R4</text><text class="component-value component-text moveable-text locked" font-size="4.5px" x="10" y="21.5" style="display: none;">1000</text></g><g class="wireGroup wire-color-purple" id="wireGroup_59" transform="translate(2417.5, 2222.5) scale(1,1) rotate(0,0,0)"><path class="wire" d="M0,0 H47.5" id="wireGroup_59-1"/><path class="wire" d="M47.5,0 c0,0 2.5,0 2.5,-2.5" id="wireGroup_59-2"/><path class="wire" d="M50,-2.5 V-10" id="wireGroup_59-3"/><path class="wire" d="M50,-10 c0,0 0,-2.5 2.5,-2.5" id="wireGroup_59-4"/><path class="wire" d="M52.5,-12.5 H132.5" id="wireGroup_59-5"/><path class="wire" d="M132.5,-12.5 c0,0 2.5,0 2.5,2.5" id="wireGroup_59-6"/><path class="wire" d="M135,-10 V-10" id="wireGroup_59-7"/><path class="wire" d="M135,-10 c0,0 0,2.5 2.5,2.5" id="wireGroup_59-8"/><path class="wire" d="M137.5,-7.5 L142.5,-7.5" id="wireGroup_59-9"/></g><g data-source-id="2570c1130e6438ab4a41f008556693b3" data-source-name="Pin Header 01x04" data-width="10" data-height="35" class="component" id="part_60" transform="translate(2645,2340) scale(1,1) rotate(90,5,17.5)"><rect class="helper-box" x="2.5" y="2.5" width="5" height="27.5" fill="none"/>
+ <g>
+  <polygon points="7.5 3.75 7.5 28.75 6.25 30 3.75 30 2.5 28.75 2.5 3.75 3.75 2.5 6.25 2.5" fill="#2d3142"/>
+  <g fill="#fbdd71">
+   <rect x="4" y="4" width="2" height="2"/>
+   <rect x="4" y="11.5" width="2" height="2"/>
+   <rect x="4" y="19" width="2" height="2"/>
+   <rect x="4" y="26.5" width="2" height="2"/>
+  </g>
+ </g>
+ <g fill="#fbdd71">
+  <circle class="connection_point" cx="5" cy="5" r="1" data-pin-name="pin1"/>
+  <circle class="connection_point" cx="5" cy="12.5" r="1" data-pin-name="pin2"/>
+  <circle class="connection_point" cx="5" cy="20" r="1" data-pin-name="pin3"/>
+  <circle class="connection_point" cx="5" cy="27.5" r="1" data-pin-name="pin4"/>
+ </g>
+<text class="component-reference component-text moveable-text locked" font-size="4.5px" x="10" y="16.5" style="display: none;"/><text class="component-value component-text moveable-text locked" font-size="4.5px" x="10" y="21.5" style="display: none;"/></g><g data-source-id="2570c1130e6438ab4a41f008556693b3" data-source-name="Pin Header 01x04" data-width="10" data-height="35" class="component" id="part_61" transform="translate(2660,2340) scale(1,1) rotate(90,5,17.5)"><rect class="helper-box" x="2.5" y="2.5" width="5" height="27.5" fill="none"/>
+ <g>
+  <polygon points="7.5 3.75 7.5 28.75 6.25 30 3.75 30 2.5 28.75 2.5 3.75 3.75 2.5 6.25 2.5" fill="#2d3142"/>
+  <g fill="#fbdd71">
+   <rect x="4" y="4" width="2" height="2"/>
+   <rect x="4" y="11.5" width="2" height="2"/>
+   <rect x="4" y="19" width="2" height="2"/>
+   <rect x="4" y="26.5" width="2" height="2"/>
+  </g>
+ </g>
+ <g fill="#fbdd71">
+  <circle class="connection_point" cx="5" cy="5" r="1" data-pin-name="pin1"/>
+  <circle class="connection_point" cx="5" cy="12.5" r="1" data-pin-name="pin2"/>
+  <circle class="connection_point" cx="5" cy="20" r="1" data-pin-name="pin3"/>
+  <circle class="connection_point" cx="5" cy="27.5" r="1" data-pin-name="pin4"/>
+ </g>
+<text class="component-reference component-text moveable-text locked" font-size="4.5px" x="10" y="16.5" style="display: none;"/><text class="component-value component-text moveable-text locked" font-size="4.5px" x="10" y="21.5" style="display: none;"/></g><text class="moveable-text textObject" font-family="Nunito-Medium, Nunito" font-size="5px" fill="#2d3142" x="-8.188333333333503" y="-39.1555729166671" transform="translate(2642.5,2405) scale(1,1) rotate(0,0,0)" id="layout_text_62">GND</text><text class="moveable-text textObject" font-family="Nunito-Medium, Nunito" font-size="5px" fill="#2d3142" x="-0.10072916666695164" y="4.365781250000055" transform="translate(2642.183125,2368.8534375) scale(1,1) rotate(0,0,0)" id="layout_text_63">VCC</text><text class="moveable-text textObject" font-family="Nunito-Medium, Nunito" font-size="5px" fill="#2d3142" x="-14.430208333333667" y="-2.8223437500000728" transform="translate(2670.170364583333,2376.173177083333) scale(1,1) rotate(0,0,0)" id="layout_text_65">MOSI</text><text class="moveable-text textObject" font-family="Nunito-Medium, Nunito" font-size="5px" fill="#2d3142" x="1.8391145833334122" y="20.95864583333332" transform="translate(2647.5,2345) scale(1,1) rotate(0,0,0)" id="layout_text_66">MISO</text><text class="moveable-text textObject" font-family="Nunito-Medium, Nunito" font-size="8px" fill="#2d3142" x="0" y="0" transform="translate(2671.89265625,2345.1719270833332) scale(1,1) rotate(0,0,0)" id="layout_text_67"/><text class="moveable-text textObject" font-family="Nunito-Medium, Nunito" font-size="5px" fill="#2d3142" x="-6.646666666667443" y="25.632031249999727" transform="translate(2671.89265625,2340.1719270833332) scale(1,1) rotate(0,0,0)" id="layout_text_68">SCK</text><text class="moveable-text textObject" font-family="Nunito-Medium, Nunito" font-size="5px" fill="#2d3142" x="-0.8823437500000182" y="16.48322916666666" transform="translate(2674.9066666666668,2356.797395833333) scale(1,1) rotate(0,0,0)" id="layout_text_69">CS</text><g class="wireGroup wire-color-black" id="wireGroup_71" transform="translate(2670, 2357.5) scale(1,1) rotate(0,0,0)"><path class="wire" d="M0,0 V-20" id="wireGroup_71-1"/><path class="wire" d="M0,-20 c0,0 0,-2.5 2.5,-2.5" id="wireGroup_71-2"/><path class="wire" d="M2.5,-22.5 H37.5" id="wireGroup_71-3"/><path class="wire" d="M37.5,-22.5 c0,0 2.5,0 2.5,-2.5" id="wireGroup_71-4"/><path class="wire" d="M40,-25 V-142.5" id="wireGroup_71-5"/><path class="wire" d="M40,-142.5 c0,0 0,-2.5 -2.5,-2.5" id="wireGroup_71-6"/><path class="wire" d="M37.5,-145 H-55" id="wireGroup_71-7"/><path class="wire" d="M-55,-145 c0,0 -2.5,0 -2.5,2.5" id="wireGroup_71-8"/><path class="wire" d="M-57.5,-142.5 L-57.5,-142.5" id="wireGroup_71-9"/></g><g class="wireGroup wire-color-green" id="wireGroup_74" transform="translate(2677.5, 2357.5) scale(1,1) rotate(0,0,0)"><path class="wire" d="M0,0 V-15" id="wireGroup_74-1"/><path class="wire" d="M0,-15 c0,0 0,-2.5 -2.5,-2.5" id="wireGroup_74-2"/><path class="wire" d="M-2.5,-17.5 H-77.5" id="wireGroup_74-3"/><path class="wire" d="M-77.5,-17.5 c0,0 -2.5,0 -2.5,-2.5" id="wireGroup_74-4"/><path class="wire" d="M-80,-20 L-80,-67.5" id="wireGroup_74-5"/></g><g class="wireGroup wire-color-orange" id="wireGroup_75" transform="translate(2662.5, 2357.5) scale(1,1) rotate(0,0,0)"><path class="wire" d="M0,0 V-20" id="wireGroup_75-1"/><path class="wire" d="M0,-20 c0,0 0,-2.5 -2.5,-2.5" id="wireGroup_75-2"/><path class="wire" d="M-2.5,-22.5 H-55" id="wireGroup_75-3"/><path class="wire" d="M-55,-22.5 c0,0 -2.5,0 -2.5,-2.5" id="wireGroup_75-4"/><path class="wire" d="M-57.5,-25 L-57.5,-67.5" id="wireGroup_75-5"/></g><g class="wireGroup wire-color-yellow" id="wireGroup_76" transform="translate(2655, 2357.5) scale(1,1) rotate(0,0,0)"><path class="wire" d="M0,0 V-25" id="wireGroup_76-1"/><path class="wire" d="M0,-25 c0,0 0,-2.5 -2.5,-2.5" id="wireGroup_76-2"/><path class="wire" d="M-2.5,-27.5 H-40" id="wireGroup_76-3"/><path class="wire" d="M-40,-27.5 c0,0 -2.5,0 -2.5,-2.5" id="wireGroup_76-4"/><path class="wire" d="M-42.5,-30 L-42.5,-67.5" id="wireGroup_76-5"/></g><g class="wireGroup wire-color-gray" id="wireGroup_77" transform="translate(2640, 2357.5) scale(1,1) rotate(0,0,0)"><path class="wire" d="M0,0 H-62.5" id="wireGroup_77-1"/><path class="wire" d="M-62.5,0 c0,0 -2.5,0 -2.5,-2.5" id="wireGroup_77-2"/><path class="wire" d="M-65,-2.5 L-65,-42.5" id="wireGroup_77-3"/></g><g class="wireGroup wire-color-red" id="wireGroup_78" transform="translate(2647.5, 2357.5) scale(1,1) rotate(0,0,0)"><path class="wire" d="M0,0 V-5" id="wireGroup_78-1"/><path class="wire" d="M0,-5 c0,0 0,-2.5 -2.5,-2.5" id="wireGroup_78-2"/><path class="wire" d="M-2.5,-7.5 H-55" id="wireGroup_78-3"/><path class="wire" d="M-55,-7.5 c0,0 -2.5,0 -2.5,-2.5" id="wireGroup_78-4"/><path class="wire" d="M-57.5,-10 L-57.5,-50" id="wireGroup_78-5"/></g><text class="moveable-text textObject" font-family="Nunito-Medium, Nunito" font-size="8px" fill="#2d3142" x="2.2741145833333576" y="1.9969270833330484" transform="translate(2638.4171875, 2387.7113020833335) scale(1,1) rotate(0,0,0)" id="layout_text_79">SD Reader</text><text class="moveable-text textObject" font-family="Nunito-Medium, Nunito" font-size="5px" fill="#2d3142" x="13.889687500000036" y="9.259791666666843" transform="translate(2515,2115) scale(1,1) rotate(0,0,0)" id="layout_text_80">RDDATA</text><text class="moveable-text textObject" font-family="Nunito-Medium, Nunito" font-size="5px" fill="#2d3142" x="-20.34479166666688" y="-57.475572916666806" transform="translate(2605.33125, 2150.4090625) scale(1,1) rotate(0,0,0)" id="layout_text_81">PH0</text><g class="wireGroup wire-color-gray" id="wireGroup_82" transform="translate(2620, 2190) scale(1,1) rotate(0,0,0)"><path class="wire" d="M0,0 H5" id="wireGroup_82-1"/><path class="wire" d="M5,0 c0,0 2.5,0 2.5,-2.5" id="wireGroup_82-2"/><path class="wire" d="M7.5,-2.5 V-117.5" id="wireGroup_82-3"/><path class="wire" d="M7.5,-117.5 c0,0 0,-2.5 -2.5,-2.5" id="wireGroup_82-4"/><path class="wire" d="M5,-120 H-27.5" id="wireGroup_82-5"/><path class="wire" d="M-27.5,-120 c0,0 -2.5,0 -2.5,2.5" id="wireGroup_82-6"/><path class="wire" d="M-30,-117.5 L-30,-105" id="wireGroup_82-7"/></g><text class="moveable-text textObject" font-family="Nunito-Medium, Nunito" font-size="5px" fill="#2d3142" x="-17.283124999999927" y="6.010000000000218" transform="translate(2579.67625, 2091.6262500000003) scale(1,1) rotate(0,0,0)" id="layout_text_83">PH3</text><text class="moveable-text textObject" font-family="Nunito-Medium, Nunito" font-size="5px" fill="#2d3142" x="0" y="0" transform="translate(2540,2097.5) scale(1,1) rotate(0,0,0)" id="layout_text_84">DR1</text><text class="moveable-text textObject" font-family="Nunito-Medium, Nunito" font-size="5px" fill="#2d3142" x="0.3487499999996544" y="3.778125000000273" transform="translate(2577.08625, 2093.8925) scale(1,1) rotate(0,0,0)" id="layout_text_85">PH1</text><text class="moveable-text textObject" font-family="Nunito-Medium, Nunito" font-size="5px" fill="#2d3142" x="0" y="0.34875000000010914" transform="translate(2570,2092.5) scale(1,1) rotate(0,0,0)" id="layout_text_86">PH2</text><text class="moveable-text textObject" font-family="Nunito-Medium, Nunito" font-size="5px" fill="#2d3142" x="26.574999999999818" y="-4.982812499999909" transform="translate(2576.1173437499997, 2072.799375) scale(1,1) rotate(0,0,0)" id="layout_text_87">GND</text><text class="moveable-text textObject" font-family="Nunito-Medium, Nunito" font-size="8px" fill="#2d3142" x="5.45442708333394" y="-4.711197916666606" transform="translate(2506.0655208333333, 2061.7052083333333) scale(1,1) rotate(0,0,0)" id="layout_text_88">J8 Internal Disk Connector</text><text class="moveable-text textObject" font-family="Nunito-Medium, Nunito" font-size="5px" fill="#2d3142" x="2.0016666666665515" y="0.05890625000029104" transform="translate(2592.5,2080) scale(1,1) rotate(0,0,0)" id="layout_text_89">1</text><text class="moveable-text textObject" font-family="Nunito-Medium, Nunito" font-size="5px" fill="#2d3142" x="-0.6099479166664423" y="2.7485937500005093" transform="translate(2595,2107.5) scale(1,1) rotate(0,0,0)" id="layout_text_90">2</text><text class="moveable-text textObject" font-family="Nunito-Medium, Nunito" font-size="5px" fill="#2d3142" x="-0.7936979166670426" y="1.2472395833333394" transform="translate(2517.876927083333, 2078.754270833333) scale(1,1) rotate(0,0,0)" id="layout_text_91">19</text><text class="moveable-text textObject" font-family="Nunito-Medium, Nunito" font-size="5px" fill="#2d3142" x="-0.45354166666675155" y="0" transform="translate(2517.5,2110) scale(1,1) rotate(0,0,0)" id="layout_text_92">20</text></g><g transform="translate(187.5, 369.333251953125)" opacity="0.35">
+ <g transform="translate(-2.5 -2.5)">
+  <g transform="matrix(.5 0 0 .5 68.316 2.5)">
+   <path d="m-125.48 22q-0.38133 0-0.58933-0.19067-0.19067-0.208-0.19067-0.58933v-10.66q0-0.38133 0.19067-0.572 0.208-0.208 0.58933-0.208h3.3453q2.964 0 4.576 1.56 1.612 1.56 1.612 4.5413 0 1.4907-0.41599 2.6347-0.39867 1.1267-1.196 1.9067-0.79733 0.78-1.9413 1.1787t-2.6347 0.39867zm0.64133-1.2133h2.6q1.2133 0 2.0973-0.312 0.90133-0.312 1.4907-0.91866 0.60667-0.60667 0.90133-1.5253 0.29467-0.936 0.29467-2.1493 0-2.444-1.196-3.6573-1.196-1.2307-3.588-1.2307h-2.6zm15.045 1.3693q-1.3347 0-2.3053-0.52-0.95333-0.53733-1.4907-1.508-0.52-0.97066-0.52-2.3227 0-1.3173 0.52-2.288 0.52-0.988 1.4213-1.5427 0.91867-0.55466 2.1147-0.55466 0.84933 0 1.5253 0.29467 0.676 0.27733 1.144 0.81466 0.48534 0.53733 0.728 1.3 0.26 0.76267 0.26 1.716 0 0.27733-0.156 0.416-0.156 0.12133-0.45066 0.12133h-6.032v-0.91866h5.7026l-0.27733 0.22533q0-0.936-0.27733-1.5773-0.27733-0.65866-0.81467-1.0053-0.51999-0.34667-1.3173-0.34667-0.88399 0-1.508 0.416-0.60667 0.39867-0.91867 1.1267-0.312 0.71067-0.312 1.664v0.104q0 1.5947 0.76267 2.4267 0.78 0.832 2.2013 0.832 0.58933 0 1.1613-0.156 0.58933-0.156 1.144-0.52 0.24266-0.156 0.43333-0.13867 0.208 0 0.32933 0.12133 0.12133 0.104 0.156 0.27733 0.052 0.156-0.0347 0.34667-0.0693 0.19067-0.29466 0.32933-0.572 0.416-1.352 0.64133t-1.5427 0.22533zm8.268 0q-0.78 0-1.5773-0.19067-0.78-0.19067-1.456-0.65866-0.17334-0.12133-0.24267-0.27733-0.0693-0.17333-0.052-0.32933 0.0347-0.17333 0.13867-0.29467 0.12133-0.12133 0.27733-0.13867 0.17333-0.03467 0.38133 0.06933 0.676 0.416 1.3 0.58933 0.64133 0.156 1.2653 0.156 0.988 0 1.4907-0.364 0.50267-0.364 0.50267-0.988 0-0.48533-0.32933-0.76266-0.32934-0.29467-1.04-0.45067l-1.5773-0.34667q-1.092-0.22533-1.6293-0.78-0.52-0.55466-0.52-1.4387 0-0.78 0.39866-1.3347 0.416-0.572 1.1613-0.884 0.74533-0.312 1.7333-0.312 0.76266 0 1.4387 0.208 0.69333 0.19067 1.248 0.624 0.17333 0.12133 0.22533 0.29467 0.06933 0.156 0.01733 0.32933-0.03467 0.156-0.156 0.27733-0.12133 0.104-0.29467 0.12133-0.17333 0.01733-0.364-0.104-0.52-0.34667-1.0573-0.50267-0.53734-0.17333-1.0573-0.17333-0.97067 0-1.4733 0.38133-0.50266 0.38133-0.50266 1.0053 0 0.48533 0.312 0.79733t0.97066 0.45067l1.5773 0.32933q1.1267 0.24267 1.6813 0.78 0.572 0.52 0.572 1.4213 0 1.144-0.91866 1.82-0.91867 0.676-2.444 0.676zm6.188-0.06933q-0.34667 0-0.52-0.19067-0.17333-0.208-0.17333-0.572v-7.0893q0-0.364 0.17333-0.55467t0.52-0.19067q0.32933 0 0.52 0.19067t0.19067 0.55467v7.0893q0 0.364-0.19067 0.572-0.17333 0.19067-0.52 0.19067zm0-10.539q-0.43333 0-0.676-0.22533-0.24267-0.24267-0.24267-0.64133 0-0.416 0.24267-0.624 0.24267-0.22533 0.676-0.22533 0.45067 0 0.676 0.22533 0.24267 0.208 0.24267 0.624 0 0.39867-0.24267 0.64133-0.22533 0.22533-0.676 0.22533zm7.0547 13.728q-0.91866 0-1.8027-0.22533-0.86666-0.208-1.5773-0.676-0.208-0.12133-0.27733-0.29467-0.052-0.17333-0.01733-0.34667 0.03467-0.156 0.156-0.29467 0.12133-0.12133 0.27733-0.156 0.17333-0.03467 0.34667 0.052 0.76266 0.468 1.456 0.64133t1.3693 0.17333q1.2307 0 1.8547-0.65866 0.64133-0.65867 0.64133-1.9067v-1.9587h0.17333q-0.26 1.0053-1.1093 1.5947-0.832 0.58933-1.9587 0.58933-1.1613 0-2.0107-0.52-0.84933-0.53733-1.3173-1.4907-0.45067-0.95333-0.45067-2.2013 0-0.936 0.26-1.6987 0.26-0.78 0.74533-1.3173 0.50267-0.55467 1.196-0.84933 0.71066-0.312 1.5773-0.312 1.144 0 1.976 0.58933 0.832 0.572 1.0747 1.56l-0.17333 0.208v-1.612q0-0.34667 0.17333-0.52 0.19067-0.19067 0.52-0.19067 0.34667 0 0.52 0.19067 0.17333 0.17333 0.17333 0.52v7.228q0 1.924-0.97066 2.8947-0.95333 0.988-2.8253 0.988zm-0.208-4.6107q0.81466 0 1.404-0.364 0.58933-0.38133 0.90133-1.0747 0.32933-0.69333 0.32933-1.6293 0-1.404-0.71066-2.2187-0.71066-0.832-1.924-0.832-0.79733 0-1.3867 0.38133-0.58933 0.364-0.91866 1.0573-0.312 0.676-0.312 1.612 0 1.404 0.71067 2.236 0.71066 0.832 1.9067 0.832zm7.332 1.456q-0.34667 0-0.52-0.19067t-0.17333-0.53733v-7.228q0-0.34667 0.17333-0.52 0.17333-0.19067 0.50266-0.19067 0.32933 0 0.50267 0.19067 0.19067 0.17333 0.19067 0.52v1.4907l-0.19067-0.208q0.364-1.0053 1.1787-1.508 0.832-0.52 1.9067-0.52 1.0053 0 1.664 0.364 0.676 0.364 1.0053 1.1093 0.32933 0.728 0.32933 1.8547v4.6453q0 0.34667-0.19067 0.53733-0.17333 0.19067-0.50267 0.19067-0.34667 0-0.53733-0.19067-0.17333-0.19067-0.17333-0.53733v-4.5587q0-1.1787-0.468-1.716-0.45067-0.55467-1.456-0.55467-1.1613 0-1.8547 0.728-0.676 0.71066-0.676 1.9067v4.1947q0 0.728-0.71066 0.728zm12.948 0.03467q-1.3347 0-2.3053-0.52-0.95333-0.53733-1.4907-1.508-0.52-0.97066-0.52-2.3227 0-1.3173 0.52-2.288 0.52-0.988 1.4213-1.5427 0.91866-0.55466 2.1147-0.55466 0.84933 0 1.5253 0.29467 0.676 0.27733 1.144 0.81466 0.48533 0.53733 0.728 1.3 0.26 0.76267 0.26 1.716 0 0.27733-0.156 0.416-0.156 0.12133-0.45067 0.12133h-6.032v-0.91866h5.7027l-0.27733 0.22533q0-0.936-0.27733-1.5773-0.27733-0.65866-0.81466-1.0053-0.52-0.34667-1.3173-0.34667-0.884 0-1.508 0.416-0.60667 0.39867-0.91866 1.1267-0.312 0.71067-0.312 1.664v0.104q0 1.5947 0.76266 2.4267 0.78 0.832 2.2013 0.832 0.58933 0 1.1613-0.156 0.58933-0.156 1.144-0.52 0.24267-0.156 0.43333-0.13867 0.208 0 0.32933 0.12133 0.12133 0.104 0.156 0.27733 0.052 0.156-0.03467 0.34667-0.06933 0.19067-0.29467 0.32933-0.572 0.416-1.352 0.64133-0.78 0.22533-1.5427 0.22533zm8.632 0q-1.1267 0-1.976-0.53733-0.832-0.53733-1.3-1.508-0.45067-0.988-0.45067-2.3227 0-1.352 0.45067-2.3227 0.468-0.988 1.3-1.508 0.84933-0.53733 1.976-0.53733 1.144 0 1.9587 0.572 0.81466 0.572 1.092 1.5427h-0.19067v-5.1653q0-0.34667 0.17333-0.52 0.19067-0.19067 0.53733-0.19067 0.32933 0 0.50267 0.19067 0.19067 0.17333 0.19067 0.52v11.024q0 0.34667-0.17333 0.53733t-0.52 0.19067q-0.32933 0-0.52-0.19067-0.17333-0.19067-0.17333-0.53733v-1.6467l0.19067 0.24267q-0.27733 0.988-1.1093 1.5773-0.81466 0.58933-1.9587 0.58933zm0.29467-1.1267q0.78 0 1.3693-0.38133 0.58933-0.38133 0.90133-1.1093 0.32933-0.728 0.32933-1.7507 0-1.5773-0.71066-2.4093-0.69333-0.832-1.8893-0.832-0.79733 0-1.3867 0.38133-0.572 0.364-0.90133 1.092-0.312 0.71066-0.312 1.768 0 1.56 0.71067 2.4093 0.71066 0.832 1.8893 0.832zm15.184 1.092q-0.312 0-0.50267-0.156-0.19067-0.17333-0.312-0.50266l-3.8307-10.937q-0.12133-0.364 0.052-0.60667 0.19067-0.26 0.58933-0.26 0.29467 0 0.468 0.156 0.17333 0.13867 0.29467 0.45067l3.588 10.521h-0.60666l3.6573-10.469q0.12133-0.32933 0.29467-0.48533 0.17333-0.17333 0.468-0.17333 0.27733 0 0.43333 0.17333 0.17333 0.156 0.29467 0.48533l3.6053 10.469h-0.53733l3.6227-10.521q0.08667-0.29467 0.26-0.45067 0.19067-0.156 0.48533-0.156 0.364 0 0.53733 0.24267 0.17333 0.24267 0.03467 0.624l-3.848 10.937q-0.12133 0.32933-0.312 0.50266-0.17333 0.156-0.50267 0.156-0.312 0-0.50266-0.156-0.17333-0.17333-0.312-0.50266l-3.484-10.036h0.38133l-3.5187 10.036q-0.12133 0.32933-0.29467 0.50266-0.17333 0.156-0.50267 0.156zm16.077-0.03467q-0.34667 0-0.52-0.19067-0.17333-0.208-0.17333-0.572v-7.0893q0-0.364 0.17333-0.55467t0.52-0.19067q0.32933 0 0.52 0.19067t0.19067 0.55467v7.0893q0 0.364-0.19067 0.572-0.17333 0.19067-0.52 0.19067zm0-10.539q-0.43333 0-0.676-0.22533-0.24267-0.24267-0.24267-0.64133 0-0.416 0.24267-0.624 0.24267-0.22533 0.676-0.22533 0.45067 0 0.676 0.22533 0.24267 0.208 0.24267 0.624 0 0.39867-0.24267 0.64133-0.22533 0.22533-0.676 0.22533zm6.708 10.608q-0.988 0-1.664-0.34667-0.65866-0.364-0.988-1.04-0.32933-0.69333-0.32933-1.6813v-4.42h-1.1613q-0.29467 0-0.45067-0.13867-0.156-0.156-0.156-0.416 0-0.26 0.156-0.39867 0.156-0.13867 0.45067-0.13867h1.1613v-1.9933q0-0.34667 0.19067-0.52 0.19067-0.19067 0.52-0.19067t0.50267 0.19067q0.19067 0.17333 0.19067 0.52v1.9933h2.184q0.29467 0 0.45066 0.13867 0.156 0.13867 0.156 0.39867 0 0.26-0.156 0.416-0.156 0.13867-0.45066 0.13867h-2.184v4.2813q0 0.988 0.416 1.508 0.416 0.50267 1.352 0.50267 0.32933 0 0.55467-0.06933 0.24267-0.06933 0.39867-0.06933 0.156-0.01733 0.26 0.104 0.104 0.12133 0.104 0.416 0 0.208-0.08667 0.38133-0.06933 0.17333-0.26 0.24267-0.208 0.06933-0.55466 0.12133-0.32933 0.06933-0.60667 0.06933zm3.4859-0.03467q-0.34667 0-0.52-0.19067t-0.17333-0.53733v-11.024q0-0.34667 0.17333-0.52 0.17333-0.19067 0.52-0.19067 0.32933 0 0.52 0.19067 0.19067 0.17333 0.19067 0.52v5.0787h-0.22533q0.364-1.0053 1.1787-1.508 0.832-0.52 1.9067-0.52 1.0053 0 1.664 0.364 0.676 0.364 1.0053 1.1093 0.32933 0.728 0.32933 1.8547v4.6453q0 0.34667-0.19067 0.53733-0.17333 0.19067-0.50267 0.19067-0.34667 0-0.53733-0.19067-0.17333-0.19067-0.17333-0.53733v-4.5587q0-1.1787-0.468-1.716-0.45067-0.55467-1.456-0.55467-1.1613 0-1.8547 0.728-0.676 0.71066-0.676 1.9067v4.1947q0 0.728-0.71066 0.728z" fill="#2d3142" aria-label="Designed With"/>
+   <path d="m16 3.2c-7.0692 0-12.8 5.7308-12.8 12.8 0 7.0692 5.7308 12.8 12.8 12.8 0.8837 0 1.6 0.7163 1.6 1.6 0 0.8836-0.7163 1.6-1.6 1.6-8.8366 0-16-7.1635-16-16 0-8.8366 7.1634-16 16-16 0.8837 0 1.6 0.71634 1.6 1.6 0 0.88366-0.7163 1.6-1.6 1.6z" clip-rule="evenodd" fill="#f7a541" fill-rule="evenodd"/>
+   <path d="m19.121 31.696c-1.0106 0.1999-2.0543 0.3045-3.1208 0.3045-0.8837 0-1.6-0.7163-1.6-1.6s0.7163-1.6 1.6-1.6c0.8569 0 1.6926-0.084 2.4998-0.2437 0.8669-0.1715 1.7086 0.3922 1.8801 1.2591s-0.3922 1.7086-1.2591 1.8801zm3.5505-2.8308c-0.4916-0.7343-0.2948-1.7281 0.4395-2.2197 1.3965-0.935 2.5992-2.1377 3.5342-3.5342 0.4916-0.7343 1.4854-0.9311 2.2197-0.4395 0.7342 0.4916 0.931 1.4854 0.4394 2.2197-1.1677 1.7441-2.669 3.2454-4.4131 4.4131-0.7343 0.4916-1.7281 0.2948-2.2197-0.4394zm7.1441-8.4848c-0.8669-0.1715-1.4306-1.0132-1.2591-1.8801 0.1597-0.8072 0.2437-1.6429 0.2437-2.4998s-0.084-1.6926-0.2437-2.4998c-0.1715-0.8669 0.3922-1.7086 1.2591-1.8801s1.7086 0.3922 1.8801 1.2591c0.1999 1.0106 0.3045 2.0543 0.3045 3.1208s-0.1046 2.1102-0.3045 3.1208c-0.1715 0.8669-1.0132 1.4306-1.8801 1.2591zm-0.9507-11.051c-0.7343 0.4916-1.7281 0.29485-2.2197-0.43944-0.935-1.3966-2.1377-2.5993-3.5342-3.5342-0.7343-0.49159-0.9311-1.4854-0.4395-2.2196 0.4916-0.7343 1.4854-0.93104 2.2197-0.43944 1.7441 1.1677 3.2454 2.669 4.4131 4.4131 0.4916 0.73429 0.2948 1.7281-0.4394 2.2197zm-8.4848-7.1441c-0.1715 0.86685-1.0132 1.4306-1.8801 1.2591-0.8072-0.1597-1.6429-0.24367-2.4998-0.24367-0.8836 0-1.6-0.71635-1.6-1.6 0-0.88366 0.7164-1.6 1.6-1.6 1.0665 9.324e-8 2.1102 0.10457 3.1208 0.30451 0.8669 0.17149 1.4306 1.0132 1.2591 1.8801z" clip-rule="evenodd" fill="#f7a541" fill-rule="evenodd"/>
+   <path d="m16.361 10.4c-3.3665 0-5.9606 2.5799-5.9606 5.5999 0 3.0201 2.5941 5.6 5.9606 5.6 1.6932 0 3.207-0.6609 4.2845-1.7076 0.6339-0.6157 1.6468-0.601 2.2625 0.0328 0.6158 0.6338 0.6011 1.6468-0.0327 2.2625-1.6669 1.6192-3.9775 2.6123-6.5143 2.6123-4.9847 0-9.1606-3.8671-9.1606-8.8 0-4.9328 4.1759-8.8 9.1606-8.8 2.5368 0 4.8474 0.99313 6.5143 2.6124 0.6338 0.6157 0.6485 1.6287 0.0327 2.2625-0.6157 0.6338-1.6286 0.6485-2.2625 0.0328-1.0775-1.0467-2.5913-1.7076-4.2845-1.7076z" clip-rule="evenodd" fill="#f7a541" fill-rule="evenodd"/>
+   <path d="m49.551 23c-3.6394 0-6.5509-2.7762-6.5509-6.8414 0-4.0651 2.9115-6.8413 6.5509-6.8413 1.9921 0 3.4096 0.77342 4.4439 1.9433 0.1533 0.1587 0.2299 0.3966 0.2299 0.6346 0 0.5156-0.4023 0.932-0.9003 0.932-0.2873 0-0.5363-0.119-0.6896-0.3173-0.747-0.8725-1.8388-1.4277-3.0839-1.4277-2.5859 0-4.578 2.1019-4.578 5.0764 0 2.9547 1.9921 5.0765 4.578 5.0765 1.2451 0 2.3369-0.5552 3.1031-1.4277 0.1532-0.1983 0.3831-0.3173 0.6704-0.3173 0.498 0 0.9003 0.4164 0.9003 0.932 0 0.238-0.0766 0.4759-0.2299 0.6346-1.0535 1.1699-2.4518 1.9433-4.4439 1.9433z" fill="#2d3142"/>
+   <path d="m57.192 11.28c-0.5938 0-1.111-0.5156-1.111-1.1502 0-0.63455 0.5172-1.1303 1.111-1.1303 0.613 0 1.111 0.49575 1.111 1.1303 0 0.6346-0.498 1.1502-1.111 1.1502zm0 11.581c-0.4597 0-0.8428-0.3966-0.8428-0.8924v-7.9915c0-0.4957 0.3831-0.8923 0.862-0.8923 0.4597 0 0.8619 0.3966 0.8619 0.8923v7.9915c0 0.4958-0.4022 0.8924-0.8811 0.8924z" fill="#2d3142"/>
+   <path d="m64.957 13.026c0.4981 0 0.7279 0.3966 0.7279 0.8527 0 0.4164-0.3065 0.7734-0.9003 0.8527-0.7662 0.0793-1.8388 0.6544-2.2411 1.3682v5.8697c0 0.4958-0.4022 0.8924-0.8619 0.8924-0.4789 0-0.862-0.3966-0.862-0.8924v-7.9915c0-0.4957 0.3831-0.8923 0.8428-0.8923 0.4789 0 0.8811 0.3966 0.8811 0.8923v0.6743c0.5172-0.7139 1.2451-1.3088 1.9155-1.527 0.2107-0.0594 0.3448-0.0991 0.498-0.0991z" fill="#2d3142"/>
+   <path d="m66.717 17.963c0-2.8754 1.9154-5.017 4.712-5.017 1.3217 0 2.2411 0.4362 2.9499 1.1105 0.1532 0.1388 0.2681 0.3767 0.2681 0.5949 0 0.456-0.3447 0.813-0.7662 0.813-0.2107 0-0.383-0.0793-0.5171-0.1983-0.5364-0.5156-1.1302-0.7337-1.858-0.7337-1.8197 0-2.9882 1.4476-2.9882 3.4306s1.1685 3.4504 2.9882 3.4504c0.7278 0 1.3216-0.2181 1.858-0.7337 0.1149-0.119 0.3064-0.1983 0.498-0.1983 0.4405 0 0.7853 0.3569 0.7853 0.7932 0 0.2379-0.1149 0.4759-0.2681 0.6147-0.7088 0.6742-1.6282 1.1105-2.9499 1.1105-2.7966 0-4.712-2.1615-4.712-5.0368z" fill="#2d3142"/>
+   <path d="m83.882 13.085c0.4789 0 0.8811 0.3966 0.8811 0.8923v7.9915c0 0.4958-0.4022 0.8924-0.8619 0.8924-0.4789 0-0.862-0.3966-0.862-0.8924v-0.5155c-0.6896 0.7932-1.858 1.5467-3.2946 1.5467-1.9729 0-2.9498-1.0312-2.9498-3.0538v-5.9689c0-0.4957 0.3831-0.8923 0.8619-0.8923 0.4597 0 0.862 0.3966 0.862 0.8923v5.374c0 1.5864 0.7662 2.0623 1.9538 2.0623 1.0726 0 2.0495-0.6346 2.5667-1.3484v-6.0879c0-0.4957 0.3831-0.8923 0.8428-0.8923z" fill="#2d3142"/>
+   <path d="m88.337 11.28c-0.5938 0-1.111-0.5156-1.111-1.1502 0-0.63455 0.5172-1.1303 1.111-1.1303 0.6129 0 1.111 0.49575 1.111 1.1303 0 0.6346-0.4981 1.1502-1.111 1.1502zm0 11.581c-0.4597 0-0.8428-0.3966-0.8428-0.8924v-7.9915c0-0.4957 0.3831-0.8923 0.8619-0.8923 0.4598 0 0.862 0.3966 0.862 0.8923v7.9915c0 0.4958-0.4022 0.8924-0.8811 0.8924z" fill="#2d3142"/>
+   <path d="m95.547 21.295c0.4406 0 0.7279 0.3173 0.7279 0.7536 0 0.3371-0.1724 0.575-0.4406 0.6742-0.3256 0.1586-0.7662 0.2776-1.3217 0.2776-1.4557 0-2.2027-0.8527-2.2027-2.3598v-5.8895h-0.8812c-0.4022 0-0.7661-0.3569-0.7661-0.7932 0-0.4164 0.3639-0.7734 0.7661-0.7734h0.8812v-1.8243c0-0.4958 0.3831-0.8924 0.8619-0.8924 0.4597 0 0.862 0.3966 0.862 0.8924v1.8243h1.2067c0.4214 0 0.7662 0.357 0.7662 0.7734 0 0.4363-0.3448 0.7932-0.7662 0.7932h-1.2067v5.4929c0 0.6742 0.3065 1.17 0.9003 1.17 0.3256 0 0.4405-0.119 0.6129-0.119z" fill="#2d3142"/>
+   <path d="m108.81 23c-3.639 0-6.551-2.7762-6.551-6.8414 0-4.0651 2.912-6.8413 6.551-6.8413 1.992 0 3.409 0.77342 4.444 1.9433 0.153 0.1587 0.23 0.3966 0.23 0.6346 0 0.5156-0.403 0.932-0.901 0.932-0.287 0-0.536-0.119-0.689-0.3173-0.747-0.8725-1.839-1.4277-3.084-1.4277-2.586 0-4.578 2.1019-4.578 5.0764 0 2.9547 1.992 5.0765 4.578 5.0765 1.245 0 2.337-0.5552 3.103-1.4277 0.153-0.1983 0.383-0.3173 0.67-0.3173 0.498 0 0.901 0.4164 0.901 0.932 0 0.238-0.077 0.4759-0.23 0.6346-1.054 1.1699-2.452 1.9433-4.444 1.9433z" fill="#2d3142"/>
+   <path d="m119.32 12.946c2.011 0 3.716 0.9122 3.716 3.3513v5.6713c0 0.4958-0.402 0.8924-0.862 0.8924s-0.862-0.3966-0.862-0.8924v-0.2776c-0.709 0.8527-1.781 1.3088-3.026 1.3088-1.533 0-3.218-1.0708-3.218-3.1728 0-2.1813 1.666-3.1331 3.218-3.1331 1.245 0 2.317 0.4164 3.026 1.2691v-1.5864c0-1.1898-0.939-1.9037-2.26-1.9037-0.843 0-1.571 0.2578-2.28 0.8328-0.115 0.0794-0.268 0.1389-0.421 0.1389-0.383 0-0.69-0.3372-0.69-0.7338 0-0.2379 0.115-0.456 0.288-0.575 0.977-0.8131 2.088-1.1898 3.371-1.1898zm-0.383 8.8045c0.958 0 1.858-0.3768 2.375-1.0906v-1.6261c-0.517-0.7139-1.417-1.0907-2.375-1.0907-1.245 0-2.126 0.7734-2.126 1.9037s0.881 1.9037 2.126 1.9037z" fill="#2d3142"/>
+   <path d="m130.8 12.946c1.954 0 2.969 1.0708 2.969 3.0935v5.9291c0 0.4958-0.402 0.8924-0.881 0.8924-0.46 0-0.843-0.3966-0.843-0.8924v-5.3342c0-1.5864-0.785-2.102-1.973-2.102-1.073 0-2.049 0.6742-2.547 1.3881v6.0481c0 0.4958-0.403 0.8924-0.862 0.8924-0.479 0-0.862-0.3966-0.862-0.8924v-7.9915c0-0.4957 0.383-0.8923 0.842-0.8923 0.479 0 0.882 0.3966 0.882 0.8923v0.5354c0.632-0.7535 1.858-1.5665 3.275-1.5665z" fill="#2d3142"/>
+   <path d="m143.38 13.085c0.479 0 0.862 0.3966 0.862 0.8923 0 0.119-0.038 0.238-0.077 0.357l-3.045 7.6742c-0.211 0.5156-0.69 0.8527-1.226 0.8527-0.575 0-1.054-0.3371-1.245-0.8527l-3.065-7.6941c-0.038-0.0991-0.058-0.2181-0.058-0.3371 0-0.4957 0.364-0.8923 0.843-0.8923 0.345 0 0.69 0.2379 0.805 0.5552l2.701 7.0992 2.7-7.0992c0.115-0.3173 0.441-0.5552 0.805-0.5552z" fill="#2d3142"/>
+   <path d="m149.74 12.946c2.011 0 3.716 0.9122 3.716 3.3513v5.6713c0 0.4958-0.403 0.8924-0.862 0.8924-0.46 0-0.862-0.3966-0.862-0.8924v-0.2776c-0.709 0.8527-1.782 1.3088-3.027 1.3088-1.532 0-3.218-1.0708-3.218-3.1728 0-2.1813 1.667-3.1331 3.218-3.1331 1.245 0 2.318 0.4164 3.027 1.2691v-1.5864c0-1.1898-0.939-1.9037-2.261-1.9037-0.842 0-1.57 0.2578-2.279 0.8328-0.115 0.0794-0.268 0.1389-0.421 0.1389-0.384 0-0.69-0.3372-0.69-0.7338 0-0.2379 0.115-0.456 0.287-0.575 0.977-0.8131 2.088-1.1898 3.372-1.1898zm-0.384 8.8045c0.958 0 1.858-0.3768 2.376-1.0906v-1.6261c-0.518-0.7139-1.418-1.0907-2.376-1.0907-1.245 0-2.126 0.7734-2.126 1.9037s0.881 1.9037 2.126 1.9037z" fill="#2d3142"/>
+   <path d="m155.89 21.929c-0.192-0.1388-0.326-0.3768-0.326-0.6346 0-0.4362 0.326-0.7734 0.747-0.7734 0.153 0 0.306 0.0595 0.421 0.1389 0.709 0.5354 1.629 0.9121 2.605 0.9121 1.303 0 1.993-0.5552 1.993-1.3682 0-0.9519-1.054-1.2692-2.242-1.5468-1.57-0.3767-3.409-0.813-3.409-2.8753 0-1.5269 1.264-2.8357 3.524-2.8357 1.284 0 2.299 0.3966 3.084 0.9915 0.173 0.1388 0.307 0.3371 0.307 0.5949 0 0.3966-0.326 0.7337-0.709 0.7337-0.134 0-0.287-0.0595-0.383-0.1388-0.594-0.4561-1.398-0.7337-2.279-0.7337-1.169 0-1.897 0.4759-1.897 1.2493 0 0.8328 0.996 1.1104 2.146 1.3881 1.609 0.3767 3.524 0.8328 3.524 3.034 0 1.6458-1.303 2.9348-3.735 2.9348-1.284 0-2.433-0.3371-3.371-1.0708z" fill="#2d3142"/>
+  </g>
+ </g>
+</g></svg>
