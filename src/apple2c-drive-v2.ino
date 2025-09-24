@@ -17,13 +17,16 @@
 
 
 // Apple 2c connection - J8
-#define A2_PH0        14 // A0
-#define A2_PH1        15 // A1
-#define A2_PH2        16 // A2
-#define A2_PH3        17 // A3
+#define A2_PH0        14 // D14
+#define A2_PH1        15 // D15
+#define A2_PH2        16 // D16
+#define A2_PH3        17 // D17
+#define A2_DR1        18 // D18 - Low for Internal drive
+#define A2_WRDATA     19 // D19
+#define A2_WRREQ      7  // D7
 #define A2_RDDATA     6  // D6
 
-#define KEY_PIN       A6 // A5
+#define KEY_PIN       A6 // A6
 
 #define SECTOR_SIZE   416
 #define NUM_SECTORS   16
@@ -34,13 +37,13 @@
 #define KEY_CODE_DOWN   3
 
 //#define DEBUG         1
+
 #define DISPLAY_ENABLED 1
 
 
 #ifdef DISPLAY_ENABLED
 
 #include "SSD1306_minimal.h"
-
 SSD1306_Mini ssd1306;
 #endif
 
@@ -131,6 +134,11 @@ bool move_head()
 // Interrupt service routine when phases change
 ISR(PCINT1_vect)
 {
+  // We are always Drive 1. Ignore if A2_DR1 is high
+  if (digitalRead(A2_DR1) == HIGH) {
+    return;
+  }
+
   static uint8_t prev_phases = (PINC & 0x0f);
 
   uint8_t cur_phases = (PINC & 0x0f);
@@ -173,6 +181,7 @@ void setup()
   pinMode(A2_PH1, INPUT);
   pinMode(A2_PH2, INPUT);
   pinMode(A2_PH3, INPUT);
+  pinMode(A2_DR1, INPUT);
   pinMode(A2_RDDATA, OUTPUT);
 
   // antes PCICR  = B00000010;
@@ -261,6 +270,15 @@ void streamTrack()
     return;
   }
 
+  // We are always Drive 1. Ignore if A2_DR1 is high
+  if (digitalRead(A2_DR1) == HIGH) {
+    pinMode(A2_RDDATA, INPUT);
+    return;
+  }
+
+  // Re-enable RDDATA
+  pinMode(A2_RDDATA, OUTPUT);
+
   // If we are moving the track head no need to send anything
   now = millis();
   if (motor_active && ((now - last_phase_changed) < MAX_WAIT_MS)) {
@@ -291,8 +309,7 @@ void streamTrack()
 
 void readSector()
 {
-  //sdf.seekSet( uint32_t ((track_pos+3) >> 2) * NUM_SECTORS * SECTOR_SIZE + currentSector * SECTOR_SIZE);
-  sdf.seekSet(0);
+  sdf.seekSet( uint32_t ((track_pos+3) >> 2) * NUM_SECTORS * SECTOR_SIZE + currentSector * SECTOR_SIZE);
   sdf.read(&track_buffer[0], SECTOR_SIZE);
 }
 
