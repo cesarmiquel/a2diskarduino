@@ -16,9 +16,9 @@ This project allows you to hook an old Apple //c (with ROM 255 which does not ha
 
 - The project uses `.nib` files to store the disk images. They are very similar in structure to `.dsk` images but the content of each sector is nibbelized. They have 35 tracks, each track has 16 sectors and each sector occupies 416 bytes. In total the `.nib` file should be exactly `35 * 16 * 416 bytes= 232960 bytes`
 - The reason we are using `.nib` files instead of `.dsk` is because when we stream the track to the Apple //c you don't have a lot of time to nibbelize the data. It's much simpler to have all tracks in nibble format and stream the sectors one after the other.
-- Ideally I would love to use `.woz` format but unfortunately we don't have enough memory to fit the track in the Arduino and the IWM is very picky on the timing of the data. Remember the Arduino Nano only has 2k RAM for **all the code (which includes i2c, display driver, sd library and our custom code)**. For reference, a complete track in `.woz` occupies ~9000 bytes. That means we would have to read it in chunks and stream it. The problem is that the timing of each sector has to be very precise and 
+- Ideally I would love to use `.woz` format but unfortunately we don't have enough memory to fit the track in the Arduino and the IWM is very picky on the timing of the data. Remember the Arduino Nano only has 2k RAM for **all the variables used by all the code (which includes i2c, display driver, sd library and our custom code)**. For reference, a complete track in `.woz` occupies ~9000 bytes. That means we would have to read it in chunks and stream it. The problem is that the timing of each sector has to be very precise and 
 - I have some ideas to try and see if I can send `.woz` files but for now `.nib` works for what I need to do.
-- To convert `.dsk` to `.nib` files I use [this dsk2nib fork](https://github.com/Michaelangel007/dsk2nib). You can also use [AppleCommander](https://applecommander.github.io/)
+- To convert `.dsk` to `.nib` files I use [this dsk2nib utility](https://github.com/Michaelangel007/dsk2nib). You can also use [AppleCommander](https://applecommander.github.io/) as well.
 
 ## References / Acknowledgements
 
@@ -39,3 +39,7 @@ To edit: https://circuitcanvas.com/p/3vo5y2um8k7dad4r851?canvas=layout
 This is the pinout I use as reference for the Arduino Nano
 
 ![Pinout](/img/arduino-pinout.jpeg)
+
+J8 pinout of internal disk drive connector in the Apple //c:
+
+![J8 Connector for internal Disk drive](/img/j8.jpg)
