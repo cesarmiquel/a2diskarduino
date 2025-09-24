@@ -22,11 +22,11 @@
 #define A2_PH2        16 // D16
 #define A2_PH3        17 // D17
 #define A2_DR1        18 // D18 - Low for Internal drive
-#define A2_WRDATA     19 // D19
-#define A2_WRREQ      7  // D7
+#define A2_WRREQ      19 // D19
+#define A2_WRDATA     7  // D7
 #define A2_RDDATA     6  // D6
 
-#define KEY_PIN       A6 // A6
+#define KEY_PIN       A6 // A6 - ADC converter
 
 #define SECTOR_SIZE   416
 #define NUM_SECTORS   16
