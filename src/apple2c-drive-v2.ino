@@ -21,8 +21,8 @@
 #define A2_PH1        15 // D15
 #define A2_PH2        16 // D16
 #define A2_PH3        17 // D17
-#define A2_DR1        18 // D18 - Low for Internal drive
-#define A2_WRREQ      19 // D19
+#define A2_WRREQ      18 // D18
+#define A2_DR1        19 // D19 - Low for Internal drive
 #define A2_WRDATA     7  // D7
 #define A2_RDDATA     6  // D6
 
@@ -183,6 +183,7 @@ void setup()
   pinMode(A2_PH3, INPUT);
   pinMode(A2_DR1, INPUT);
   pinMode(A2_RDDATA, OUTPUT);
+  pinMode(LED_BUILTIN, OUTPUT);
 
   // antes PCICR  = B00000010;
   PCICR |= (1 << PCINT1);
@@ -273,6 +274,7 @@ void streamTrack()
   // We are always Drive 1. Ignore if A2_DR1 is high
   if (digitalRead(A2_DR1) == HIGH) {
     pinMode(A2_RDDATA, INPUT);
+    digitalWrite(LED_BUILTIN, LOW);
     return;
   }
 
@@ -292,6 +294,9 @@ void streamTrack()
 
   // Send stream.
   streamSector();
+
+  // turn on internal led
+  digitalWrite(LED_BUILTIN, HIGH);
 
   // Move head to next sector
   currentSector++;
